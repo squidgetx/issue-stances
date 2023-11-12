@@ -2,12 +2,21 @@ import argparse
 import csv
 import json
 
-style = "font-size: 12pt; font-weight: 400;"
+style = "font-size:12pt;font-weight:400;"
+HIGHLIGHT_WORDS=["affirmative action", "affirmative-action", "Affirmative action", "Affirmative-action"]
+
+def process_paragraph(text, highlight_words=HIGHLIGHT_WORDS):
+    for word in highlight_words:
+        text = text.replace(word, f"<span style=\"background-color:yellow;\">{word}</span>")
+    result = f"<p style='{style}'>{text}</p>"
+    print(result)
+    return result
+
 
 def prep_potato(text, title):
     paragraphs = text.split('\n')
-    wrapped_paragraphs = [f'<p style="{style}">{p}</p>' for p in paragraphs if p.strip()]
-    text = '\n'.join(wrapped_paragraphs)
+    wrapped_paragraphs = [process_paragraph(p) for p in paragraphs if p.strip()]
+    text = ''.join(wrapped_paragraphs)
     return f"<div><p>{title}</p>{text}</div>"
 
 def process_row(row, filename_column='textfile', title_column='title'):

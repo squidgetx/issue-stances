@@ -23,7 +23,7 @@
     "annotation_codebook_url": "",
 
     "data_files": [
-       "data_files/aa_opeds_sample_100.json"
+       "data_files/aa_opeds_sample.json"
     ],
 
     "item_properties": {
@@ -84,10 +84,10 @@
             "name": "affirmative_action_relevance",
             "description": "To what extent is the issue of affirmative action discussed in the following essay?",
             "labels": [
-               "Affirmative action is the main subject of the essay.",
-               "The essay discusses issues closely related to affirmative action.",
-               "The essay only briefly mentions affirmative action.",
-               "The essay does not mention affirmative action or related issues.",
+               "Affirmative action is the main subject.",
+               "Affirmative action is referenced while discussing related issues.",
+               "Affirmative action is only mentioned briefly.",
+               "Affirmative action is not mentioned."
             ],
 
             # If true, numbers [1-len(labels)] will be bound to each
