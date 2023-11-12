@@ -23,7 +23,7 @@
     "annotation_codebook_url": "",
 
     "data_files": [
-       "data_files/aa_opeds_sample.json"
+       "data_files/aa_opeds_sample_100.json"
     ],
 
     "item_properties": {
