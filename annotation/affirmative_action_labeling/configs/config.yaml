@@ -31,6 +31,11 @@
         "text_key": "text",
     },
 
+    #the jumping-to-id function will be disabled if "jumping_to_id_disabled" is True
+    "jumping_to_id_disabled": False,
+
+    #the navigation bar will be hidden to the annotators if "hide_navbar" is True
+    "hide_navbar": True,
 
     "user_config": {
 
@@ -44,9 +49,34 @@
         "url_argument": 'PROLIFIC_PID' # when the login type is set to 'url_direct', 'url_argument' must be setup for a direct url argument login
     },
 
+    "automatic_assignment": {
+        "on": True, #whether do automatic task assignment for annotators, default False.
+        "output_filename": 'task_assignment.json', #no need to change
+        "sampling_strategy": 'random', #currently we support random assignment or ordered assignment. Use 'random' for random assignment and 'ordered' for ordered assignment
+        "labels_per_instance": 2,  #the number of labels for each instance
+        "instance_per_annotator": 10, #the total amount of instances to be assigned to each annotator
+        "test_question_per_annotator": 0, # the number of attention test question to be inserted into the annotation queue. you must set up the test question in surveyflow to use this function
+    },
+
     # How many seconds do you want the annotators spend on each instance, after
     # that, an alert will be sent per alert_time_each_instance seconds.
     "alert_time_each_instance": 10000000,
+
+    "surveyflow": {
+        "on": true,
+        "order": [
+            "pre_annotation",
+            "post_annotation"
+        ],
+        "pre_annotation": [
+        ],
+        "post_annotation": [
+            "surveyflow/end.jsonl",
+        ],
+        "testing": [
+        ]
+    },
+
 
     "annotation_schemes": [      
         {
