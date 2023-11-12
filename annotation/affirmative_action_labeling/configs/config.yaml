@@ -39,6 +39,11 @@
       "users": [  ],
     },
 
+    "login": {
+        "type": 'url_direct', #can be 'password' or 'url_direct'
+        "url_argument": 'PROLIFIC_PID' # when the login type is set to 'url_direct', 'url_argument' must be setup for a direct url argument login
+    },
+
     # How many seconds do you want the annotators spend on each instance, after
     # that, an alert will be sent per alert_time_each_instance seconds.
     "alert_time_each_instance": 10000000,
