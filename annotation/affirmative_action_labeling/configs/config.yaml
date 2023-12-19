@@ -20,10 +20,10 @@
 
     # If annotators are using a codebook, this will be linked at the top to the
     # instance for easy access
-    "annotation_codebook_url": "",
+    "annotation_codebook_url": "https://docs.google.com/document/d/12t1J1PyJQmil5HDt6NkWeBjVuLoIriV4ZuJ1YzEZ7zE/edit?usp=sharing",
 
     "data_files": [
-       "data_files/aa_opeds_sample_20.json"
+       "data_files/aa_opeds_sample_100.json"
     ],
 
     "item_properties": {
@@ -35,7 +35,7 @@
     "jumping_to_id_disabled": False,
 
     #the navigation bar will be hidden to the annotators if "hide_navbar" is True
-    "hide_navbar": True,
+    "hide_navbar": False,
 
     "user_config": {
 
@@ -82,12 +82,12 @@
     "annotation_schemes": [      
         {
             "annotation_type": "radio",
-            "name": "affirmative_action_relevance",
+            "name": "relevance",
             "description": "To what extent is the issue of affirmative action discussed in the following essay?",
             "labels": [
-               "Affirmative action is the main subject.",
-               "Affirmative action is mentioned, but is not the main subject",
-               "Affirmative action is not mentioned."
+               "It is the main subject.",
+               "It is discussed briefly."
+               "It is not mentioned."
             ],
 
             # If true, numbers [1-len(labels)] will be bound to each
@@ -96,16 +96,19 @@
             # to bind all labels to keys.
             "sequential_key_binding": True,                        
         },       
+        
+            
         {
             "annotation_type": "radio",
-            "name": "affirmative_action_stance",
-            "description": "What is the author's attitude toward affirmative action?",
+            "name": "stance",
+            "description": "What is the text's stance toward affirmative action?",
             "labels": [
-               "Strongly against",
-               "Somewhat against", 
-               "Neutral, or not enough information",
-               "Somewhat in favor",
-               "Strongly in favor",
+               "Strongly Against",
+               "Somewhat Against ",
+               "Neutral",
+               "Somewhat In Favor",
+               "Strongly In Favor",
+               "N/A (not enough information)"
             ],
 
             # If true, numbers [1-len(labels)] will be bound to each
@@ -113,7 +116,7 @@
             # simple keybinding and will need to use the full item specification
             # to bind all labels to keys.
             "sequential_key_binding": True,                        
-        },       
+        },      
     ],
 
     # The html that changes the visualiztation for your task. Change this file
