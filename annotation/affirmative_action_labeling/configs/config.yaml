@@ -80,42 +80,27 @@
 
 
     "annotation_schemes": [      
-        {
-            "annotation_type": "radio",
-            "name": "relevance",
-            "description": "To what extent is the issue of affirmative action discussed in the following essay?",
-            "labels": [
-               "It is the main subject.",
-               "It is discussed briefly."
-               "It is not mentioned."
-            ],
-
-            # If true, numbers [1-len(labels)] will be bound to each
-            # label. Annotations with more than 10 are not supported with this
-            # simple keybinding and will need to use the full item specification
-            # to bind all labels to keys.
-            "sequential_key_binding": True,                        
-        },       
-        
-            
+       # {
+       #     "annotation_type": "radio",
+       #     "name": "relevance",
+       #     "description": "To what extent is the issue of affirmative action discussed in the following essay?",
+       #     "labels": [
+       #        "It is the main subject.",
+       #        "It is discussed briefly."
+       #        "It is not discussed."
+       #     ],
+       # },       
+                    
         {
             "annotation_type": "radio",
             "name": "stance",
-            "description": "What is the text's stance toward affirmative action?",
+            "description": "Based on the text, what is the author's stance toward affirmative action?",
             "labels": [
-               "Strongly Against",
-               "Somewhat Against ",
+               "Against/Opposes",
+               "In Favor/Supports",
                "Neutral",
-               "Somewhat In Favor",
-               "Strongly In Favor",
-               "N/A (not enough information)"
+               "None/Not Discussed",
             ],
-
-            # If true, numbers [1-len(labels)] will be bound to each
-            # label. Annotations with more than 10 are not supported with this
-            # simple keybinding and will need to use the full item specification
-            # to bind all labels to keys.
-            "sequential_key_binding": True,                        
         },      
     ],
 
