@@ -23,7 +23,7 @@
     "annotation_codebook_url": "https://docs.google.com/document/d/12t1J1PyJQmil5HDt6NkWeBjVuLoIriV4ZuJ1YzEZ7zE/edit?usp=sharing",
 
     "data_files": [
-       "data_files/aa_opeds_sample_100.json"
+       "data_files/aa_opeds_260.json"
     ],
 
     "item_properties": {
@@ -54,7 +54,7 @@
         "output_filename": 'task_assignment.json', #no need to change
         "sampling_strategy": 'random', #currently we support random assignment or ordered assignment. Use 'random' for random assignment and 'ordered' for ordered assignment
         "labels_per_instance": 3,  #the number of labels for each instance
-        "instance_per_annotator": 9, #the total amount of instances to be assigned to each annotator
+        "instance_per_annotator": 8, #the total amount of instances to be assigned to each annotator
         "test_question_per_annotator": 1, # the number of attention test question to be inserted into the annotation queue. you must set up the test question in surveyflow to use this function
     },
 
@@ -96,10 +96,12 @@
             "name": "stance",
             "description": "Based on the text, what is the author's stance toward affirmative action?",
             "labels": [
-               "Against/Opposes",
-               "In Favor/Supports",
+               "Against/Opposes - Strong",
+               "Against/Opposes - Somewhat",
                "Neutral",
-               "None/Not Discussed",
+               "In Favor/Supports - Somewhat",
+               "In Favor/Supports - Strong",
+               "None/Not Relevant",
             ],
         },      
     ],
