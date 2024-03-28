@@ -23,7 +23,7 @@
     "annotation_codebook_url": "https://docs.google.com/document/d/12t1J1PyJQmil5HDt6NkWeBjVuLoIriV4ZuJ1YzEZ7zE/edit?usp=sharing",
 
     "data_files": [
-       "data_files/aa_opeds_260.json"
+       "data_files/aa_opeds_260.med.json"
     ],
 
     "item_properties": {
@@ -94,14 +94,14 @@
         {
             "annotation_type": "radio",
             "name": "stance",
-            "description": "Based on the text, what is the author's stance toward affirmative action?",
+            "description": "What is the text's stance toward affirmative action?",
             "labels": [
-               "Against/Opposes - Strong",
-               "Against/Opposes - Somewhat",
-               "Neutral",
-               "In Favor/Supports - Somewhat",
-               "In Favor/Supports - Strong",
-               "None/Not Relevant",
+               "Strongly Against: The primary purpose of the text is to argue against affirmative action or criticize its supporters.",
+               "Somewhat Against: The author seems against affirmative action, but acknowledges certain benefits or does not focus on it as the main subject of the text.",
+               "Neutral: The text discusses affirmative action without revealing a particular position on the issue",
+               "Somewhat In Favor: The author seems to support affirmative action, but acknowledges certain weaknesses or does not focus on it as the main subject of the text.",
+               "Strongly In Favor: The primary purpose of the text is to argue in favor of affirmative action or criticize its opponents.",
+               "Not Relevant: The text is not about affirmative action.",
             ],
         },      
     ],
