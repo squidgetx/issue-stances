@@ -20,7 +20,7 @@
 
     # If annotators are using a codebook, this will be linked at the top to the
     # instance for easy access
-    "annotation_codebook_url": "https://docs.google.com/document/d/12t1J1PyJQmil5HDt6NkWeBjVuLoIriV4ZuJ1YzEZ7zE/edit?usp=sharing",
+    "annotation_codebook_url": "https://docs.google.com/document/d/12jT3k9p7DYsJKsj0YEoGrPp0uVdPBJstLxiijFhg2u0/",
 
     "data_files": [
        "data_files/nafta_sample.json"
