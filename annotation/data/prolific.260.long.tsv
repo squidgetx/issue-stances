@@ -1,0 +1,50 @@
+filename	date	source	author	author_normalized	title	word_count	isLabeled	wc_bin
+txt/432267882.xml.txt	2002-12-21	New York Times	Frank Rich	Rich, Frank	Bonfire Of the Vanities	1478	TRUE	long
+txt/398787032.xml.txt	2000-06-07	Wall Street Journal	By Holman W. Jenkins Jr.	NA	Business World: Coke Wrestles With Race, Gets No Help From the Media	1050	TRUE	long
+txt/2530287535.xml.txt	2021-05-22	New York Times	Nicholas Kristof	Kristof, Nicholas	If Only There Were a Viral Video of Our Jim Crow Education System	1724	TRUE	long
+txt/399053714.xml.txt	2009-06-13	Wall Street Journal	Peter Berkowitz	Berkowitz, Peter	Conservatism and the University Curriculum	1004	TRUE	long
+txt/1652232593.xml.txt	2015-02-08	New York Times	Judith Shulevitz	Shulevitz, Judith	The Best Way to Address Campus Rape	1084	TRUE	long
+txt/2445858352.xml.txt	2020-09-25	New York Times	Melanye Price	Price, Melanye	Breonna Taylor Deserved Justice	1007	TRUE	long
+txt/398469346.xml.txt	1995-07-12	Wall Street Journal	Keller, Jon	Keller, Jon	A GOP star becomes 'one of them'	1289	TRUE	long
+txt/398299761.xml.txt	1992-08-05	Wall Street Journal	Bolick, Clint	Bolick, Clint	Blacks and Whites on Common Ground	1220	TRUE	long
+txt/2648708177.xml.txt	2022-04-10	Wall Street Journal (Online)	David Bernstein	Bernstein, David	Teach '1619' and '1776' U.S. History; The answer to ideological education isn't to ban the ideology but to make room for alternative views.	1076	TRUE	long
+txt/398602003.xml.txt	1997-12-11	Wall Street Journal	By Albert R. Hunt	NA	Politics &amp; People: The Race Initiative: Tough but Worth the Effort	1013	TRUE	long
+txt/398788879.xml.txt	2001-08-16	Wall Street Journal	By Lionel Shriver	NA	Stranger Than Fiction	1122	TRUE	long
+txt/2832640273.xml.txt	2023-07-03	The Washington Post (Online)	Jennifer Rubin	Rubin, Jennifer	Self-government is worth defending	1145	TRUE	long
+txt/398288078.xml.txt	1991-11-11	Wall Street Journal	Lynch, Frederick R	Lynch, Frederick R	Tales from an Oppressed Class	1516	TRUE	long
+txt/2635873593.xml.txt	2022-03-06	New York Times	Linda Greenhouse	Greenhouse, Linda	Judge Jackson Could Change the Court	2519	TRUE	long
+txt/434126284.xml.txt	2009-07-26	New York Times	Helene Cooper	Cooper, Helene	Meet The New Elite, Not Like The Old	1292	TRUE	long
+txt/398881739.xml.txt	2002-10-21	Wall Street Journal	By Russ Smith	NA	The Incredible Shrinking Kennedy	1004	TRUE	long
+txt/2424705741.xml.txt	2020-07-19	Los Angeles Times	Daniel S. Lucks	Lucks, Daniel S	Trump, true Reagan Republican; Reagan perfected the use of racist dog-whistle language	1037	TRUE	long
+txt/432317583.xml.txt	2003-02-19	New York Times	Sara Rimer	Rimer, Sara	Justifying a Liberal Arts Education in Difficult Times	1042	TRUE	long
+txt/1987023512.xml.txt	2018-01-13	New York Times (Online)	IBRAM X. KENDI	KENDI, IBRAM X	The Heartbeat of Racism Is Denial	1209	TRUE	long
+txt/432415722.xml.txt	2003-06-29	New York Times	STEVEN A. HOLMES and GREG WINTER	NA	Fixing the Race Gap in 25 Years or Less	1619	TRUE	long
+txt/1951409635.xml.txt	2017-10-17	New York Times	Bari A. Williams	Williams, Bari A	Diversity Is Not in Your Head	1661	TRUE	long
+txt/399095057.xml.txt	2008-07-07	Wall Street Journal	Dorothy Rabinowitz	Rabinowitz, Dorothy	American Politics Aren't 'Post-Racial'	1329	TRUE	long
+txt/398612922.xml.txt	1996-11-12	Wall Street Journal	Jenkins, Holman W Jr	Jenkins, Holman W Jr	Business world: If you hear the forbidden word, everybody get real stupid	1142	TRUE	long
+txt/2761519572.xml.txt	2023-01-07	New York Times (Online)	Nancy Gertner	Gertner, Nancy	What Went Unsaid in the Chief Justice’s Report on the Judiciary	1062	TRUE	long
+txt/2731647911.xml.txt	2022-11-04	New York Times	Jennifer Lee	Lee, Jennifer	Asian American Students Face Bias in More Than One Way	2372	NA	long
+txt/2462780107.xml.txt	2020-11-22	Wall Street Journal (Online)	Shelby Steele	Steele, Shelby	The Inauthenticity Behind Black Lives Matter; Insisting on the prevalence of 'systemic racism' is a way of defending a victim-focused racial identity.	1084	NA	long
+txt/2849235198.xml.txt	2023-08-12	Wall Street Journal	Steven McGuire	McGuire, Steven	Can Harvard Discriminate With Essays?	1007	NA	long
+txt/2867267437.xml.txt	2023-09-22	Los Angeles Times (Online)	Jean Guerrero	Guerrero, Jean	Guerrero: Can nonviolent activism survive America's outrage machine?	1014	NA	long
+txt/2825543553.xml.txt	2023-06-14	Los Angeles Times (Online)	Janelle Wong	Wong, Janelle	Opinion: Affirmative action isn't hurting Asian Americans. Here's why that myth survives	1062	NA	long
+txt/2215680924.xml.txt	2012-09-29	New York Times (Online)	NA	NA	The Myth of Male Decline	2015	NA	long
+txt/1460345841.xml.txt	2013-11-22	The Washington Post	Mike Wise	Wise, Mike	A wordthat should be silenced	1301	NA	long
+txt/2068946767.xml.txt	2018-07-13	Wall Street Journal (Online)	Jeffrey Rosen	Rosen, Jeffrey	What We Learn From Supreme Court Confirmation Hearings; The questioning of would-be justices isn't just political theater. It often reveals crucial differences in judicial philosophy. What will Brett Kavanaugh reveal?	2235	NA	long
+txt/2777084926.xml.txt	2023-02-16	New York Times (Online)	John McWhorter	McWhorter, John	DeSantis May Have Been Right	1591	NA	long
+txt/430509546.xml.txt	1996-03-31	New York Times	Chang-Lin Tien	Chang-Lin, Tien	A View from Berkeley	1254	NA	long
+txt/2001671805.xml.txt	2018-02-14	Los Angeles Times	CHRISTOPHER KNIGHT	Knight, Christopher	Changing how we see our presidents; The Obama portraits buck a few dusty trends by using bright colors -- and African American artists.	1261	NA	long
+txt/1690188629.xml.txt	2015-06-21	New York Times	Laura M. Holson	Holson, Laura M	Max Robinson, a Largely Forgotten Trailblazer	1249	NA	long
+txt/398616753.xml.txt	1998-10-02	Wall Street Journal	By Abigail Thernstrom	NA	A Flawed Defense of Preferences	1355	NA	long
+txt/398209305.xml.txt	1990-02-14	Wall Street Journal	Rabinowitz, Dorothy	Rabinowitz, Dorothy	Echoes of the '50s in Rooney Witch Hunt	1204	NA	long
+txt/421387522.xml.txt	1999-03-21	Los Angeles Times	John H. Bunzel	Bunzel, John H	THE NATION; DISCRIMINATION; Stanford's Hiring Quandary	1037	NA	long
+txt/2619994612.xml.txt	2022-01-17	Los Angeles Times	Kimberle Williams Crenshaw	NA	King was an early critical race theorist	2042	NA	long
+txt/432295114.xml.txt	2003-01-18	New York Times	Frank Rich	Rich, Frank	Joe Millionaire for President	1471	NA	long
+txt/421276144.xml.txt	1997-04-14	Los Angeles Times	CHRISTOPHER J. ARRIOLA	Arriola, Christopher J	PERSPECTIVE ON LATINOS; A Landmark Little Noted--Until Today; Children of Mexican heritage were segregated until a federal court order was won against Orange County schools.	1086	NA	long
+txt/2126062774.xml.txt	2018-10-28	New York Times	NA	NA	Affirmative Action: Curse or Cure?	2505	NA	long
+txt/398728087.xml.txt	2001-03-16	Wall Street Journal	By William McGurn	NA	The Real Ronnie White	1854	NA	long
+txt/2214970115.xml.txt	2013-06-09	New York Times (Online)	NA	NA	Affirmative Reaction	1306	NA	long
+txt/2814989737.xml.txt	2023-05-18	New York Times (Online)	Charles M. Blow	Blow, Charles M	Vivek Ramaswamy Is the Latest in a Line of Politically Problematic Tech Bros	1179	NA	long
+txt/421529120.xml.txt	2000-07-16	Los Angeles Times	Kenneth R. Weiss	Weiss, Kenneth R	LOS ANGELES TIMES INTERVIEW; Alex Saragoza	1892	NA	long
+txt/398722399.xml.txt	2000-08-22	Wall Street Journal	By Harry Stein	NA	Remember When Al Gore Was a Moderate?	1197	NA	long
+txt/2221341477.xml.txt	2008-10-11	New York Times (Online)	NA	NA	The Terrorist Barack Hussein Obama	1543	NA	long

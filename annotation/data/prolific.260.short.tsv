@@ -1,0 +1,36 @@
+filename	date	source	author	author_normalized	title	word_count	isLabeled	wc_bin
+txt/430898745.xml.txt	1997-12-05	New York Times	NA	NA	Talking About Race in Akron	354	TRUE	short
+txt/2065977608.xml.txt	2018-07-08	New York Times (Online)	NA	NA	A New Policy on Race in College Admissions	482	TRUE	short
+txt/427134596.xml.txt	1989-03-08	New York Times	NA	NA	Topics of The Times; Battling Bias at the F.B.I.	237	TRUE	short
+txt/418548792.xml.txt	1998-01-02	Chicago Tribune	NA	NA	COP, FIRE UNIONS LIFT DALEY'S STATURE	428	TRUE	short
+txt/1034256694.xml.txt	2012-08-19	The Washington Post (Online)	NA	NA	Base college admissions on merit. Period.	214	TRUE	short
+txt/418950637.xml.txt	1999-09-18	Chicago Tribune	NA	NA	ANOTHER JOKE FROM THE FIREFIGHTERS	330	TRUE	short
+txt/1099415355.xml.txt	2012-10-12	Wall Street Journal (Online)	Jason L. Riley	Riley, Jason L	Roberts and the Left	315	TRUE	short
+txt/398530550.xml.txt	1997-02-24	Wall Street Journal	NA	NA	Quota person	478	TRUE	short
+txt/2236625026.xml.txt	1997-11-24	New York Times (Online)	NA	NA	Settling on Affirmative Action	253	TRUE	short
+txt/420549304.xml.txt	2007-04-15	Chicago Tribune	NA	NA	Courtesy of Don Imus	446	TRUE	short
+txt/2509403436.xml.txt	2021-04-07	Wall Street Journal (Online)	Devon Westhill	Westhill, Devon	Marin County's Discriminatory 'Universal Basic Income'; Only 'mothers of color' will be eligible for payments of $1,000 a month.	480	TRUE	short
+txt/2237777942.xml.txt	1996-04-07	New York Times (Online)	NA	NA	Keep Affirmative Action	98	TRUE	short
+txt/421215181.xml.txt	1998-01-21	Los Angeles Times	NA	NA	Teeth for Anti-Bias Laws	419	TRUE	short
+txt/399091199.xml.txt	2008-11-06	Wall Street Journal	NA	NA	Obama and Preferences	410	NA	short
+txt/427898253.xml.txt	1990-12-19	New York Times	NA	NA	Fine Distinctions for the White House	270	NA	short
+txt/2236087557.xml.txt	1998-05-08	New York Times (Online)	NA	NA	S.A.T. as Democratizer	209	NA	short
+txt/432146290.xml.txt	2002-07-02	New York Times	NA	NA	J. C. Watts, Into the Sunset	298	NA	short
+txt/398788533.xml.txt	2002-03-20	Wall Street Journal	NA	NA	Comment: Theater	253	NA	short
+txt/428634706.xml.txt	1992-08-18	New York Times	NA	NA	Men, Will You Stand By Your Woman's Strike?; To Demand Our Due	243	NA	short
+txt/2238096188.xml.txt	1996-01-15	New York Times (Online)	NA	NA	Dr. King Sought Affirmative Action	139	NA	short
+txt/1519466313.xml.txt	2014-01-01	The Washington Post (Online)	NA	NA	Donald Sterling and Cliven Bundy show that the U.S. has far to go on race relations (Posted 2014-04-28 21:37:38)	483	NA	short
+txt/2236624218.xml.txt	1997-11-10	New York Times (Online)	NA	NA	Affirmative Action Rollback Exposes Inequity; No Precedent Here	72	NA	short
+txt/2237756651.xml.txt	1996-05-06	New York Times (Online)	NA	NA	Affirmative Action Is No Bar to Ambition	122	NA	short
+txt/425901451.xml.txt	1986-05-31	New York Times	NA	NA	Misguided Mischief for Ulster Investors	376	NA	short
+txt/2236068452.xml.txt	1998-05-08	New York Times (Online)	NA	NA	For Black Students, A Divided Berkeley	163	NA	short
+txt/2237812616.xml.txt	1996-04-24	New York Times (Online)	NA	NA	Don't Turn Back on Affirmative Action	131	NA	short
+txt/430696019.xml.txt	1996-11-06	New York Times	Anonymous	Anonymous	Racism at Texaco	415	NA	short
+txt/420760330.xml.txt	2008-09-07	Chicago Tribune	Mike Downey	Downey, Mike	Comic strip tackles issues	451	NA	short
+txt/374853940.xml.txt	2010-06-13	New York Times	NA	NA	Elena Kagan's White House Years	498	NA	short
+txt/2220049492.xml.txt	2019-05-05	Wall Street Journal (Online)	NA	NA	Racial Spoils in Washington State; Democrats overrule voters to impose racial and gender preferences.	497	NA	short
+txt/2237762817.xml.txt	1996-05-06	New York Times (Online)	NA	NA	Affirmative Action Is No Bar to Ambition	166	NA	short
+txt/2472665971.xml.txt	2020-12-27	New York Times Book Review	Elisabeth Egan	Egan, Elisabeth	Inside the List	437	NA	short
+txt/428012434.xml.txt	1991-03-05	New York Times	NA	NA	TOPICS OF THE TIMES; The Stealth Bill	236	NA	short
+txt/428378501.xml.txt	1992-02-25	New York Times	NA	NA	Justice Thomas's Late Hit	463	NA	short
+txt/433182604.xml.txt	2005-10-01	New York Times	NA	NA	How Not to Get the Job Done	379	NA	short

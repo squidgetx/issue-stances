@@ -1,0 +1,311 @@
+stance_label	coder_id	id	stance_numeric	relevance_label	relevance_numeric
+Against/Opposes	6074391ef6527366aa827f42	aa_opeds_sample/txt/2509403436.xml.txt	stance:::Against/Opposes		
+Neutral	6074391ef6527366aa827f42	aa_opeds_sample/txt/2730261179.xml.txt	stance:::Neutral		
+Against/Opposes	6074391ef6527366aa827f42	aa_opeds_sample/txt/2053215813.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	6074391ef6527366aa827f42	aa_opeds_sample/txt/420033919.xml.txt	stance:::In Favor/Supports		
+Neutral	6074391ef6527366aa827f42	aa_opeds_sample/txt/432876223.xml.txt	stance:::Neutral		
+Neutral	6074391ef6527366aa827f42	aa_opeds_sample/txt/399070959.xml.txt	stance:::Neutral		
+Against/Opposes	6074391ef6527366aa827f42	aa_opeds_sample/txt/2090998076.xml.txt	stance:::Against/Opposes		
+Neutral	6074391ef6527366aa827f42	test_question_neutral_testing_1	stance:::Neutral		
+Neutral	6074391ef6527366aa827f42	aa_opeds_sample/txt/2213159829.xml.txt	stance:::Neutral		
+Neutral	6074391ef6527366aa827f42	aa_opeds_sample/txt/422176235.xml.txt	stance:::Neutral		
+None/Not Discussed	6287748198aa98c765deff27	aa_opeds_sample/txt/409936292.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	6287748198aa98c765deff27	aa_opeds_sample/txt/421609713.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	6287748198aa98c765deff27	aa_opeds_sample/txt/2454579785.xml.txt	stance:::In Favor/Supports		
+Neutral	6287748198aa98c765deff27	aa_opeds_sample/txt/432991807.xml.txt	stance:::Neutral		
+None/Not Discussed	6287748198aa98c765deff27	aa_opeds_sample/txt/409060590.xml.txt	stance:::None/Not Discussed		
+Against/Opposes	6287748198aa98c765deff27	test_question_against_testing_1	stance:::Against/Opposes		
+None/Not Discussed	6287748198aa98c765deff27	aa_opeds_sample/txt/1919844871.xml.txt	stance:::None/Not Discussed		
+None/Not Discussed	6287748198aa98c765deff27	aa_opeds_sample/txt/421152514.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	6287748198aa98c765deff27	aa_opeds_sample/txt/418249271.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	6287748198aa98c765deff27	aa_opeds_sample/txt/2832643195.xml.txt	stance:::In Favor/Supports		
+Neutral	63ed99d5c3520191a0a7280e	aa_opeds_sample/txt/2053215813.xml.txt	stance:::Neutral		
+In Favor/Supports	63ed99d5c3520191a0a7280e	test_question_pro_testing_1	stance:::In Favor/Supports		
+None/Not Discussed	63ed99d5c3520191a0a7280e	aa_opeds_sample/txt/409060590.xml.txt	stance:::None/Not Discussed		
+None/Not Discussed	63ed99d5c3520191a0a7280e	aa_opeds_sample/txt/398482848.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	63ed99d5c3520191a0a7280e	aa_opeds_sample/txt/421609713.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	63ed99d5c3520191a0a7280e	aa_opeds_sample/txt/2213159829.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	63ed99d5c3520191a0a7280e	aa_opeds_sample/txt/2832643195.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	63ed99d5c3520191a0a7280e	aa_opeds_sample/txt/432415722.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	63ed99d5c3520191a0a7280e	aa_opeds_sample/txt/398288078.xml.txt	stance:::Against/Opposes		
+Neutral	63ed99d5c3520191a0a7280e	aa_opeds_sample/txt/1548604795.xml.txt	stance:::Neutral		
+Neutral	5d89c4dd68f9d60001a21500	aa_opeds_sample/txt/1372854272.xml.txt	stance:::Neutral		
+Neutral	5d89c4dd68f9d60001a21500	aa_opeds_sample/txt/420294538.xml.txt	stance:::Neutral		
+Neutral	5d89c4dd68f9d60001a21500	aa_opeds_sample/txt/424505995.xml.txt	stance:::Neutral		
+Neutral	5d89c4dd68f9d60001a21500	aa_opeds_sample/txt/410325615.xml.txt	stance:::Neutral		
+Neutral	5d89c4dd68f9d60001a21500	aa_opeds_sample/txt/421978637.xml.txt	stance:::Neutral		
+Neutral	5d89c4dd68f9d60001a21500	aa_opeds_sample/txt/398881739.xml.txt	stance:::Neutral		
+Neutral	5d89c4dd68f9d60001a21500	aa_opeds_sample/txt/419426239.xml.txt	stance:::Neutral		
+Neutral	5d89c4dd68f9d60001a21500	test_question_neutral_testing_1	stance:::Neutral		
+In Favor/Supports	5d89c4dd68f9d60001a21500	aa_opeds_sample/txt/1761271674.xml.txt	stance:::In Favor/Supports		
+Neutral	5d89c4dd68f9d60001a21500	aa_opeds_sample/txt/2230209410.xml.txt	stance:::Neutral		
+In Favor/Supports	5fdb6ef5b34a6f6b2634b566	aa_opeds_sample/txt/432317583.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	5fdb6ef5b34a6f6b2634b566	aa_opeds_sample/txt/2236765173.xml.txt	stance:::In Favor/Supports		
+Neutral	5fdb6ef5b34a6f6b2634b566	aa_opeds_sample/txt/2761519572.xml.txt	stance:::Neutral		
+In Favor/Supports	5fdb6ef5b34a6f6b2634b566	aa_opeds_sample/txt/2212953270.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	5fdb6ef5b34a6f6b2634b566	test_question_against_testing_2	stance:::In Favor/Supports		
+In Favor/Supports	5fdb6ef5b34a6f6b2634b566	aa_opeds_sample/txt/421552708.xml.txt	stance:::In Favor/Supports		
+Neutral	5fdb6ef5b34a6f6b2634b566	aa_opeds_sample/txt/2730261179.xml.txt	stance:::Neutral		
+Against/Opposes	5fdb6ef5b34a6f6b2634b566	aa_opeds_sample/txt/420294538.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	5fdb6ef5b34a6f6b2634b566	aa_opeds_sample/txt/421591042.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	5fdb6ef5b34a6f6b2634b566	aa_opeds_sample/txt/419989695.xml.txt	stance:::None/Not Discussed		
+None/Not Discussed	6574bd9b9b3c601d1c28500f	aa_opeds_sample/txt/752088707.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	6574bd9b9b3c601d1c28500f	aa_opeds_sample/txt/434126284.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	6574bd9b9b3c601d1c28500f	aa_opeds_sample/txt/2424705741.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	6574bd9b9b3c601d1c28500f	aa_opeds_sample/txt/2837300226.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	6574bd9b9b3c601d1c28500f	aa_opeds_sample/txt/1878508466.xml.txt	stance:::None/Not Discussed		
+Against/Opposes	6574bd9b9b3c601d1c28500f	aa_opeds_sample/txt/398288078.xml.txt	stance:::Against/Opposes		
+Against/Opposes	6574bd9b9b3c601d1c28500f	aa_opeds_sample/txt/2238130344.xml.txt	stance:::Against/Opposes		
+Neutral	6574bd9b9b3c601d1c28500f	aa_opeds_sample/txt/432415722.xml.txt	stance:::Neutral		
+None/Not Discussed	6574bd9b9b3c601d1c28500f	aa_opeds_sample/txt/408321836.xml.txt	stance:::None/Not Discussed		
+Neutral	6574bd9b9b3c601d1c28500f	test_question_neutral_testing_1	stance:::Neutral		
+Neutral	5c037f464c14cf00019d379f	aa_opeds_sample/txt/420549304.xml.txt	stance:::Neutral		
+Neutral	5c037f464c14cf00019d379f	aa_opeds_sample/txt/759996654.xml.txt	stance:::Neutral		
+None/Not Discussed	5c037f464c14cf00019d379f	aa_opeds_sample/txt/2234177127.xml.txt	stance:::None/Not Discussed		
+None/Not Discussed	5c037f464c14cf00019d379f	aa_opeds_sample/txt/427163446.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	5c037f464c14cf00019d379f	aa_opeds_sample/txt/2414754878.xml.txt	stance:::In Favor/Supports		
+Neutral	5c037f464c14cf00019d379f	test_question_against_testing_1	stance:::Neutral		
+In Favor/Supports	5c037f464c14cf00019d379f	aa_opeds_sample/txt/433917131.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	5c037f464c14cf00019d379f	aa_opeds_sample/txt/408366163.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	5c037f464c14cf00019d379f	aa_opeds_sample/txt/421591042.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	5c037f464c14cf00019d379f	aa_opeds_sample/txt/431879654.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	659c08d2e6e913c0e383da68	aa_opeds_sample/txt/2509403436.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	659c08d2e6e913c0e383da68	aa_opeds_sample/txt/2237777942.xml.txt	stance:::In Favor/Supports		
+Neutral	659c08d2e6e913c0e383da68	aa_opeds_sample/txt/2730261179.xml.txt	stance:::Neutral		
+In Favor/Supports	659c08d2e6e913c0e383da68	test_question_pro_testing_1	stance:::In Favor/Supports		
+None/Not Discussed	659c08d2e6e913c0e383da68	aa_opeds_sample/txt/421978637.xml.txt	stance:::None/Not Discussed		
+None/Not Discussed	659c08d2e6e913c0e383da68	aa_opeds_sample/txt/427163446.xml.txt	stance:::None/Not Discussed		
+Neutral	659c08d2e6e913c0e383da68	aa_opeds_sample/txt/420558694.xml.txt	stance:::Neutral		
+Against/Opposes	659c08d2e6e913c0e383da68	aa_opeds_sample/txt/1774364135.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	659c08d2e6e913c0e383da68	aa_opeds_sample/txt/2761519572.xml.txt	stance:::In Favor/Supports		
+Neutral	659c08d2e6e913c0e383da68	aa_opeds_sample/txt/2635873593.xml.txt	stance:::Neutral		
+Against/Opposes	60ff0fc89dd6346ad1246ef7	aa_opeds_sample/txt/398612922.xml.txt	stance:::Against/Opposes		
+Against/Opposes	60ff0fc89dd6346ad1246ef7	aa_opeds_sample/txt/399070959.xml.txt	stance:::Against/Opposes		
+Neutral	60ff0fc89dd6346ad1246ef7	aa_opeds_sample/txt/408345293.xml.txt	stance:::Neutral		
+None/Not Discussed	60ff0fc89dd6346ad1246ef7	aa_opeds_sample/txt/422316037.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	60ff0fc89dd6346ad1246ef7	aa_opeds_sample/txt/1761271674.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	60ff0fc89dd6346ad1246ef7	aa_opeds_sample/txt/398788879.xml.txt	stance:::None/Not Discussed		
+Neutral	60ff0fc89dd6346ad1246ef7	aa_opeds_sample/txt/2832643195.xml.txt	stance:::Neutral		
+Neutral	60ff0fc89dd6346ad1246ef7	aa_opeds_sample/txt/1878508466.xml.txt	stance:::Neutral		
+Neutral	60ff0fc89dd6346ad1246ef7	aa_opeds_sample/txt/430675992.xml.txt	stance:::Neutral		
+None/Not Discussed	60ff0fc89dd6346ad1246ef7	test_question_neutral_testing_1	stance:::None/Not Discussed		
+In Favor/Supports	6478e9af7d038af16d294843	aa_opeds_sample/txt/420549304.xml.txt	stance:::In Favor/Supports		
+Neutral	6478e9af7d038af16d294843	aa_opeds_sample/txt/1372854272.xml.txt	stance:::Neutral		
+None/Not Discussed	6478e9af7d038af16d294843	aa_opeds_sample/txt/1023015447.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	6478e9af7d038af16d294843	aa_opeds_sample/txt/1370789528.xml.txt	stance:::In Favor/Supports		
+Neutral	6478e9af7d038af16d294843	aa_opeds_sample/txt/2582284660.xml.txt	stance:::Neutral		
+In Favor/Supports	6478e9af7d038af16d294843	aa_opeds_sample/txt/1011079659.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	6478e9af7d038af16d294843	test_question_against_testing_1	stance:::None/Not Discussed		
+Neutral	6478e9af7d038af16d294843	aa_opeds_sample/txt/421118533.xml.txt	stance:::Neutral		
+None/Not Discussed	6478e9af7d038af16d294843	aa_opeds_sample/txt/2230209410.xml.txt	stance:::None/Not Discussed		
+Against/Opposes	6478e9af7d038af16d294843	aa_opeds_sample/txt/2154417607.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	595bee9282be5500017ad683	aa_opeds_sample/txt/2832640273.xml.txt	stance:::In Favor/Supports		
+Neutral	595bee9282be5500017ad683	aa_opeds_sample/txt/2582284660.xml.txt	stance:::Neutral		
+Neutral	595bee9282be5500017ad683	aa_opeds_sample/txt/418239486.xml.txt	stance:::Neutral		
+Neutral	595bee9282be5500017ad683	aa_opeds_sample/txt/2100741387.xml.txt	stance:::Neutral		
+In Favor/Supports	595bee9282be5500017ad683	aa_opeds_sample/txt/398955309.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	595bee9282be5500017ad683	test_question_against_testing_1	stance:::Against/Opposes		
+Neutral	595bee9282be5500017ad683	aa_opeds_sample/txt/1372854272.xml.txt	stance:::Neutral		
+In Favor/Supports	595bee9282be5500017ad683	aa_opeds_sample/txt/2565796466.xml.txt	stance:::In Favor/Supports		
+Neutral	595bee9282be5500017ad683	aa_opeds_sample/txt/1951409635.xml.txt	stance:::Neutral		
+In Favor/Supports	595bee9282be5500017ad683	aa_opeds_sample/txt/420549304.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	650b1963cf394af06984d0b9	aa_opeds_sample/txt/2236625026.xml.txt	stance:::In Favor/Supports		
+Neutral	650b1963cf394af06984d0b9	aa_opeds_sample/txt/421508307.xml.txt	stance:::Neutral		
+In Favor/Supports	650b1963cf394af06984d0b9	test_question_pro_testing_1	stance:::In Favor/Supports		
+Neutral	650b1963cf394af06984d0b9	aa_opeds_sample/txt/431493919.xml.txt	stance:::Neutral		
+Against/Opposes	650b1963cf394af06984d0b9	aa_opeds_sample/txt/419426239.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	650b1963cf394af06984d0b9	aa_opeds_sample/txt/421600586.xml.txt	stance:::In Favor/Supports		
+Neutral	650b1963cf394af06984d0b9	aa_opeds_sample/txt/419989695.xml.txt	stance:::Neutral		
+In Favor/Supports	650b1963cf394af06984d0b9	aa_opeds_sample/txt/1987023512.xml.txt	stance:::In Favor/Supports		
+Neutral	650b1963cf394af06984d0b9	aa_opeds_sample/txt/408321836.xml.txt	stance:::Neutral		
+Neutral	650b1963cf394af06984d0b9	aa_opeds_sample/txt/431879654.xml.txt	stance:::Neutral		
+Against/Opposes	62926b2bba027005e0a84475	aa_opeds_sample/txt/408345293.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	62926b2bba027005e0a84475	aa_opeds_sample/txt/2237777942.xml.txt	stance:::In Favor/Supports		
+Neutral	62926b2bba027005e0a84475	aa_opeds_sample/txt/2212953270.xml.txt	stance:::Neutral		
+Against/Opposes	62926b2bba027005e0a84475	aa_opeds_sample/txt/2582284660.xml.txt	stance:::Against/Opposes		
+Neutral	62926b2bba027005e0a84475	aa_opeds_sample/txt/398955309.xml.txt	stance:::Neutral		
+In Favor/Supports	62926b2bba027005e0a84475	aa_opeds_sample/txt/1987023512.xml.txt	stance:::In Favor/Supports		
+Neutral	62926b2bba027005e0a84475	aa_opeds_sample/txt/900173941.xml.txt	stance:::Neutral		
+Neutral	62926b2bba027005e0a84475	aa_opeds_sample/txt/1716194235.xml.txt	stance:::Neutral		
+Neutral	62926b2bba027005e0a84475	aa_opeds_sample/txt/2065768718.xml.txt	stance:::Neutral		
+Neutral	62926b2bba027005e0a84475	test_question_against_testing_3	stance:::Neutral		
+Neutral	656386041faf6ea76e9ad688	aa_opeds_sample/txt/1023015447.xml.txt	stance:::Neutral		
+Neutral	656386041faf6ea76e9ad688	aa_opeds_sample/txt/398612922.xml.txt	stance:::Neutral		
+Neutral	656386041faf6ea76e9ad688	aa_opeds_sample/txt/432317583.xml.txt	stance:::Neutral		
+Neutral	656386041faf6ea76e9ad688	aa_opeds_sample/txt/1548604795.xml.txt	stance:::Neutral		
+In Favor/Supports	656386041faf6ea76e9ad688	aa_opeds_sample/txt/420558694.xml.txt	stance:::In Favor/Supports		
+Neutral	656386041faf6ea76e9ad688	aa_opeds_sample/txt/408649107.xml.txt	stance:::Neutral		
+Neutral	656386041faf6ea76e9ad688	aa_opeds_sample/txt/2100741387.xml.txt	stance:::Neutral		
+Against/Opposes	656386041faf6ea76e9ad688	aa_opeds_sample/txt/307918907.xml.txt	stance:::Against/Opposes		
+Against/Opposes	656386041faf6ea76e9ad688	aa_opeds_sample/txt/2154417607.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	656386041faf6ea76e9ad688	test_question_pro_testing_2	stance:::In Favor/Supports		
+Against/Opposes	65a19f3684065b3606fbaa13	aa_opeds_sample/txt/408366163.xml.txt	stance:::Against/Opposes		
+Neutral	65a19f3684065b3606fbaa13	aa_opeds_sample/txt/409707034.xml.txt	stance:::Neutral		
+In Favor/Supports	65a19f3684065b3606fbaa13	aa_opeds_sample/txt/398881739.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	65a19f3684065b3606fbaa13	aa_opeds_sample/txt/419118450.xml.txt	stance:::None/Not Discussed		
+None/Not Discussed	65a19f3684065b3606fbaa13	test_question_against_testing_1	stance:::None/Not Discussed		
+Neutral	65a19f3684065b3606fbaa13	aa_opeds_sample/txt/409076441.xml.txt	stance:::Neutral		
+Neutral	65a19f3684065b3606fbaa13	aa_opeds_sample/txt/418468478.xml.txt	stance:::Neutral		
+Neutral	65a19f3684065b3606fbaa13	aa_opeds_sample/txt/2424705741.xml.txt	stance:::Neutral		
+Against/Opposes	65a19f3684065b3606fbaa13	aa_opeds_sample/txt/409718670.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	65a19f3684065b3606fbaa13	aa_opeds_sample/txt/1548604795.xml.txt	stance:::In Favor/Supports		
+Neutral	652ee4c19af20c91c9d88a65	test_question_against_testing_3	stance:::Neutral		
+Neutral	652ee4c19af20c91c9d88a65	aa_opeds_sample/txt/408366163.xml.txt	stance:::Neutral		
+Neutral	652ee4c19af20c91c9d88a65	aa_opeds_sample/txt/1919844871.xml.txt	stance:::Neutral		
+In Favor/Supports	652ee4c19af20c91c9d88a65	aa_opeds_sample/txt/1370789528.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	652ee4c19af20c91c9d88a65	aa_opeds_sample/txt/2065768718.xml.txt	stance:::None/Not Discussed		
+Neutral	652ee4c19af20c91c9d88a65	aa_opeds_sample/txt/432991807.xml.txt	stance:::Neutral		
+Neutral	652ee4c19af20c91c9d88a65	aa_opeds_sample/txt/2414754878.xml.txt	stance:::Neutral		
+In Favor/Supports	652ee4c19af20c91c9d88a65	aa_opeds_sample/txt/432317583.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	652ee4c19af20c91c9d88a65	aa_opeds_sample/txt/900173941.xml.txt	stance:::Against/Opposes		
+Neutral	652ee4c19af20c91c9d88a65	aa_opeds_sample/txt/1761271674.xml.txt	stance:::Neutral		
+None/Not Discussed	60fece35afedb0bdd821592a	aa_opeds_sample/txt/420158599.xml.txt	stance:::None/Not Discussed		
+None/Not Discussed	60fece35afedb0bdd821592a	aa_opeds_sample/txt/421978637.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	60fece35afedb0bdd821592a	aa_opeds_sample/txt/422316037.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	60fece35afedb0bdd821592a	aa_opeds_sample/txt/423943644.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	60fece35afedb0bdd821592a	aa_opeds_sample/txt/418239486.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	60fece35afedb0bdd821592a	aa_opeds_sample/txt/1951409635.xml.txt	stance:::Against/Opposes		
+None/Not Discussed	60fece35afedb0bdd821592a	aa_opeds_sample/txt/432876223.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	60fece35afedb0bdd821592a	test_question_pro_testing_2	stance:::In Favor/Supports		
+In Favor/Supports	60fece35afedb0bdd821592a	aa_opeds_sample/txt/1022742622.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	60fece35afedb0bdd821592a	aa_opeds_sample/txt/1370789528.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	64488a23553ba5078eb6cb9e	aa_opeds_sample/txt/2236625026.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	64488a23553ba5078eb6cb9e	aa_opeds_sample/txt/421508307.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	64488a23553ba5078eb6cb9e	aa_opeds_sample/txt/420733639.xml.txt	stance:::Against/Opposes		
+Neutral	64488a23553ba5078eb6cb9e	aa_opeds_sample/txt/419118450.xml.txt	stance:::Neutral		
+In Favor/Supports	64488a23553ba5078eb6cb9e	aa_opeds_sample/txt/420158599.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	64488a23553ba5078eb6cb9e	aa_opeds_sample/txt/418239486.xml.txt	stance:::In Favor/Supports		
+Neutral	64488a23553ba5078eb6cb9e	aa_opeds_sample/txt/398482848.xml.txt	stance:::Neutral		
+In Favor/Supports	64488a23553ba5078eb6cb9e	aa_opeds_sample/txt/421600586.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	64488a23553ba5078eb6cb9e	aa_opeds_sample/txt/2635873593.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	64488a23553ba5078eb6cb9e	test_question_pro_testing_2	stance:::In Favor/Supports		
+In Favor/Supports	5f330bfd7109cd0e649566b6	aa_opeds_sample/txt/2454579785.xml.txt	stance:::In Favor/Supports		
+Neutral	5f330bfd7109cd0e649566b6	aa_opeds_sample/txt/421609713.xml.txt	stance:::Neutral		
+Neutral	5f330bfd7109cd0e649566b6	aa_opeds_sample/txt/752088707.xml.txt	stance:::Neutral		
+Against/Opposes	5f330bfd7109cd0e649566b6	aa_opeds_sample/txt/2565796466.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	5f330bfd7109cd0e649566b6	test_question_pro_testing_1	stance:::In Favor/Supports		
+None/Not Discussed	5f330bfd7109cd0e649566b6	aa_opeds_sample/txt/2414754878.xml.txt	stance:::None/Not Discussed		
+Neutral	5f330bfd7109cd0e649566b6	aa_opeds_sample/txt/398482848.xml.txt	stance:::Neutral		
+Neutral	5f330bfd7109cd0e649566b6	aa_opeds_sample/txt/432415722.xml.txt	stance:::Neutral		
+Against/Opposes	5f330bfd7109cd0e649566b6	aa_opeds_sample/txt/418249271.xml.txt	stance:::Against/Opposes		
+Neutral	5f330bfd7109cd0e649566b6	aa_opeds_sample/txt/2213159829.xml.txt	stance:::Neutral		
+In Favor/Supports	5add6b6aeb60400001536f2c	aa_opeds_sample/txt/421215181.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	5add6b6aeb60400001536f2c	aa_opeds_sample/txt/409718670.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	5add6b6aeb60400001536f2c	test_question_pro_testing_1	stance:::In Favor/Supports		
+In Favor/Supports	5add6b6aeb60400001536f2c	aa_opeds_sample/txt/409076441.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	5add6b6aeb60400001536f2c	aa_opeds_sample/txt/2212953270.xml.txt	stance:::In Favor/Supports		
+Neutral	5add6b6aeb60400001536f2c	aa_opeds_sample/txt/433917131.xml.txt	stance:::Neutral		
+In Favor/Supports	5add6b6aeb60400001536f2c	aa_opeds_sample/txt/408580425.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	5add6b6aeb60400001536f2c	aa_opeds_sample/txt/432876223.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	5add6b6aeb60400001536f2c	aa_opeds_sample/txt/2417314051.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	5add6b6aeb60400001536f2c	aa_opeds_sample/txt/900173941.xml.txt	stance:::Against/Opposes		
+None/Not Discussed	6112e667b3361fc937de0e3a	aa_opeds_sample/txt/2100741387.xml.txt	stance:::None/Not Discussed		
+None/Not Discussed	6112e667b3361fc937de0e3a	test_question_against_testing_2	stance:::None/Not Discussed		
+None/Not Discussed	6112e667b3361fc937de0e3a	aa_opeds_sample/txt/432991807.xml.txt	stance:::None/Not Discussed		
+Neutral	6112e667b3361fc937de0e3a	aa_opeds_sample/txt/421591042.xml.txt	stance:::Neutral		
+In Favor/Supports	6112e667b3361fc937de0e3a	aa_opeds_sample/txt/421552708.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	6112e667b3361fc937de0e3a	aa_opeds_sample/txt/421152514.xml.txt	stance:::None/Not Discussed		
+Neutral	6112e667b3361fc937de0e3a	aa_opeds_sample/txt/434126284.xml.txt	stance:::Neutral		
+Against/Opposes	6112e667b3361fc937de0e3a	aa_opeds_sample/txt/398288078.xml.txt	stance:::Against/Opposes		
+Against/Opposes	6112e667b3361fc937de0e3a	aa_opeds_sample/txt/759996654.xml.txt	stance:::Against/Opposes		
+Neutral	6112e667b3361fc937de0e3a	aa_opeds_sample/txt/408649107.xml.txt	stance:::Neutral		
+In Favor/Supports	55524d56fdf99b0152c81fef	aa_opeds_sample/txt/1011079659.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	55524d56fdf99b0152c81fef	aa_opeds_sample/txt/431493919.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	55524d56fdf99b0152c81fef	aa_opeds_sample/txt/418468478.xml.txt	stance:::In Favor/Supports		
+Neutral	55524d56fdf99b0152c81fef	aa_opeds_sample/txt/421118533.xml.txt	stance:::Neutral		
+In Favor/Supports	55524d56fdf99b0152c81fef	aa_opeds_sample/txt/2417314051.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	55524d56fdf99b0152c81fef	test_question_against_testing_2	stance:::Against/Opposes		
+Against/Opposes	55524d56fdf99b0152c81fef	aa_opeds_sample/txt/1774364135.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	55524d56fdf99b0152c81fef	aa_opeds_sample/txt/2761519572.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	55524d56fdf99b0152c81fef	aa_opeds_sample/txt/409707034.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	55524d56fdf99b0152c81fef	aa_opeds_sample/txt/2832640273.xml.txt	stance:::In Favor/Supports		
+Neutral	6019bbb66e5c2815ba3728b6	aa_opeds_sample/txt/752088707.xml.txt	stance:::Neutral		
+Against/Opposes	6019bbb66e5c2815ba3728b6	aa_opeds_sample/txt/420733639.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	6019bbb66e5c2815ba3728b6	test_question_pro_testing_1	stance:::In Favor/Supports		
+Neutral	6019bbb66e5c2815ba3728b6	aa_opeds_sample/txt/409076441.xml.txt	stance:::Neutral		
+In Favor/Supports	6019bbb66e5c2815ba3728b6	aa_opeds_sample/txt/421215181.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	6019bbb66e5c2815ba3728b6	aa_opeds_sample/txt/2154417607.xml.txt	stance:::Against/Opposes		
+Neutral	6019bbb66e5c2815ba3728b6	aa_opeds_sample/txt/420294538.xml.txt	stance:::Neutral		
+In Favor/Supports	6019bbb66e5c2815ba3728b6	aa_opeds_sample/txt/2090998076.xml.txt	stance:::In Favor/Supports		
+Neutral	6019bbb66e5c2815ba3728b6	aa_opeds_sample/txt/409718670.xml.txt	stance:::Neutral		
+In Favor/Supports	6019bbb66e5c2815ba3728b6	aa_opeds_sample/txt/421600586.xml.txt	stance:::In Favor/Supports		
+Neutral	5e6cd7d5e1924c2888545bbb	aa_opeds_sample/txt/1022742622.xml.txt	stance:::Neutral		
+None/Not Discussed	5e6cd7d5e1924c2888545bbb	aa_opeds_sample/txt/409936292.xml.txt	stance:::None/Not Discussed		
+None/Not Discussed	5e6cd7d5e1924c2888545bbb	aa_opeds_sample/txt/424505995.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	5e6cd7d5e1924c2888545bbb	aa_opeds_sample/txt/2837300226.xml.txt	stance:::In Favor/Supports		
+Neutral	5e6cd7d5e1924c2888545bbb	test_question_neutral_testing_2	stance:::Neutral		
+Neutral	5e6cd7d5e1924c2888545bbb	aa_opeds_sample/txt/398955309.xml.txt	stance:::Neutral		
+In Favor/Supports	5e6cd7d5e1924c2888545bbb	aa_opeds_sample/txt/2090998076.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	5e6cd7d5e1924c2888545bbb	aa_opeds_sample/txt/399095057.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	5e6cd7d5e1924c2888545bbb	aa_opeds_sample/txt/2236765173.xml.txt	stance:::In Favor/Supports		
+Neutral	5e6cd7d5e1924c2888545bbb	aa_opeds_sample/txt/2065768718.xml.txt	stance:::Neutral		
+In Favor/Supports	65a59414270861aa7db6520c	aa_opeds_sample/txt/2236765173.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	65a59414270861aa7db6520c	aa_opeds_sample/txt/409707034.xml.txt	stance:::Against/Opposes		
+Against/Opposes	65a59414270861aa7db6520c	aa_opeds_sample/txt/399070959.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	65a59414270861aa7db6520c	aa_opeds_sample/txt/2837300226.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	65a59414270861aa7db6520c	aa_opeds_sample/txt/419118450.xml.txt	stance:::None/Not Discussed		
+Neutral	65a59414270861aa7db6520c	aa_opeds_sample/txt/421118533.xml.txt	stance:::Neutral		
+Neutral	65a59414270861aa7db6520c	test_question_neutral_testing_2	stance:::Neutral		
+None/Not Discussed	65a59414270861aa7db6520c	aa_opeds_sample/txt/1023015447.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	65a59414270861aa7db6520c	aa_opeds_sample/txt/1878508466.xml.txt	stance:::In Favor/Supports		
+Neutral	65a59414270861aa7db6520c	aa_opeds_sample/txt/433917131.xml.txt	stance:::Neutral		
+In Favor/Supports	6578eb199d938bc19925a731	aa_opeds_sample/txt/2454579785.xml.txt	stance:::In Favor/Supports		
+None/Not Discussed	6578eb199d938bc19925a731	aa_opeds_sample/txt/424505995.xml.txt	stance:::None/Not Discussed		
+Neutral	6578eb199d938bc19925a731	aa_opeds_sample/txt/420558694.xml.txt	stance:::Neutral		
+In Favor/Supports	6578eb199d938bc19925a731	aa_opeds_sample/txt/2635873593.xml.txt	stance:::In Favor/Supports		
+Neutral	6578eb199d938bc19925a731	test_question_neutral_testing_2	stance:::Neutral		
+Neutral	6578eb199d938bc19925a731	aa_opeds_sample/txt/2234177127.xml.txt	stance:::Neutral		
+In Favor/Supports	6578eb199d938bc19925a731	aa_opeds_sample/txt/434126284.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	6578eb199d938bc19925a731	aa_opeds_sample/txt/759996654.xml.txt	stance:::Against/Opposes		
+Neutral	6578eb199d938bc19925a731	aa_opeds_sample/txt/399095057.xml.txt	stance:::Neutral		
+None/Not Discussed	6578eb199d938bc19925a731	aa_opeds_sample/txt/419989695.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	5a9ac3061eda410001366658	aa_opeds_sample/txt/2237777942.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	5a9ac3061eda410001366658	aa_opeds_sample/txt/1987023512.xml.txt	stance:::In Favor/Supports		
+Neutral	5a9ac3061eda410001366658	aa_opeds_sample/txt/421508307.xml.txt	stance:::Neutral		
+Neutral	5a9ac3061eda410001366658	aa_opeds_sample/txt/408321836.xml.txt	stance:::Neutral		
+Neutral	5a9ac3061eda410001366658	aa_opeds_sample/txt/431879654.xml.txt	stance:::Neutral		
+Against/Opposes	5a9ac3061eda410001366658	aa_opeds_sample/txt/2509403436.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	5a9ac3061eda410001366658	aa_opeds_sample/txt/408580425.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	5a9ac3061eda410001366658	test_question_pro_testing_1	stance:::In Favor/Supports		
+In Favor/Supports	5a9ac3061eda410001366658	aa_opeds_sample/txt/431493919.xml.txt	stance:::In Favor/Supports		
+Neutral	5a9ac3061eda410001366658	aa_opeds_sample/txt/2236625026.xml.txt	stance:::Neutral		
+None/Not Discussed	62dea723c6db0370fd6c8229	aa_opeds_sample/txt/2565796466.xml.txt	stance:::None/Not Discussed		
+Neutral	62dea723c6db0370fd6c8229	aa_opeds_sample/txt/2424705741.xml.txt	stance:::Neutral		
+None/Not Discussed	62dea723c6db0370fd6c8229	aa_opeds_sample/txt/398788879.xml.txt	stance:::None/Not Discussed		
+Neutral	62dea723c6db0370fd6c8229	aa_opeds_sample/txt/399095057.xml.txt	stance:::Neutral		
+Neutral	62dea723c6db0370fd6c8229	aa_opeds_sample/txt/408649107.xml.txt	stance:::Neutral		
+None/Not Discussed	62dea723c6db0370fd6c8229	aa_opeds_sample/txt/422316037.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	62dea723c6db0370fd6c8229	aa_opeds_sample/txt/423943644.xml.txt	stance:::In Favor/Supports		
+In Favor/Supports	62dea723c6db0370fd6c8229	aa_opeds_sample/txt/421552708.xml.txt	stance:::In Favor/Supports		
+Neutral	62dea723c6db0370fd6c8229	test_question_neutral_testing_1	stance:::Neutral		
+None/Not Discussed	62dea723c6db0370fd6c8229	aa_opeds_sample/txt/430675992.xml.txt	stance:::None/Not Discussed		
+Neutral	607295300f59b34c26ccac31	aa_opeds_sample/txt/419426239.xml.txt	stance:::Neutral		
+Neutral	607295300f59b34c26ccac31	aa_opeds_sample/txt/1022742622.xml.txt	stance:::Neutral		
+Neutral	607295300f59b34c26ccac31	aa_opeds_sample/txt/2230209410.xml.txt	stance:::Neutral		
+In Favor/Supports	607295300f59b34c26ccac31	test_question_neutral_testing_2	stance:::In Favor/Supports		
+Against/Opposes	607295300f59b34c26ccac31	aa_opeds_sample/txt/420158599.xml.txt	stance:::Against/Opposes		
+Neutral	607295300f59b34c26ccac31	aa_opeds_sample/txt/418468478.xml.txt	stance:::Neutral		
+Against/Opposes	607295300f59b34c26ccac31	aa_opeds_sample/txt/418249271.xml.txt	stance:::Against/Opposes		
+Neutral	607295300f59b34c26ccac31	aa_opeds_sample/txt/2417314051.xml.txt	stance:::Neutral		
+Neutral	607295300f59b34c26ccac31	aa_opeds_sample/txt/1011079659.xml.txt	stance:::Neutral		
+Against/Opposes	607295300f59b34c26ccac31	aa_opeds_sample/txt/307918907.xml.txt	stance:::Against/Opposes		
+None/Not Discussed	6409220c6166510beff12d14	aa_opeds_sample/txt/410325615.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	6409220c6166510beff12d14	test_question_pro_testing_1	stance:::In Favor/Supports		
+None/Not Discussed	6409220c6166510beff12d14	aa_opeds_sample/txt/1919844871.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	6409220c6166510beff12d14	aa_opeds_sample/txt/420033919.xml.txt	stance:::In Favor/Supports		
+Neutral	6409220c6166510beff12d14	aa_opeds_sample/txt/2053215813.xml.txt	stance:::Neutral		
+None/Not Discussed	6409220c6166510beff12d14	aa_opeds_sample/txt/2238130344.xml.txt	stance:::None/Not Discussed		
+Neutral	6409220c6166510beff12d14	aa_opeds_sample/txt/1951409635.xml.txt	stance:::Neutral		
+None/Not Discussed	6409220c6166510beff12d14	aa_opeds_sample/txt/1716194235.xml.txt	stance:::None/Not Discussed		
+In Favor/Supports	6409220c6166510beff12d14	aa_opeds_sample/txt/2832640273.xml.txt	stance:::In Favor/Supports		
+Neutral	6409220c6166510beff12d14	aa_opeds_sample/txt/422176235.xml.txt	stance:::Neutral		
+Neutral	6580ab64459a9ec6fcc653b3	aa_opeds_sample/txt/1716194235.xml.txt	stance:::Neutral		
+Against/Opposes	6580ab64459a9ec6fcc653b3	aa_opeds_sample/txt/422176235.xml.txt	stance:::Against/Opposes		
+Against/Opposes	6580ab64459a9ec6fcc653b3	aa_opeds_sample/txt/398612922.xml.txt	stance:::Against/Opposes		
+Neutral	6580ab64459a9ec6fcc653b3	aa_opeds_sample/txt/408345293.xml.txt	stance:::Neutral		
+In Favor/Supports	6580ab64459a9ec6fcc653b3	test_question_pro_testing_1	stance:::In Favor/Supports		
+Neutral	6580ab64459a9ec6fcc653b3	aa_opeds_sample/txt/421152514.xml.txt	stance:::Neutral		
+Neutral	6580ab64459a9ec6fcc653b3	aa_opeds_sample/txt/410325615.xml.txt	stance:::Neutral		
+In Favor/Supports	6580ab64459a9ec6fcc653b3	aa_opeds_sample/txt/1774364135.xml.txt	stance:::In Favor/Supports		
+Against/Opposes	6580ab64459a9ec6fcc653b3	aa_opeds_sample/txt/2238130344.xml.txt	stance:::Against/Opposes		
+In Favor/Supports	6580ab64459a9ec6fcc653b3	aa_opeds_sample/txt/420033919.xml.txt	stance:::In Favor/Supports		

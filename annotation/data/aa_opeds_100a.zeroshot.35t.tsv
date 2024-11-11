@@ -1,0 +1,1109 @@
+stance_coded	stance	message	cost	issue	_pkey	iter
+None	None	None	0.0004915	affirmative action	txt/1011079659.xml.txt	0
+-1	against	Against	0.000531	affirmative action	txt/1014285656.xml.txt	0
+1	favor	The author of the text is in favor of affirmative action.	0.0006684999999999999	affirmative action	txt/1022742622.xml.txt	0
+-1	against	The author of the text appears to be Against affirmative action.	0.000532	affirmative action	txt/1023015447.xml.txt	0
+-1	against	Against	0.000158	affirmative action	txt/1034256694.xml.txt	0
+None	None	None	0.0002155	affirmative action	txt/1099415355.xml.txt	0
+None	None	The author's stance on affirmative action appears to be None. The text focuses on the Voting Rights Act and its unintended consequences, particularly related to racial gerrymandering, without directly addressing affirmative action policies.	0.000553	affirmative action	txt/1370789528.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.000673	affirmative action	txt/1372854272.xml.txt	0
+None	None	The author's stance on affirmative action is None.	0.000663	affirmative action	txt/1519805309.xml.txt	0
+1	favor	The author of the text is in Favor of affirmative action.	0.00035999999999999997	affirmative action	txt/1548604795.xml.txt	0
+None	None	None	0.0006845	affirmative action	txt/1652232593.xml.txt	0
+-1	against	Against	0.00045549999999999996	affirmative action	txt/1667204395.xml.txt	0
+None	None	The author's stance on affirmative action is None. The text primarily discusses the challenges of developing a hate-speech policy on campuses, the complexities of defining hate speech, and the importance of free expression on university campuses. The author does not express a clear stance on affirmative action in the provided text.	0.0005549999999999999	affirmative action	txt/1716194235.xml.txt	0
+-1	against	The author's stance on affirmative action is None. The author discusses various political issues, including abortion, affirmative action, gay rights, and more, in the context of how they shape modern politics and influence individuals' sense of self-esteem. The author does not explicitly express support for or against affirmative action in the text provided.	0.0005785	affirmative action	txt/1750369183.xml.txt	0
+None	None	None	0.00026149999999999996	affirmative action	txt/1752156404.xml.txt	0
+1	favor	"The author, Harold O. Levy, is in favor of affirmative action. Levy argues that there is a need for a ""serious poverty preference in admissions to elite colleges and universities"" to address the unfair advantages that wealthy students have in the college admissions process. He advocates for giving more credit to low-income students for their achievements despite not having the same advantages as their wealthier peers. Levy believes that providing opportunities for academically qualified students from low-income backgrounds is essential for leveling the playing field and ensuring that all students have a fair chance at academic success based on merit, rather than financial status."	0.0006644999999999999	affirmative action	txt/1761271674.xml.txt	0
+1	favor	Favor	0.000618	affirmative action	txt/1774364135.xml.txt	0
+1	favor	Favor	0.000453	affirmative action	txt/1799136984.xml.txt	0
+-1	against	Against	9.4e-05	affirmative action	txt/1823531226.xml.txt	0
+None	None	The author's stance on affirmative action is None. The text does not provide a clear indication of the author's opinion on affirmative action.	0.0006754999999999999	affirmative action	txt/1878508466.xml.txt	0
+None	None	None	0.00043699999999999994	affirmative action	txt/1919844871.xml.txt	0
+1	favor	Favor	0.0010375	affirmative action	txt/1951409635.xml.txt	0
+1	favor	The author, Ibram X. Kendi, is clearly in favor of addressing and acknowledging racism. He criticizes the denial of racism in American society, including the denial exhibited by President Trump and others. He argues for a recognition of historical and present-day racism and advocates for an antiracist stance.	0.000914	affirmative action	txt/1987023512.xml.txt	0
+None	None	None	0.0005545	affirmative action	txt/2009409469.xml.txt	0
+-1	against	Against	0.0005114999999999999	affirmative action	txt/2053215813.xml.txt	0
+None	None	None	0.0005434999999999999	affirmative action	txt/2065768718.xml.txt	0
+1	favor	"The authors' stances on affirmative action are as follows:
+
+1. Mallory Duncan from Paris is in Favor of affirmative action. She argues that affirmative action has historically benefited a wide array of students and that black and brown students are unfairly targeted for denial by the current administration.
+
+2. Michael Farzan from Juno Beach, FLA is in Favor of affirmative action. He suggests expanding affirmative action efforts to include economic status in addition to race, in order to address social mobility issues and combat white resentment.
+
+3. Tom O'Hare from Boston is in Favor of affirmative action. He believes that treating African-Americans and Latinos as equals in college admissions and all aspects of life promotes equality and encourages their full potential.
+
+4. Tom Barnard from Shaker Heights, Ohio is also in Favor of affirmative action. He questions why diversity based on gender is accepted in college admissions but diversity based on race is being targeted, highlighting the historical discrimination against men in education."	0.0006154999999999999	affirmative action	txt/2065977608.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.0005875	affirmative action	txt/2090998076.xml.txt	0
+1	favor	Favor	0.000489	affirmative action	txt/2099964529.xml.txt	0
+None	None	None	0.0008579999999999999	affirmative action	txt/2100741387.xml.txt	0
+1	favor	"The authors' stances on affirmative action are as follows:
+
+1. Pierre Bertrand: Favor
+2. Lorna Salzman: Against
+3. Jane Carey: None"	0.0003685	affirmative action	txt/2138443158.xml.txt	0
+-1	against	Against	0.000489	affirmative action	txt/2154417607.xml.txt	0
+None	None	None	0.004876999999999999	affirmative action	txt/215497350.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.00027	affirmative action	txt/2193427873.xml.txt	0
+1	favor	Favor	0.0005225	affirmative action	txt/2212953270.xml.txt	0
+None	None	None	0.00052	affirmative action	txt/2213159829.xml.txt	0
+1	favor	The author of the first text is in favor of affirmative action. The author of the second text is also in favor of affirmative action. The author of the third text is also in favor of affirmative action. The author of the fourth text is in favor of affirmative action.	0.0004575	affirmative action	txt/2215402698.xml.txt	0
+None	None	None	0.00056	affirmative action	txt/2216641847.xml.txt	0
+None	None	The author's stance on affirmative action is None. The text does not mention affirmative action or provide any indication of the author's opinion on the topic.	0.0006185	affirmative action	txt/2230209410.xml.txt	0
+None	None	None	0.00011699999999999998	affirmative action	txt/2233007997.xml.txt	0
+-1	against	Against	0.00043799999999999997	affirmative action	txt/2234177127.xml.txt	0
+1	favor	The author's stance on affirmative action is in Favor. The author supports affirmative action and believes that settling the lawsuit in the Piscataway case to preserve the black teacher's job was a smart move to avoid a potential Supreme Court ruling that could have jeopardized affirmative-action plans. The author acknowledges the importance of maintaining racial diversity in the workplace but criticizes the school district's approach as clumsy in this particular case.	0.0003015	affirmative action	txt/2236625026.xml.txt	0
+1	favor	The author's stance on affirmative action is in Favor.	0.0005075	affirmative action	txt/2236765173.xml.txt	0
+1	favor	Favor	9.5e-05	affirmative action	txt/2237777942.xml.txt	0
+1	favor	The author of the text is clearly in favor of the Republican Party and expresses a stance against affirmative action.	0.0002195	affirmative action	txt/2238130344.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor. The author expresses support for reparations as a way to address the lasting impact of slavery and systemic racism on the black community. They emphasize the need for acknowledgment, reparations, and real change to combat the inequalities and injustices that persist today.	0.0005885	affirmative action	txt/2244665351.xml.txt	0
+None	None	None	0.0034115	affirmative action	txt/2248215580.xml.txt	0
+-1	against	"The authors' stances on affirmative action are as follows:
+
+1. Robert B. Newlin, Arlington: None. He focuses on the qualifications and characteristics of a Supreme Court justice, emphasizing the need for a logical, clear thinker with problem-solving skills who can address the concerns of ordinary people.
+
+2. Richard L. Sheffield, Columbia: Against. He criticizes the use of the term ""ordinary Americans"" and suggests using just ""Americans"" instead, hinting at a negative connotation associated with the word ""ordinary"" and questioning the concept of noblesse oblige.
+
+3. Harry Piotrowski, Crofton: Against. He mentions Reagan and Scalia's views on affirmative action, indicating that they viewed it negatively as a threat to merit-based society."	0.000475	affirmative action	txt/230632738.xml.txt	0
+None	None	None	0.0008674999999999999	affirmative action	txt/2414754878.xml.txt	0
+1	favor	Favor	0.0004835	affirmative action	txt/2417314051.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor. The author criticizes the Trump administration and Attorney General William P. Barr for backing lawsuits against affirmative action in college admissions, highlighting it as one of the issues that need to be addressed by the next president and attorney general.	0.00042249999999999997	affirmative action	txt/2419240626.xml.txt	0
+-1	against	"The author is clearly against Ronald Reagan's stance on civil rights and racial issues. They provide a detailed critique of Reagan's actions and policies, highlighting his use of racially coded language, opposition to civil rights legislation, and lack of support for affirmative action. The author argues that Reagan's racial politics paved the way for figures like Donald Trump and suggests that Reagan's racism was more insidious because it was presented with a ""genial smile."""	0.0008315	affirmative action	txt/2424705741.xml.txt	0
+1	favor	Favor	0.0005015	affirmative action	txt/2432777796.xml.txt	0
+1	favor	Favor	0.0005545	affirmative action	txt/2444131672.xml.txt	0
+1	favor	Favor	0.0006339999999999999	affirmative action	txt/2445858352.xml.txt	0
+1	favor	Favor	0.000517	affirmative action	txt/2452692303.xml.txt	0
+-1	against	Against	0.0005195	affirmative action	txt/2454579785.xml.txt	0
+None	None	None	0.0006789999999999999	affirmative action	txt/2469478152.xml.txt	0
+-1	against	The author, Devon Westhill, is Against affirmative action in this context.	0.0003535	affirmative action	txt/2509403436.xml.txt	0
+1	favor	The author's stance on affirmative action is leaning towards Favor. They mention that elite universities offer legacy preferences that amount to affirmative action for highly privileged children and highlight the disparities in educational opportunities based on race and socioeconomic status. Additionally, they discuss programs that promote opportunity and reduce race gaps over time, suggesting a positive view towards affirmative action-like policies to address inequities.	0.001199	affirmative action	txt/2530287535.xml.txt	0
+1	favor	The author is in favor of affirmative action and opposes the recall of Gov. Gavin Newsom.	0.0005985	affirmative action	txt/2565796466.xml.txt	0
+None	None	The author seems to have a critical stance on affirmative action, as they discuss how issues like immigration and affirmative action have proved surprisingly unpopular with the very voters of color they were supposed to woo. They also mention the need for Democrats to learn what voters already want, suggesting a more pragmatic approach rather than focusing on issues like affirmative action that may not resonate with the general public. Therefore, the author's stance on affirmative action can be classified as None.	0.0006670000000000001	affirmative action	txt/2582284660.xml.txt	0
+None	None	The author's stance on affirmative action is None. The author does not specifically express support or opposition to affirmative action in the text provided.	0.0009795	affirmative action	txt/2628908360.xml.txt	0
+None	None	None	0.0005055	affirmative action	txt/2633115690.xml.txt	0
+None	None	None	0.0015875	affirmative action	txt/2635873593.xml.txt	0
+None	None	The author's stance on affirmative action is None. The author primarily focuses on the need for open inquiry and multiple perspectives in education, specifically regarding teaching about race and racism in schools. The author advocates for exposing students to various viewpoints and narratives, including those that may be considered controversial or demonized by different political factions. The author emphasizes the importance of encouraging critical thinking and allowing students to decide for themselves what to think and do about complex societal issues.	0.000825	affirmative action	txt/2648708177.xml.txt	0
+1	favor	The author of the text seems to be in favor of affirmative action, as they express concerns about its potential impact and discuss the importance of defending Title IX.	0.00047	affirmative action	txt/2682983998.xml.txt	0
+-1	against	The author's stance on affirmative action is Against.	0.0006580000000000001	affirmative action	txt/2730261179.xml.txt	0
+1	favor	The author of the text seems to be in favor of affirmative action. They express disappointment in the Supreme Court's potential decision to reverse a decision upholding affirmative action in school admissions, highlighting the importance of such remedies in promoting civil rights. They also criticize the Supreme Court for closing courthouse doors to many litigants, including in cases related to civil rights, discrimination, and unfair business practices, advocating for Congress to reinvigorate federal rights and protect access to courts.	0.0008215	affirmative action	txt/2761519572.xml.txt	0
+-1	against	The author's stance on affirmative action is Against.	0.0005545	affirmative action	txt/2765919087.xml.txt	0
+-1	against	The author's stance on affirmative action is Against.	0.000622	affirmative action	txt/2778538694.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor of it.	0.000775	affirmative action	txt/2832640273.xml.txt	0
+None	None	None	0.0006209999999999999	affirmative action	txt/2832643195.xml.txt	0
+1	favor	"The authors' stances on affirmative action are as follows:
+- Michael D. Schattman: None
+- Kathy Viney: Against
+- Ravin Bhatia: Favor
+- Aimée La Fountain: None
+- David Dorsen: None"	0.00043349999999999997	affirmative action	txt/2833402706.xml.txt	0
+1	favor	Favor	0.0005374999999999999	affirmative action	txt/2837300226.xml.txt	0
+1	favor	The author of the text is in Favor of affirmative action.	0.00026	affirmative action	txt/293028806.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.000332	affirmative action	txt/293063140.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.000578	affirmative action	txt/293087956.xml.txt	0
+1	favor	The author of the text is in Favor of affirmative action.	0.0005855	affirmative action	txt/293295109.xml.txt	0
+-1	against	Against	0.0005905	affirmative action	txt/307867242.xml.txt	0
+None	None	None	0.0005024999999999999	affirmative action	txt/307918907.xml.txt	0
+-1	against	The author's stance on affirmative action is Against.	0.001024	affirmative action	txt/398288078.xml.txt	0
+None	None	None	0.000762	affirmative action	txt/398299761.xml.txt	0
+1	favor	The author of the text is in Favor of affirmative action.	0.0005679999999999999	affirmative action	txt/398321574.xml.txt	0
+-1	against	The author's stance on affirmative action is **Against**.	0.0004835	affirmative action	txt/398441227.xml.txt	0
+-1	against	Against	0.0008604999999999999	affirmative action	txt/398469346.xml.txt	0
+1	favor	"The author of the text is in favor of a capital gains tax cut and believes that it would benefit the black community by stimulating economic growth, creating jobs, and providing opportunities for black-owned businesses. The author also suggests that such a tax cut could potentially eliminate the need for affirmative action in the long run. Therefore, the author's stance can be classified as ""In Favor"" of affirmative action."	0.0005549999999999999	affirmative action	txt/398482848.xml.txt	0
+-1	against	Against	0.00032349999999999995	affirmative action	txt/398530550.xml.txt	0
+-1	against	The author's stance on affirmative action is **Against**.	0.00045999999999999996	affirmative action	txt/398538903.xml.txt	0
+1	favor	The author of the text appears to be in favor of affirmative action. They acknowledge the complexities and challenges surrounding the issue, but ultimately support the idea of affirmative action as a necessary tool to address historical inequalities and provide equal opportunities.	0.0007244999999999999	affirmative action	txt/398602003.xml.txt	0
+-1	against	Against	0.0007685	affirmative action	txt/398612922.xml.txt	0
+-1	against	Against	0.0005365	affirmative action	txt/398630711.xml.txt	0
+-1	against	Against	0.000628	affirmative action	txt/398730713.xml.txt	0
+None	None	None	0.0006705	affirmative action	txt/398787032.xml.txt	0
+None	None	The author's stance on affirmative action is None. The text does not mention or discuss affirmative action.	0.0007959999999999999	affirmative action	txt/398788879.xml.txt	0
+-1	against	Against	0.0007015	affirmative action	txt/398881739.xml.txt	0
+-1	against	The author of the text appears to be Against affirmative action. The text criticizes liberal interest groups for colluding with Democrats to influence the selection of judges, specifically mentioning opposition to Miguel Estrada due to his ethnicity and potential Supreme Court appointment. The text also highlights a case where nominees were asked to be delayed to influence the outcome of an affirmative action case.	0.000758	affirmative action	txt/398920534.xml.txt	0
+None	None	None	0.0006954999999999999	affirmative action	txt/398955309.xml.txt	0
+1	favor	Favor	0.0006224999999999999	affirmative action	txt/399053714.xml.txt	0
+None	None	None	0.000649	affirmative action	txt/399055159.xml.txt	0
+-1	against	Against	0.0005859999999999999	affirmative action	txt/399070959.xml.txt	0
+-1	against	Against	0.0008609999999999999	affirmative action	txt/399095057.xml.txt	0
+-1	against	The author's stance on foundations and tax-exempt organizations, which play a significant role in influencing public policy and social programs, appears to be against their current level of influence. The author expresses concerns about the lack of scrutiny and accountability these organizations face, as well as their potential to impact public discourse and policy decisions. The author questions the legitimacy of their tax-exempt status and highlights instances where foundations have exerted influence over organizations and movements. Ultimately, the author argues that foundations should be subject to more public scrutiny and debate regarding their economic and political activities.	0.0008405	affirmative action	txt/408321836.xml.txt	0
+1	favor	The author's stance on affirmative action is in Favor.	0.0004919999999999999	affirmative action	txt/408345293.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor of it.	0.0005139999999999999	affirmative action	txt/408345486.xml.txt	0
+None	None	The author's stance on affirmative action is None. The author presents a balanced view of the issue, discussing both sides of the argument and highlighting the complexities and uncertainties surrounding affirmative action policies in higher education. The author does not explicitly express support for or opposition to affirmative action but rather explores the legal and constitutional questions surrounding the issue.	0.00046699999999999997	affirmative action	txt/408354994.xml.txt	0
+None	None	None	0.0006069999999999999	affirmative action	txt/408366163.xml.txt	0
+None	None	The author's stance on affirmative action appears to be None. The author does not explicitly mention affirmative action in the text provided, but instead focuses on discussing the progress of African Americans in higher education and the challenges they still face.	0.0005539999999999999	affirmative action	txt/408439658.xml.txt	0
+-1	against	Against	0.0005235	affirmative action	txt/408485014.xml.txt	0
+None	None	None	0.000991	affirmative action	txt/408523809.xml.txt	0
+-1	against	The author's stance on affirmative action is None. The author discusses race relations and the perceptions of white voters towards black candidates, but does not explicitly mention affirmative action or take a clear stance for or against it.	0.0004994999999999999	affirmative action	txt/408580425.xml.txt	0
+None	None	None	0.0006569999999999999	affirmative action	txt/408649107.xml.txt	0
+None	None	None	0.0004365	affirmative action	txt/408654746.xml.txt	0
+-1	against	Against	0.000432	affirmative action	txt/409060590.xml.txt	0
+1	favor	Favor	0.000466	affirmative action	txt/409076441.xml.txt	0
+-1	against	The author's stance on affirmative action is Against.	0.0006405	affirmative action	txt/409108213.xml.txt	0
+None	None	The author's stance on affirmative action is None. The text does not specifically address affirmative action, but rather discusses President Bush's political intelligence and strategy in handling various political issues.	0.0005265	affirmative action	txt/409129544.xml.txt	0
+-1	against	Against	0.0005095	affirmative action	txt/409707034.xml.txt	0
+None	None	The author of the text does not explicitly state their stance on affirmative action. Therefore, their stance on affirmative action is classified as None.	0.000472	affirmative action	txt/409718670.xml.txt	0
+None	None	The author's stance on affirmative action is None.	0.0008695	affirmative action	txt/409790149.xml.txt	0
+None	None	None	0.0011049999999999999	affirmative action	txt/409936292.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor. The text mentions that Tel Aviv has affirmative action policies for hiring Israeli Arabs, indicating support for promoting diversity and equality in the workplace.	0.0007495	affirmative action	txt/410325615.xml.txt	0
+-1	against	The author's stance on affirmative action is None. The author focuses on the efforts of the Christian Coalition, led by Ralph Reed, to bridge the gap between white conservatives and the African-American community through initiatives such as the Samaritan Project. The text does not explicitly state a position for or against affirmative action, but rather highlights the coalition's efforts towards racial justice and cooperation across racial and cultural lines.	0.0005955	affirmative action	txt/418239486.xml.txt	0
+1	favor	The author's stance on affirmative action in the context of the police force in Chicago is in favor. The author applauds Mayor Daley's strategy to promote racial and ethnic balance within the police force and criticizes those who oppose it, suggesting that the plan deserves support despite its imperfections.	0.0003835	affirmative action	txt/418249271.xml.txt	0
+None	None	None	0.00031749999999999997	affirmative action	txt/418395424.xml.txt	0
+-1	against	The author's stance on affirmative action appears to be None. The author discusses the controversy surrounding Professor Lino Graglia's remarks about minorities in selective institutions and acknowledges the concerns raised about minority underachievement. The author emphasizes the importance of open dialogue and considering various viewpoints on issues of race and education, suggesting that a nuanced discussion is needed rather than immediate condemnation. The author does not explicitly express support for or against affirmative action but advocates for tolerance and engaging in complex discussions on the topic.	0.0006025	affirmative action	txt/418468478.xml.txt	0
+-1	against	Against	0.0005049999999999999	affirmative action	txt/418468651.xml.txt	0
+1	favor	The author of the text is in Favor of affirmative action. They believe that increasing accessibility to job training programs for black working women is crucial to boosting their income levels. The author advocates for equal access to job training programs for black women and emphasizes the importance of diversity and addressing historical wrongs along racial and gender lines. They suggest expanding the job training opportunities available to black women and promoting lifelong learning to enhance their skills and advancement opportunities. The author also encourages businesses to invest in human capital through on-the-job training for their employees, including mid-career workers, to meet the changing demands of the job market.	0.000743	affirmative action	txt/418520188.xml.txt	0
+1	favor	The author of the text is in favor of affirmative action.	0.00029749999999999997	affirmative action	txt/418548792.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.000512	affirmative action	txt/418768610.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor of it. The author criticizes the Chicago Fire Fighters Union for their opposition to affirmative action and highlights the importance of creating a fire service command structure that reflects the diversity of the city. The author condemns the union's attempt to roll back racial progress and emphasizes the need to address racism within the fire department.	0.000334	affirmative action	txt/418950637.xml.txt	0
+None	None	None	0.0005269999999999999	affirmative action	txt/419118450.xml.txt	0
+None	None	None	0.0004115	affirmative action	txt/419426239.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.0005445	affirmative action	txt/419493718.xml.txt	0
+-1	against	Against	0.000561	affirmative action	txt/419989695.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.0006255	affirmative action	txt/420033919.xml.txt	0
+1	favor	The author of the text seems to be in favor of affirmative action. The author highlights the importance of diversity and the need for addressing human relations and diversity problems within the Chicago Fire Department. The appointment of Cortez Trotter, a black man, as the new fire commissioner is seen as a positive step towards promoting diversity and addressing historical issues of racial inequality within the department. The author also mentions the importance of Trotter's role in pushing affirmative action policies while dealing with opposition from the union.	0.0006445	affirmative action	txt/420116341.xml.txt	0
+-1	against	The author of the text seems to be Against affirmative action, as they criticize the situation where white individuals pretended to be minorities in order to secure contracts. The author questions the fairness and legitimacy of the affirmative action system in this context.	0.0006295000000000001	affirmative action	txt/420158599.xml.txt	0
+None	None	The author's stance on affirmative action can be classified as None. The author discusses John H. Johnson's success and business philosophy without specifically addressing affirmative action.	0.0005635	affirmative action	txt/420294538.xml.txt	0
+None	None	None	0.0007145	affirmative action	txt/420306539.xml.txt	0
+-1	against	The author of the text is Against affirmative action.	0.000323	affirmative action	txt/420549304.xml.txt	0
+None	None	None	0.0005049999999999999	affirmative action	txt/420557855.xml.txt	0
+None	None	None	0.0004944999999999999	affirmative action	txt/420558694.xml.txt	0
+-1	against	Against	0.00058	affirmative action	txt/420733639.xml.txt	0
+1	favor	Favor	0.0005145	affirmative action	txt/420906077.xml.txt	0
+1	favor	Favor	0.0005889999999999999	affirmative action	txt/421118533.xml.txt	0
+-1	against	"The author's stance on affirmative action can be classified as Against. The author mentions ""the beneficiaries of affirmative action"" in a list of groups that California vote-seekers have campaigned against, indicating a negative view towards affirmative action."	0.0005924999999999999	affirmative action	txt/421152514.xml.txt	0
+None	None	None	0.0006554999999999999	affirmative action	txt/421214771.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.0002905	affirmative action	txt/421215181.xml.txt	0
+None	None	The author's stance on affirmative action is not clearly stated in the provided text.	0.0005725	affirmative action	txt/421228265.xml.txt	0
+1	favor	"The author's stance on affirmative action is in favor of it. This can be inferred from the statement: ""the deterioration of relationships in the Legislature contributed to the disturbing racial undertones of recent ballot measures concerning affirmative action, bilingual education and illegal immigration."""	0.0004665	affirmative action	txt/421303437.xml.txt	0
+-1	against	Against	0.0007515	affirmative action	txt/421333085.xml.txt	0
+None	None	None	0.000529	affirmative action	txt/421424365.xml.txt	0
+None	None	The author's stance on affirmative action is None. The text does not discuss affirmative action specifically or provide any indication of the author's opinion on the topic.	0.0005755	affirmative action	txt/421507153.xml.txt	0
+1	favor	The author of the text is in favor of affirmative action.	0.0005505	affirmative action	txt/421508307.xml.txt	0
+-1	against	Against	0.00045749999999999995	affirmative action	txt/421525331.xml.txt	0
+1	favor	Favor	0.0005135	affirmative action	txt/421552708.xml.txt	0
+1	favor	The author of the text is in favor of abolishing the SAT and critical of standardized tests like the SAT, SAT II, MCAT, LSAT, and GRE. They argue that these tests are biased and do not accurately measure merit or predict success in higher education. The author believes that the SAT perpetuates racial and economic inequalities and supports UC President Richard H. Atkinson's proposal to cast doubt on the SAT. They advocate for admissions procedures that emphasize qualities like critical thinking and determination rather than standardized test scores. Therefore, the author's stance on affirmative action can be classified as in favor.	0.0006670000000000001	affirmative action	txt/421591042.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.000441	affirmative action	txt/421600586.xml.txt	0
+-1	against	Against	0.00030599999999999996	affirmative action	txt/421609713.xml.txt	0
+-1	against	Against	0.00039949999999999995	affirmative action	txt/421647247.xml.txt	0
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided.	0.0006135	affirmative action	txt/421978637.xml.txt	0
+-1	against	The author of the text is clearly Against affirmative action.	0.0004655	affirmative action	txt/421987509.xml.txt	0
+1	favor	"The author of the text is clearly in favor of Clarence Thomas and opposes the attacks on him as being an ""affirmative action hire."" The author argues that these attacks are hypocritical coming from individuals who support affirmative action, and defends Thomas' qualifications and opposition to racial preferences. The author criticizes the treatment of Thomas by liberals and advocates for treating him with respect and as an individual."	0.000666	affirmative action	txt/422176235.xml.txt	0
+None	None	None	0.00039799999999999997	affirmative action	txt/422316037.xml.txt	0
+-1	against	Against	0.000512	affirmative action	txt/423943644.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.000258	affirmative action	txt/424224130.xml.txt	0
+-1	against	Against	0.000558	affirmative action	txt/424505995.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor of it. They argue that affirmative action is necessary to redress the enduring wrongs of the past and ensure equal opportunities for all citizens. They criticize the position of Morris Abram, who is against affirmative action, and emphasize the importance of taking proactive measures to address discrimination and inequality.	0.000597	affirmative action	txt/424669038.xml.txt	0
+None	None	The author's stance on affirmative action is None. The text focuses on Soviet-American relations and the need for both sides to show respect for each other's concerns, without specifically addressing affirmative action.	0.0005759999999999999	affirmative action	txt/424890519.xml.txt	0
+1	favor	The author's stance on affirmative action in this text is in favor.	0.000184	affirmative action	txt/427134596.xml.txt	0
+None	None	None	0.000539	affirmative action	txt/427163446.xml.txt	0
+-1	against	The author, Julian Bond, is clearly Against affirmative action. Bond's memo suggests a critical and dismissive view of the N.A.A.C.P. and affirmative action programs, encouraging journalists and pundits to undermine the organization and its leadership by portraying them as outmoded, out of touch, and ineffective. Bond's suggestions for story angles and language to use in reporting demonstrate a strong opposition to affirmative action policies and a desire to discredit the N.A.A.C.P.'s relevance in advocating for civil rights.	0.0005449999999999999	affirmative action	txt/428907164.xml.txt	0
+-1	against	Against	0.00048399999999999995	affirmative action	txt/429909301.xml.txt	0
+-1	against	Against	0.00048349999999999993	affirmative action	txt/430675992.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor of it.	0.000479	affirmative action	txt/430810646.xml.txt	0
+1	favor	Favor	0.0004445	affirmative action	txt/430872205.xml.txt	0
+None	None	None	0.0002315	affirmative action	txt/430898745.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.000423	affirmative action	txt/430957877.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor.	0.000616	affirmative action	txt/431248074.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor of it. The text highlights a celebration of diversity, rejection of the notion of one race being superior to another, and a community coming together to counter a racist message promoting an anti-affirmative action protest.	0.0005870000000000001	affirmative action	txt/431493919.xml.txt	0
+1	favor	Favor	0.000487	affirmative action	txt/431879654.xml.txt	0
+-1	against	Against	0.0009965	affirmative action	txt/432267882.xml.txt	0
+1	favor	In this text, the author James O. Freedman is portrayed as being in favor of liberal education and affirmative action. He believes in the value of liberal education for developing individuals and preparing them for the job market. Additionally, he actively supported affirmative action programs, such as the University of Michigan's program, and advocated for the education of minority men and women. His actions and statements throughout the text indicate a stance in favor of both liberal education and affirmative action.	0.0008514999999999999	affirmative action	txt/432317583.xml.txt	0
+1	favor	Favor	0.0005845	affirmative action	txt/432374988.xml.txt	0
+None	None	"The author's stance on affirmative action is ""None."""	0.000487	affirmative action	txt/432405735.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor of it. The text discusses the history of affirmative action, the Supreme Court decision upholding affirmative action in university admissions, and the challenges and debates surrounding the issue. The author presents arguments in support of affirmative action, such as the need to close the education gap and the demographic shifts in college campuses. The text also includes quotes from individuals and organizations advocating for affirmative action.	0.0011765	affirmative action	txt/432415722.xml.txt	0
+1	favor	The author's stance on affirmative action is in favor of it.	0.00045299999999999995	affirmative action	txt/432419685.xml.txt	0
+None	None	The author's stance on affirmative action is None. The text does not discuss affirmative action specifically, but rather focuses on the dynamics within the Democratic and Republican parties, the role of ideology in elections, and the importance of passionate activists within political parties.	0.000779	affirmative action	txt/432471477.xml.txt	0
+1	favor	The author, Ian Haney Lopez, is in favor of affirmative action. He argues that the Constitution should protect groups that suffer subordination, regardless of race, and criticizes the Supreme Court for equating all race-conscious government action with racism. Lopez believes that the court should focus on ending racial subordination, as exemplified in cases like Hernandez v. Texas, rather than solely on formal racial distinctions.	0.0007099999999999999	affirmative action	txt/432763623.xml.txt	0
+None	None	None	0.000765	affirmative action	txt/432876223.xml.txt	0
+1	favor	Favor	0.0007444999999999999	affirmative action	txt/432991807.xml.txt	0
+-1	against	Against	0.0005355	affirmative action	txt/433917131.xml.txt	0
+1	favor	Favor	0.0008454999999999999	affirmative action	txt/434126284.xml.txt	0
+1	favor	The author of the text is in favor of affirmative action.	0.000296	affirmative action	txt/752088707.xml.txt	0
+-1	against	The author's stance on affirmative action is Against.	0.000501	affirmative action	txt/759996654.xml.txt	0
+-1	against	Against	0.0005359999999999999	affirmative action	txt/900173941.xml.txt	0
+
+None	None	None	0.0004915	affirmative action	txt/1011079659.xml.txt	1
+-1	against	Against	0.000531	affirmative action	txt/1014285656.xml.txt	1
+None	None	The author's stance on affirmative action is None. The text does not mention affirmative action specifically, so it is not possible to determine the author's stance on this issue.	0.0007015	affirmative action	txt/1022742622.xml.txt	1
+-1	against	Against	0.0005155	affirmative action	txt/1023015447.xml.txt	1
+-1	against	Against	0.000158	affirmative action	txt/1034256694.xml.txt	1
+-1	against	Against	0.0002155	affirmative action	txt/1099415355.xml.txt	1
+-1	against	The author of the text seems to be Against affirmative action, specifically in the context of the Voting Rights Act. The author argues that while the Voting Rights Act was initially necessary to secure voting rights for minority groups, it has now led to unintended consequences such as political polarization along racial lines and racial gerrymandering. The author suggests that the current implementation of the Voting Rights Act may be outdated and no longer necessary in today's political landscape.	0.0006234999999999999	affirmative action	txt/1370789528.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.000673	affirmative action	txt/1372854272.xml.txt	1
+1	favor	The author of the text appears to be in favor of the NBA commissioner's decision to ban Los Angeles Clippers owner Donald Sterling for life due to his racist remarks. The author expresses support for the ban and hopes it forces Sterling to sell the team, referring to Sterling as an embarrassment and a bigot. The author also highlights the reactions of individuals in a South Los Angeles barbershop who were appalled by Sterling's comments and viewed them as reminiscent of a darker period in history. The text overall takes a strong stance against racism and discrimination.	0.0008085	affirmative action	txt/1519805309.xml.txt	1
+1	favor	The author of the text is in favor of affirmative action.	0.00035999999999999997	affirmative action	txt/1548604795.xml.txt	1
+None	None	None	0.0006845	affirmative action	txt/1652232593.xml.txt	1
+None	None	None	0.00045549999999999996	affirmative action	txt/1667204395.xml.txt	1
+-1	against	The author's stance on affirmative action is None. The text primarily discusses the challenges faced by the University of California in developing a hate-speech policy and the complexities of balancing freedom of speech with preventing hate speech. The author does mention affirmative action in the context of discussing the difficulty of defining hate speech, but does not explicitly take a stance for or against it.	0.0005744999999999999	affirmative action	txt/1716194235.xml.txt	1
+None	None	None	0.00048399999999999995	affirmative action	txt/1750369183.xml.txt	1
+None	None	None	0.00026149999999999996	affirmative action	txt/1752156404.xml.txt	1
+1	favor	"The author, Harold O. Levy, is clearly in favor of affirmative action for low-income students. He argues that there is a need for a ""serious poverty preference in admissions to elite colleges and universities - amounting to affirmative action for these students."" Levy believes that the current system is unfair to smart, low-income students and that there should be measures taken to level the playing field and provide opportunities based on merit rather than financial status."	0.0006165	affirmative action	txt/1761271674.xml.txt	1
+1	favor	Favor	0.000618	affirmative action	txt/1774364135.xml.txt	1
+1	favor	Favor	0.000453	affirmative action	txt/1799136984.xml.txt	1
+-1	against	Against	9.4e-05	affirmative action	txt/1823531226.xml.txt	1
+None	None	The author's stance on affirmative action is None. The text does not provide a clear indication of the author's opinion on affirmative action.	0.0006754999999999999	affirmative action	txt/1878508466.xml.txt	1
+None	None	None	0.00043699999999999994	affirmative action	txt/1919844871.xml.txt	1
+1	favor	The author's stance on affirmative action is in Favor.	0.001051	affirmative action	txt/1951409635.xml.txt	1
+1	favor	Favor	0.000824	affirmative action	txt/1987023512.xml.txt	1
+None	None	None	0.0005545	affirmative action	txt/2009409469.xml.txt	1
+-1	against	Against	0.0005114999999999999	affirmative action	txt/2053215813.xml.txt	1
+None	None	The author's stance on affirmative action is None.	0.000557	affirmative action	txt/2065768718.xml.txt	1
+1	favor	"The authors' stances on affirmative action are as follows:
+
+1. Mallory Duncan from Paris is in FAVOR of affirmative action, particularly emphasizing the benefits it has brought to a wide array of students, not just black and brown students. She criticizes the current administration for seeking to deny opportunities to these students.
+
+2. Michael Farzan from Juno Beach, FLA is also in FAVOR of affirmative action but suggests expanding it to include economic status as a factor in addition to race. He believes that addressing social mobility issues through affirmative action based on economic status could reduce divisiveness fueled by the Trump administration.
+
+3. Tom O'Hare from Boston is in FAVOR of treating African-Americans and Latinos as equals in college admissions and all aspects of life. He argues that continuing to judge people based on race perpetuates historical injustices and promotes inequality.
+
+4. Tom Barnard from Shaker Heights, Ohio is AGAINST the Trump administration's move to discount race as a measurement of diversity in education. He questions why gender diversity is accepted in college admissions but not racial diversity, pointing out the historical discrimination against men in education."	0.000668	affirmative action	txt/2065977608.xml.txt	1
+-1	against	The author of the text is clearly Against affirmative action, as they criticize former California Gov. Pete Wilson for working to eliminate affirmative action at the University of California and beyond.	0.000622	affirmative action	txt/2090998076.xml.txt	1
+-1	against	The author, Erwin Chemerinsky, is clearly Against the comparison of justices to umpires and argues that justices' decisions are influenced by their ideologies and views. He believes that justices play a significant role in interpreting the law and that their personal beliefs shape their decisions. Additionally, Chemerinsky highlights the importance of value choices in constitutional law and criticizes the misleading presentation of constitutional law by Kavanaugh. Therefore, the author's stance on affirmative action can be classified as Against.	0.0006284999999999999	affirmative action	txt/2099964529.xml.txt	1
+None	None	None	0.0008579999999999999	affirmative action	txt/2100741387.xml.txt	1
+1	favor	"The authors of the provided texts have different stances on affirmative action. 
+
+1. Pierre Bertrand from Long Island City, Queens, seems to be in favor of affirmative action, specifically mentioning admiration for Angela Merkel's actions towards Syrian refugees and criticizing Mrs. Clinton for encouraging opposite policies.
+
+2. Lorna Salzman from Brooklyn appears to be against affirmative action, blaming the left for the rise of right-wing movements due to uncontrolled mass migration into Europe.
+
+3. Jane Carey from Paso Robles, Calif., does not directly address affirmative action but focuses more on the root causes of immigration issues, suggesting a need to address global conflicts and climate change rather than trying to halt the flow of immigrants.
+
+Therefore, the stances on affirmative action are as follows:
+- For: Pierre Bertrand
+- Against: Lorna Salzman
+- None: Jane Carey"	0.0005725	affirmative action	txt/2138443158.xml.txt	1
+-1	against	Against	0.000489	affirmative action	txt/2154417607.xml.txt	1
+None	None	None	0.004876999999999999	affirmative action	txt/215497350.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.00027	affirmative action	txt/2193427873.xml.txt	1
+1	favor	Favor	0.0005225	affirmative action	txt/2212953270.xml.txt	1
+None	None	None	0.00052	affirmative action	txt/2213159829.xml.txt	1
+1	favor	"The authors' stances on affirmative action are as follows:
+
+1. William Kidder: In Favor of affirmative action. He argues against the mismatch theory and presents evidence supporting the benefits of attending more selective universities for minority students.
+
+2. Rosiland Jordan: In Favor of affirmative action. She believes affirmative action is necessary to address disparities in education and opportunities for minority students.
+
+3. Jane McAlevey: In Favor of affirmative action. She emphasizes the need to expand affirmative action until a better solution to persistent racism is found and implemented.
+
+4. Randal Maurice Jelks: In Favor of affirmative action. He supports the effectiveness of historically black colleges in promoting success for black students and challenges the assumptions of the mismatch theory.
+
+Therefore, all four authors are in favor of affirmative action."	0.000612	affirmative action	txt/2215402698.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.000575	affirmative action	txt/2216641847.xml.txt	1
+None	None	The author's stance on affirmative action is not explicitly stated in the text. Therefore, the author's stance on affirmative action is classified as None.	0.000617	affirmative action	txt/2230209410.xml.txt	1
+None	None	None	0.00011699999999999998	affirmative action	txt/2233007997.xml.txt	1
+-1	against	Against	0.00043799999999999997	affirmative action	txt/2234177127.xml.txt	1
+1	favor	Favor	0.00017999999999999998	affirmative action	txt/2236625026.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.0005075	affirmative action	txt/2236765173.xml.txt	1
+1	favor	The author of the text is in favor of affirmative action.	0.00011	affirmative action	txt/2237777942.xml.txt	1
+1	favor	The author, Evan Edwards, is clearly in favor of affirmative action.	0.00020899999999999998	affirmative action	txt/2238130344.xml.txt	1
+1	favor	In this text, the author is clearly in favor of affirmative action and reparations for the black community. The author expresses frustration with those who oppose these initiatives and emphasizes the importance of acknowledging and rectifying the damage caused by slavery and ongoing racial discrimination. The author advocates for real change, reparations, and a genuine apology for the historical injustices faced by the black community.	0.000611	affirmative action	txt/2244665351.xml.txt	1
+None	None	The author's stance on affirmative action is None. The text does not explicitly mention affirmative action or the author's opinion on the subject. The author focuses on discussing race relations, diversity, and the historical context of Hawaii, without directly addressing affirmative action.	0.003485	affirmative action	txt/2248215580.xml.txt	1
+-1	against	"The authors' stances on affirmative action are as follows:
+
+1. Robert B. Newlin, Arlington: None. Newlin focuses on the qualities and background that a Supreme Court justice should possess, without directly addressing affirmative action.
+
+2. Richard L. Sheffield, Columbia: Against. Sheffield criticizes the use of the term ""ordinary Americans"" and questions if it implies a sense of superiority or noblesse oblige, indicating a skepticism towards affirmative action or special consideration based on social status.
+
+3. Harry Piotrowski, Crofton: Against. Piotrowski mentions Antonin Scalia's views on affirmative action as a ""wicked plot against our merit-based society,"" suggesting a negative stance on affirmative action."	0.0004615	affirmative action	txt/230632738.xml.txt	1
+1	favor	The author of the text seems to have a favorable stance on affirmative action.	0.0008884999999999999	affirmative action	txt/2414754878.xml.txt	1
+1	favor	Favor	0.0004835	affirmative action	txt/2417314051.xml.txt	1
+-1	against	The author's stance on affirmative action is Against.	0.00035499999999999996	affirmative action	txt/2419240626.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.0007175	affirmative action	txt/2424705741.xml.txt	1
+1	favor	Favor	0.0005015	affirmative action	txt/2432777796.xml.txt	1
+1	favor	Favor	0.0005545	affirmative action	txt/2444131672.xml.txt	1
+1	favor	Favor	0.0006339999999999999	affirmative action	txt/2445858352.xml.txt	1
+1	favor	Favor	0.000517	affirmative action	txt/2452692303.xml.txt	1
+-1	against	Against	0.0005195	affirmative action	txt/2454579785.xml.txt	1
+None	None	None	0.0006789999999999999	affirmative action	txt/2469478152.xml.txt	1
+-1	against	Against	0.00033249999999999995	affirmative action	txt/2509403436.xml.txt	1
+1	favor	The author's stance on affirmative action is leaning towards being in favor of it. They discuss how elite universities offer legacy preferences that amount to affirmative action for highly privileged children and mention that some universities have more students from the richest 1 percent than from the poorest 60 percent. They also touch on the importance of addressing root inequities and promoting programs that reduce race gaps over time, such as early childhood initiatives, baby bonds, child tax credits, job training, and a higher minimum wage.	0.001238	affirmative action	txt/2530287535.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.0005865	affirmative action	txt/2565796466.xml.txt	1
+-1	against	The author of the text appears to be Against affirmative action.	0.0005515	affirmative action	txt/2582284660.xml.txt	1
+-1	against	Against	0.0009404999999999999	affirmative action	txt/2628908360.xml.txt	1
+-1	against	The author of the text is Against affirmative action.	0.000519	affirmative action	txt/2633115690.xml.txt	1
+None	None	None	0.0015875	affirmative action	txt/2635873593.xml.txt	1
+-1	against	The author of the text provided is against the current approach to teaching about race and racism in schools.	0.0007214999999999999	affirmative action	txt/2648708177.xml.txt	1
+1	favor	"The authors' stance on affirmative action is in the ""Favor"" category."	0.0004475	affirmative action	txt/2682983998.xml.txt	1
+-1	against	The author's stance on affirmative action is **Against**.	0.000661	affirmative action	txt/2730261179.xml.txt	1
+1	favor	Favor	0.0006835	affirmative action	txt/2761519572.xml.txt	1
+-1	against	The author's stance on affirmative action is Against.	0.0005545	affirmative action	txt/2765919087.xml.txt	1
+-1	against	Against	0.0006085	affirmative action	txt/2778538694.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it.	0.000775	affirmative action	txt/2832640273.xml.txt	1
+None	None	None	0.0006209999999999999	affirmative action	txt/2832643195.xml.txt	1
+-1	against	"The authors' stances on affirmative action are as follows:
+
+1. Michael D. Schattman: None
+2. Kathy Viney: Against
+3. Ravin Bhatia: Against
+4. Aimée La Fountain: None
+5. David Dorsen: None"	0.000441	affirmative action	txt/2833402706.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it. They argue that a colorblind approach to college admissions, as seen in the aftermath of Proposition 209 in California, has led to a significant decline in Black student enrollment at state colleges and universities. The author highlights the challenges faced by Black students in gaining access to higher education and emphasizes the importance of programs that provide support and opportunities for these students. They express concern that without affirmative action, the opportunities available to Black applicants will diminish, impacting not just the students but society as a whole.	0.0006994999999999999	affirmative action	txt/2837300226.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.0002585	affirmative action	txt/293028806.xml.txt	1
+None	None	None	0.00031699999999999995	affirmative action	txt/293063140.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.000578	affirmative action	txt/293087956.xml.txt	1
+1	favor	The author of the text is in favor of affirmative action.	0.0005855	affirmative action	txt/293295109.xml.txt	1
+-1	against	The author's stance on affirmative action is Against. The author argues that affirmative action does not lead to a more equitable society and instead redistributes inequality. They suggest that government efforts should be directed towards all individuals in need of help, regardless of their race or gender, and that affirmative action creates fixed definitions of group membership. The author also mentions concerns about the impact of affirmative action on disadvantaged individuals and suggests that a broader discussion on how to ensure equality of opportunity for all individuals would be more beneficial.	0.0007375	affirmative action	txt/307867242.xml.txt	1
+None	None	None	0.0005024999999999999	affirmative action	txt/307918907.xml.txt	1
+-1	against	The author of the text is clearly Against affirmative action, as they provide numerous examples and evidence of how white men have been negatively affected by affirmative action policies. The author discusses instances of reverse discrimination, the impact on white men's careers and opportunities, and the suppression of their complaints. The author argues that affirmative action has led to unfair treatment of white males and criticizes the policies as a racial spoils system with attendant corruptions. They also highlight the reluctance of journalists, academics, and politicians to address the negative impact of affirmative action on white men, suggesting a bias against discussing the issue.	0.001186	affirmative action	txt/398288078.xml.txt	1
+-1	against	The author's stance on affirmative action is Against. The author criticizes the establishment civil rights groups for promoting affirmative action and racial quotas, arguing that these policies are divisive and do not address the real problems facing many black Americans. The author advocates for a focus on empowerment and opportunities based on merit and hard work instead of relying on racial preferences.	0.0008625	affirmative action	txt/398299761.xml.txt	1
+None	None	The author's stance on affirmative action is None. The text does not explicitly mention affirmative action, and the focus is on comparing the views of Justice Marshall and Judge Thomas on civil rights issues.	0.0006069999999999999	affirmative action	txt/398321574.xml.txt	1
+-1	against	The author's stance on affirmative action is **Against**. They express support for Ward Connerly's efforts to eliminate race-based admissions and quotas, and they criticize the current system for creating bitterness among white and Asian-heritage students. The author also discusses the California Civil Rights Initiative, which aims to outlaw quotas, and mentions the support of moderate Democrats who see affirmative action causing division in society. Overall, the author argues for a focus on individual achievement rather than institutional mandates in affirmative action policies.	0.0006154999999999999	affirmative action	txt/398441227.xml.txt	1
+-1	against	The author of the text is Against affirmative action.	0.000874	affirmative action	txt/398469346.xml.txt	1
+1	favor	Favor	0.0004395	affirmative action	txt/398482848.xml.txt	1
+-1	against	Against	0.00032349999999999995	affirmative action	txt/398530550.xml.txt	1
+-1	against	The author's stance on affirmative action is Against.	0.00045699999999999994	affirmative action	txt/398538903.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it. They discuss the importance of affirmative action in providing equal opportunities and addressing historical discrimination. They provide examples of how affirmative action has been beneficial, such as in the case of the U.S. Military Academy, and highlight the need for continued programs to promote diversity and equality. The author also criticizes those who view affirmative action negatively and advocates for a more nuanced understanding of the issue.	0.000789	affirmative action	txt/398602003.xml.txt	1
+-1	against	Against	0.0007685	affirmative action	txt/398612922.xml.txt	1
+-1	against	Against	0.0005365	affirmative action	txt/398630711.xml.txt	1
+-1	against	Against	0.000628	affirmative action	txt/398730713.xml.txt	1
+None	None	None	0.0006705	affirmative action	txt/398787032.xml.txt	1
+None	None	The author's stance on affirmative action is None. The text does not discuss or mention affirmative action.	0.0007959999999999999	affirmative action	txt/398788879.xml.txt	1
+None	None	None	0.0007015	affirmative action	txt/398881739.xml.txt	1
+None	None	None	0.0006529999999999999	affirmative action	txt/398920534.xml.txt	1
+None	None	None	0.0006954999999999999	affirmative action	txt/398955309.xml.txt	1
+1	favor	The author, Peter Berkowitz, is clearly in favor of incorporating conservative ideas into the curriculum of political science departments. He argues that the exclusion of conservative ideas is a disservice to students and undermines the principles of liberal education. He believes that courses on conservatism should be mandatory and that affirmative action for conservatives in hiring should be firmly rejected.	0.0007199999999999999	affirmative action	txt/399053714.xml.txt	1
+None	None	None	0.000649	affirmative action	txt/399055159.xml.txt	1
+-1	against	The author of the text is against affirmative action.	0.0005995	affirmative action	txt/399070959.xml.txt	1
+-1	against	The author's stance on affirmative action is Against.	0.0008745	affirmative action	txt/399095057.xml.txt	1
+-1	against	The author of the text appears to be Against affirmative action. The text discusses various foundations and organizations that have significant influence over public policy and social programs, with a critical tone towards their power and lack of accountability. The author highlights instances where foundations have influenced the direction of organizations like the NAACP and MALDEF, as well as their impact on the media and public discourse. The text suggests that these foundations, which often have a liberal leaning, use their influence to shape public policy, including areas like civil rights, welfare, and affirmative action. Overall, the author seems to be critical of the power and influence wielded by these foundations in shaping societal and political agendas.	0.0008735	affirmative action	txt/408321836.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.0004919999999999999	affirmative action	txt/408345293.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor. They emphasize the importance of economic and educational opportunities for all Americans, recognize the disparities that still exist, and advocate for honest dialogue and building a society that honors the dignity of every person.	0.0005665	affirmative action	txt/408345486.xml.txt	1
+-1	against	The author's stance on affirmative action is None. The author presents a nuanced view of the issue, discussing both sides of the argument and highlighting the complexities of affirmative action in university admissions. They do not explicitly state whether they are for or against affirmative action, but rather analyze the situation from a legal and constitutional perspective.	0.000464	affirmative action	txt/408354994.xml.txt	1
+None	None	None	0.0006069999999999999	affirmative action	txt/408366163.xml.txt	1
+None	None	The author's stance on affirmative action is None. The author discusses the progress of African Americans in higher education but does not explicitly express support or opposition to affirmative action.	0.0005359999999999999	affirmative action	txt/408439658.xml.txt	1
+-1	against	Against	0.0005235	affirmative action	txt/408485014.xml.txt	1
+None	None	The author's stance on affirmative action is None. The author does not take a clear position on affirmative action in the text provided.	0.0010285	affirmative action	txt/408523809.xml.txt	1
+None	None	None	0.00043799999999999997	affirmative action	txt/408580425.xml.txt	1
+None	None	None	0.0006569999999999999	affirmative action	txt/408649107.xml.txt	1
+None	None	The author's stance on affirmative action is None. The author mentions Senator Lieberman's past questioning of affirmative action but does not explicitly take a stance on the issue themselves.	0.000486	affirmative action	txt/408654746.xml.txt	1
+1	favor	The author of the text is clearly in favor of affirmative action. They reference Senator Patrick Leahy's comments about John Ashcroft opposing Bill Lann Lee's nomination due to his beliefs on affirmative action. The author questions why the same assessment cannot apply to the person running the whole department, implying that Ashcroft's stance on affirmative action could impact his role as attorney general. Therefore, the author's stance on affirmative action is in favor of it.	0.000564	affirmative action	txt/409060590.xml.txt	1
+1	favor	The author of the text appears to have a neutral stance on affirmative action, as they provide statistics and comparisons without expressing a clear opinion in favor or against it.	0.000511	affirmative action	txt/409076441.xml.txt	1
+-1	against	The author's stance on affirmative action is Against.	0.0006405	affirmative action	txt/409108213.xml.txt	1
+None	None	The author's stance on affirmative action is None. The text does not discuss affirmative action or express a clear opinion on the topic.	0.000513	affirmative action	txt/409129544.xml.txt	1
+-1	against	Against	0.0005095	affirmative action	txt/409707034.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor, as they highlight Justice Sandra Day O'Connor's pivotal role in the Supreme Court's decision to uphold affirmative action in college admissions in 2003.	0.0004915	affirmative action	txt/409718670.xml.txt	1
+-1	against	The author, Jeffrey Rosen, is against the current trend of attacks on judges and the personalization of the judiciary. He argues that judges should resist the spotlight and focus on following the law scrupulously, rather than being influenced by political pressures or personal attacks. He highlights the importance of judicial independence and the dangers of politicians and interest groups trying to manipulate the judiciary for their own agendas. He advocates for judges to avoid grandiose assertions of judicial supremacy and to uphold the principles of judicial independence.	0.001003	affirmative action	txt/409790149.xml.txt	1
+None	None	None	0.0011049999999999999	affirmative action	txt/409936292.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor. They mention that Tel Aviv has affirmative action policies for hiring Israeli Arabs, and they highlight the city's efforts to boost welfare benefits, care for the homeless, and encourage tolerance toward gays and other minorities.	0.0007704999999999999	affirmative action	txt/410325615.xml.txt	1
+-1	against	The author's stance on affirmative action is None. The author focuses on the Christian Coalition's efforts to bridge the gap between white conservatives and the African-American community through initiatives like the Samaritan Project and emphasizes the importance of racial reconciliation and cooperation across racial and cultural lines. The text does not explicitly express a clear stance for or against affirmative action.	0.000579	affirmative action	txt/418239486.xml.txt	1
+1	favor	The author's stance on affirmative action in the context of police force diversity in Chicago is in favor. The author applauds Mayor Daley's strategy to promote racial and ethnic balance within the police force and criticizes those who oppose the plan, stating that job performance and diversity should be considered in promotions.	0.0003865	affirmative action	txt/418249271.xml.txt	1
+None	None	None	0.00031749999999999997	affirmative action	txt/418395424.xml.txt	1
+None	None	None	0.0004585	affirmative action	txt/418468478.xml.txt	1
+-1	against	The author's stance on affirmative action is Against.	0.0005185	affirmative action	txt/418468651.xml.txt	1
+1	favor	Favor	0.0005644999999999999	affirmative action	txt/418520188.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.000296	affirmative action	txt/418548792.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it, as they support the idea of reparations as a form of redressing historical discrimination and disparities faced by African-Americans.	0.0005495	affirmative action	txt/418768610.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.00024249999999999999	affirmative action	txt/418950637.xml.txt	1
+None	None	The author's stance on affirmative action is None.	0.0005405	affirmative action	txt/419118450.xml.txt	1
+None	None	None	0.0004115	affirmative action	txt/419426239.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it. They argue that diversity on college campuses is important and that race-conscious admissions policies can help foster diversity and create a more inclusive educational environment. They believe that merit should not be the only admission standard and that affirmative action can help provide opportunities to students from underrepresented backgrounds. The author emphasizes the importance of diversity in higher education and the benefits it brings to all students.	0.0006554999999999999	affirmative action	txt/419493718.xml.txt	1
+-1	against	Against	0.000561	affirmative action	txt/419989695.xml.txt	1
+1	favor	The author of the text is clearly in favor of affirmative action. The text discusses the tensions within the Chicago Fire Department following its integration in 1968, highlighting instances of racism and the need for fairness and diversity in the department. The author supports Fire Commissioner James Joyce's commitment to addressing racism within the department and Mayor Richard Daley's stance on holding individuals accountable for their actions, including the use of racial slurs. The text emphasizes the importance of promoting fairness, integrity, and public service within the fire department, indicating a clear stance in favor of affirmative action.	0.0007784999999999999	affirmative action	txt/420033919.xml.txt	1
+1	favor	The author of the text seems to be in favor of affirmative action. The text discusses the appointment of Cortez Trotter, a black man, as the new fire commissioner in the Chicago Fire Department, highlighting the importance of diversity and addressing historical issues of racial discrimination within the department. The author also mentions the importance of affirmative action in promoting diversity and equality, especially in a city that is mostly black and Latino.	0.0006205	affirmative action	txt/420116341.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.000577	affirmative action	txt/420158599.xml.txt	1
+None	None	The author's stance on affirmative action is None.	0.000532	affirmative action	txt/420294538.xml.txt	1
+1	favor	The author's stance on affirmative action is None. The text does not explicitly express a clear opinion in favor of or against affirmative action.	0.0007534999999999999	affirmative action	txt/420306539.xml.txt	1
+-1	against	Against	0.0003095	affirmative action	txt/420549304.xml.txt	1
+None	None	None	0.0005049999999999999	affirmative action	txt/420557855.xml.txt	1
+1	favor	"The author's stance on affirmative action in this text is in favor. The text mentions that there is ""but a touch of affirmative action in Hamilton's story-- just enough to be fair in the unspeakably expensive world of international formula racing."" The author acknowledges the role of affirmative action in providing opportunities for individuals like Lewis Hamilton in a competitive field like Formula One racing."	0.0006039999999999999	affirmative action	txt/420558694.xml.txt	1
+-1	against	Against	0.00058	affirmative action	txt/420733639.xml.txt	1
+1	favor	Favor	0.0005145	affirmative action	txt/420906077.xml.txt	1
+1	favor	The author of the text is in favor of Martin Luther King Jr.'s approach to addressing social issues and believes that his vision and program still hold value and relevance today.	0.000637	affirmative action	txt/421118533.xml.txt	1
+-1	against	The author's stance on affirmative action is Against.	0.0005385	affirmative action	txt/421152514.xml.txt	1
+None	None	The author's stance on affirmative action is None. The article does not mention affirmative action or take a stance on the issue.	0.0006915	affirmative action	txt/421214771.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor. They believe in the importance of enforcing civil rights laws to ensure equal opportunity regardless of race, ethnicity, religion, or disability. They support the Clinton administration's proposal to boost civil rights enforcement and funding to address racial barriers and discrimination in various aspects of society.	0.000367	affirmative action	txt/421215181.xml.txt	1
+None	None	The author's stance on affirmative action is None. The text does not mention or discuss affirmative action in any way.	0.000583	affirmative action	txt/421228265.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it.	0.00041099999999999996	affirmative action	txt/421303437.xml.txt	1
+None	None	The author's stance on affirmative action is **None**. The author discusses the limitations and shortcomings of race-based affirmative action policies and argues for a more comprehensive approach to fighting racism that takes into account economic class differences and addresses the structural issues contributing to inequality. The author suggests that a focus solely on race-based affirmative action is not sufficient to address the economic problems faced by poor people of color.	0.000867	affirmative action	txt/421333085.xml.txt	1
+None	None	None	0.000529	affirmative action	txt/421424365.xml.txt	1
+None	None	None	0.0005304999999999999	affirmative action	txt/421507153.xml.txt	1
+1	favor	The author of the text appears to be in favor of affirmative action, as they mention State Senate minority leader Jim Brulte's affirmative action program where he supported Republican women and minorities in their primary campaigns.	0.000594	affirmative action	txt/421508307.xml.txt	1
+-1	against	Against	0.00045749999999999995	affirmative action	txt/421525331.xml.txt	1
+1	favor	Favor	0.0005135	affirmative action	txt/421552708.xml.txt	1
+1	favor	Favor	0.0004915	affirmative action	txt/421591042.xml.txt	1
+-1	against	Against	0.00042599999999999995	affirmative action	txt/421600586.xml.txt	1
+-1	against	Against	0.00030599999999999996	affirmative action	txt/421609713.xml.txt	1
+-1	against	Against	0.00039949999999999995	affirmative action	txt/421647247.xml.txt	1
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided.	0.0006135	affirmative action	txt/421978637.xml.txt	1
+-1	against	The author of the text is clearly Against affirmative action.	0.0004655	affirmative action	txt/421987509.xml.txt	1
+-1	against	Against	0.0005505	affirmative action	txt/422176235.xml.txt	1
+1	favor	Favor	0.0003995	affirmative action	txt/422316037.xml.txt	1
+-1	against	The author's stance on affirmative action is Against.	0.0005255	affirmative action	txt/423943644.xml.txt	1
+1	favor	The author's stance on affirmative action is **Favor**. The author criticizes the Reagan Administration's nominations of individuals who have opposed affirmative action and have shown preferences against programs promoting equal employment opportunities.	0.0003015	affirmative action	txt/424224130.xml.txt	1
+-1	against	Against	0.000558	affirmative action	txt/424505995.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it.	0.0005175	affirmative action	txt/424669038.xml.txt	1
+None	None	The author's stance on affirmative action is None.	0.000534	affirmative action	txt/424890519.xml.txt	1
+1	favor	Favor	0.000166	affirmative action	txt/427134596.xml.txt	1
+None	None	None	0.000539	affirmative action	txt/427163446.xml.txt	1
+-1	against	Against	0.00039499999999999995	affirmative action	txt/428907164.xml.txt	1
+-1	against	Against	0.00048399999999999995	affirmative action	txt/429909301.xml.txt	1
+-1	against	Against	0.00048349999999999993	affirmative action	txt/430675992.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it. They criticize the focus on ending affirmative action by the GOP and mention figures like Colin Powell, Jack Kemp, and J.C. Watts who favor a just reform of affirmative action rather than its abolition. The author suggests that a repeal of affirmative action would be a failure of efforts to address race and poverty issues.	0.0005705	affirmative action	txt/430810646.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor.	0.000458	affirmative action	txt/430872205.xml.txt	1
+1	favor	Favor	0.00023299999999999997	affirmative action	txt/430898745.xml.txt	1
+1	favor	The author, Lani Guinier, is in favor of affirmative action.	0.00043049999999999995	affirmative action	txt/430957877.xml.txt	1
+1	favor	The author, Henry Louis Gates Jr., expresses a stance in favor of affirmative action. He discusses the historical importance of literacy for African-Americans as a tool of liberation and highlights the current challenges faced by the black community in accessing new tools of literacy in the digital age. Gates emphasizes the need for addressing the digital divide and promoting diversity in technology use, suggesting that content creation and community initiatives can help bridge the gap. He argues that African-Americans must take proactive steps to address the issue of cybersegregation to avoid facing a detrimental future outcome.	0.00076	affirmative action	txt/431248074.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it. The text describes a white supremacist's anti-affirmative action protest and contrasts it with a celebration of diversity and rejection of the notion that one race is superior to another. The author highlights the community's efforts to promote racial harmony and acceptance of differences.	0.0006035	affirmative action	txt/431493919.xml.txt	1
+1	favor	Favor	0.000487	affirmative action	txt/431879654.xml.txt	1
+-1	against	Against	0.0009965	affirmative action	txt/432267882.xml.txt	1
+1	favor	Favor	0.0007164999999999999	affirmative action	txt/432317583.xml.txt	1
+1	favor	Favor	0.0005845	affirmative action	txt/432374988.xml.txt	1
+1	favor	Favor	0.0004735	affirmative action	txt/432405735.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it. The text discusses the Supreme Court's decision upholding affirmative action in university admissions and explores the challenges and debates surrounding the issue. The author presents arguments in support of affirmative action, such as the need to close the education gap and ensure equal opportunities for minority students. The text also mentions supporters of affirmative action hoping that Justice O'Connor's 25-year time frame will protect affirmative action while progress is made in closing the rift. Additionally, the text includes historical context on the development of affirmative action policies and mentions individuals who have supported affirmative action over the years.	0.001235	affirmative action	txt/432415722.xml.txt	1
+1	favor	The author's stance on affirmative action is in favor of it.	0.00045299999999999995	affirmative action	txt/432419685.xml.txt	1
+1	favor	Favor	0.0007084999999999999	affirmative action	txt/432471477.xml.txt	1
+1	favor	The author, Ian Haney Lopez, is in favor of affirmative action. He argues that the Constitution should protect groups that suffer subordination, and he criticizes the Supreme Court for equating all race-conscious government action with racism. Lopez believes that the court should focus on ending racial subordination rather than solely on formal racial distinctions.	0.0006875	affirmative action	txt/432763623.xml.txt	1
+None	None	None	0.000765	affirmative action	txt/432876223.xml.txt	1
+None	None	The author's stance on affirmative action is None. The article discusses the controversy surrounding Lawrence Summers and his views on various issues at Harvard University, including affirmative action, but does not explicitly state the author's personal opinion on the matter.	0.0008105	affirmative action	txt/432991807.xml.txt	1
+-1	against	Against	0.0005355	affirmative action	txt/433917131.xml.txt	1
+1	favor	Favor	0.0008454999999999999	affirmative action	txt/434126284.xml.txt	1
+1	favor	Favor	0.000281	affirmative action	txt/752088707.xml.txt	1
+-1	against	The author's stance on affirmative action is Against.	0.000501	affirmative action	txt/759996654.xml.txt	1
+-1	against	Against	0.0005359999999999999	affirmative action	txt/900173941.xml.txt	1
+
+1	favor	The author's stance on affirmative action is in favor.	0.0005065	affirmative action	txt/1011079659.xml.txt	2
+-1	against	Against	0.000531	affirmative action	txt/1014285656.xml.txt	2
+1	favor	Favor	0.0006534999999999999	affirmative action	txt/1022742622.xml.txt	2
+-1	against	The author of the text is Against affirmative action.	0.0005290000000000001	affirmative action	txt/1023015447.xml.txt	2
+-1	against	Against	0.000158	affirmative action	txt/1034256694.xml.txt	2
+-1	against	The author's stance on affirmative action is Against.	0.000229	affirmative action	txt/1099415355.xml.txt	2
+None	None	The author's stance on affirmative action is None. The text primarily focuses on the Voting Rights Act and its unintended consequences, rather than discussing affirmative action.	0.0005365	affirmative action	txt/1370789528.xml.txt	2
+None	None	The author of the text does not explicitly state their stance on affirmative action. Therefore, their stance can be classified as None.	0.000694	affirmative action	txt/1372854272.xml.txt	2
+1	favor	Favor	0.0006509999999999999	affirmative action	txt/1519805309.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.0003585	affirmative action	txt/1548604795.xml.txt	2
+None	None	The author's stance on affirmative action is None. The text primarily discusses the campus rape debate and the handling of sexual assault cases on college campuses, without addressing affirmative action.	0.0007340000000000001	affirmative action	txt/1652232593.xml.txt	2
+-1	against	Against	0.00045549999999999996	affirmative action	txt/1667204395.xml.txt	2
+None	None	The author's stance on affirmative action is None. The text primarily discusses the challenges of developing a hate-speech policy on campuses, focusing on issues related to free speech, hate speech, and defining what types of speech and conduct are impermissible. The author does not express a clear stance on affirmative action in the context of the text provided.	0.0005685	affirmative action	txt/1716194235.xml.txt	2
+None	None	None	0.00048399999999999995	affirmative action	txt/1750369183.xml.txt	2
+None	None	None	0.00026149999999999996	affirmative action	txt/1752156404.xml.txt	2
+1	favor	"The author, Harold O. Levy, is clearly in favor of affirmative action for low-income students in elite colleges and universities. He argues that there is a significant disparity in access to higher education for smart, low-income students compared to their wealthier peers. Levy advocates for a ""poverty preference"" in admissions to level the playing field and provide academically qualified students from underprivileged backgrounds with opportunities that match their abilities. He believes that all young people in the United States should have a fair chance at academic success based on true merit, regardless of their socioeconomic status. Levy also suggests that giving more credit to low-income students for their achievements despite facing obstacles can help address the inequities in the current system."	0.0007005	affirmative action	txt/1761271674.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.0006315	affirmative action	txt/1774364135.xml.txt	2
+1	favor	Favor	0.000453	affirmative action	txt/1799136984.xml.txt	2
+-1	against	Against	9.4e-05	affirmative action	txt/1823531226.xml.txt	2
+1	favor	"The author of the text appears to be in the ""None"" category regarding affirmative action. The text focuses on the upcoming confirmation hearings for Judge Neil Gorsuch and the importance of discussing his views on the Constitution, role of precedent, and how the court should adapt to changing circumstances. While the text mentions concerns about how Gorsuch's confirmation could affect progressive causes, including affirmative action, the author does not explicitly state a stance in favor or against affirmative action."	0.0007714999999999999	affirmative action	txt/1878508466.xml.txt	2
+None	None	None	0.00043699999999999994	affirmative action	txt/1919844871.xml.txt	2
+1	favor	Favor	0.0010375	affirmative action	txt/1951409635.xml.txt	2
+1	favor	The author is clearly in favor of affirmative action, as they discuss racism, denial of racism, and the need for acknowledgment and confession of racism in American society.	0.000869	affirmative action	txt/1987023512.xml.txt	2
+None	None	None	0.0005545	affirmative action	txt/2009409469.xml.txt	2
+-1	against	Against	0.0005114999999999999	affirmative action	txt/2053215813.xml.txt	2
+None	None	None	0.0005434999999999999	affirmative action	txt/2065768718.xml.txt	2
+1	favor	Favor	0.000332	affirmative action	txt/2065977608.xml.txt	2
+1	favor	The author's stance on affirmative action is in Favor.	0.0005875	affirmative action	txt/2090998076.xml.txt	2
+1	favor	Favor	0.000489	affirmative action	txt/2099964529.xml.txt	2
+None	None	None	0.0008579999999999999	affirmative action	txt/2100741387.xml.txt	2
+1	favor	The authors of the text are in favor of affirmative action.	0.000334	affirmative action	txt/2138443158.xml.txt	2
+-1	against	Against	0.000489	affirmative action	txt/2154417607.xml.txt	2
+None	None	None	0.004876999999999999	affirmative action	txt/215497350.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.00027	affirmative action	txt/2193427873.xml.txt	2
+1	favor	The author of the text is in favor of affirmative action.	0.0005375	affirmative action	txt/2212953270.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.000535	affirmative action	txt/2213159829.xml.txt	2
+1	favor	"The authors' stances on affirmative action are as follows:
+
+1. William Kidder: Favor
+2. Rosiland Jordan: Favor
+3. Jane McAlevey: Favor
+4. Randal Maurice Jelks: Favor"	0.000447	affirmative action	txt/2215402698.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.000575	affirmative action	txt/2216641847.xml.txt	2
+-1	against	Against	0.000575	affirmative action	txt/2230209410.xml.txt	2
+None	None	None	0.00011699999999999998	affirmative action	txt/2233007997.xml.txt	2
+None	None	The author's stance on affirmative action is None.	0.00045149999999999997	affirmative action	txt/2234177127.xml.txt	2
+1	favor	Favor	0.00017999999999999998	affirmative action	txt/2236625026.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.0005105	affirmative action	txt/2236765173.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.0001115	affirmative action	txt/2237777942.xml.txt	2
+-1	against	The author's stance on affirmative action is Against.	0.000203	affirmative action	txt/2238130344.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it. The author expresses frustration with those who believe affirmative action is no longer necessary and emphasizes the need for reparations to address the lasting impacts of slavery and racism in America.	0.0005675000000000001	affirmative action	txt/2244665351.xml.txt	2
+-1	against	"The author's stance on affirmative action is not explicitly stated in the text provided. The focus of the text is on race relations in Hawaii, the impact of diversity and mixing on quashing racism, and the unique history and culture of Hawaii. The author explores the concept of the ""aloha spirit"" and its implications for human relationships. The text does not take a clear position for or against affirmative action."	0.0035315	affirmative action	txt/2248215580.xml.txt	2
+-1	against	"The authors' stances on affirmative action are as follows:
+
+1. Robert B. Newlin from Arlington: None. He focuses on the qualifications and characteristics a Supreme Court justice should possess, without mentioning affirmative action.
+
+2. Richard L. Sheffield from Columbia: Against. He criticizes the use of the term ""ordinary Americans"" and questions whether it implies a sense of superiority or noblesse oblige. His skepticism towards the language used in the context of ""ordinary citizens"" suggests a critical view on the concept.
+
+3. Harry Piotrowski from Crofton: Against. He mentions how Antonin Scalia and Ronald Reagan viewed affirmative action negatively, referring to it as a ""wicked plot against our merit-based society."" This indicates his disapproval of affirmative action."	0.0004765	affirmative action	txt/230632738.xml.txt	2
+1	favor	Favor	0.0008689999999999999	affirmative action	txt/2414754878.xml.txt	2
+1	favor	In Favor	0.0004835	affirmative action	txt/2417314051.xml.txt	2
+-1	against	The author's stance on affirmative action is Against.	0.00035499999999999996	affirmative action	txt/2419240626.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor, as they highlight Reagan's vow to abolish affirmative action and his administration's belief that white men were the only victims of reverse discrimination.	0.0007565	affirmative action	txt/2424705741.xml.txt	2
+1	favor	Favor	0.0005015	affirmative action	txt/2432777796.xml.txt	2
+1	favor	Favor	0.0005545	affirmative action	txt/2444131672.xml.txt	2
+None	None	In this text, the author's stance on affirmative action is not explicitly stated. The author primarily discusses the lack of justice in cases involving police officers killing Black individuals, particularly referencing the case of Breonna Taylor. The text focuses on systemic racism, historical injustices, and the struggles faced by African-Americans in seeking accountability and justice. Therefore, the author's stance on affirmative action is classified as None.	0.0007509999999999999	affirmative action	txt/2445858352.xml.txt	2
+1	favor	Favor	0.000517	affirmative action	txt/2452692303.xml.txt	2
+-1	against	Against	0.0005195	affirmative action	txt/2454579785.xml.txt	2
+None	None	None	0.0006789999999999999	affirmative action	txt/2469478152.xml.txt	2
+-1	against	Against	0.00033249999999999995	affirmative action	txt/2509403436.xml.txt	2
+1	favor	The author's stance on affirmative action appears to be in favor of it. They mention that elite universities offer legacy preferences that amount to affirmative action for highly privileged children, and they discuss how some universities have more students from the richest 1 percent than from the poorest 60 percent. Additionally, the author highlights the need to address root inequities and promote programs that reduce race gaps over time, such as early childhood initiatives, baby bonds, child tax credits, job training, and a higher minimum wage.	0.001241	affirmative action	txt/2530287535.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.0005865	affirmative action	txt/2565796466.xml.txt	2
+None	None	The author's stance on affirmative action is None. The text does not express a clear opinion or stance on affirmative action.	0.0005695	affirmative action	txt/2582284660.xml.txt	2
+-1	against	Against	0.0009404999999999999	affirmative action	txt/2628908360.xml.txt	2
+-1	against	The author is Against affirmative action.	0.0005145	affirmative action	txt/2633115690.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.0016055	affirmative action	txt/2635873593.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of teaching multiple perspectives and encouraging open inquiry in schools.	0.0007229999999999999	affirmative action	txt/2648708177.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.00044	affirmative action	txt/2682983998.xml.txt	2
+None	None	None	0.0006445	affirmative action	txt/2730261179.xml.txt	2
+None	None	None	0.000682	affirmative action	txt/2761519572.xml.txt	2
+-1	against	The author's stance on affirmative action is Against.	0.0005545	affirmative action	txt/2765919087.xml.txt	2
+-1	against	Against	0.0006085	affirmative action	txt/2778538694.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.000775	affirmative action	txt/2832640273.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.0006389999999999999	affirmative action	txt/2832643195.xml.txt	2
+1	favor	"The authors' stances on affirmative action are as follows:
+
+1. Michael D. Schattman: None
+2. Kathy Viney: Against
+3. Ravin Bhatia: Favor
+4. Aimée La Fountain: None
+5. David Dorsen: None"	0.000441	affirmative action	txt/2833402706.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.0005539999999999999	affirmative action	txt/2837300226.xml.txt	2
+1	favor	The author of the text is in favor of affirmative action.	0.00026	affirmative action	txt/293028806.xml.txt	2
+1	favor	The author's stance on affirmative action seems to be in favor, as they mention that Colin Powell supports some affirmative action.	0.0003515	affirmative action	txt/293063140.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.000578	affirmative action	txt/293087956.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it. The author criticizes the UC Board of Regents' decision to eliminate race and gender preferences in admissions and hiring, and supports the idea of implementing socioeconomic criteria instead. The author expresses concern about the consequences of the political battle surrounding affirmative action on the education of students and advocates for leaders who will prioritize the success of underprivileged students.	0.0006845	affirmative action	txt/293295109.xml.txt	2
+None	None	None	0.0005905	affirmative action	txt/307867242.xml.txt	2
+None	None	None	0.0005024999999999999	affirmative action	txt/307918907.xml.txt	2
+-1	against	The author's stance on affirmative action is Against.	0.001024	affirmative action	txt/398288078.xml.txt	2
+1	favor	The author of the text is clearly in favor of affirmative action. The author criticizes establishment civil rights groups for punishing those who dissent from their orthodoxy and advocates for empowering those who have been denied opportunities. The author also praises Justice Thomas for his rise from poverty and segregation, which the author sees as a vindication of the ideals of equality and opportunity.	0.000867	affirmative action	txt/398299761.xml.txt	2
+None	None	The author's stance on affirmative action is None. The author discusses the viewpoints of both Justice Thurgood Marshall and Judge Clarence Thomas on civil rights issues, but does not explicitly express a stance on affirmative action.	0.0006129999999999999	affirmative action	txt/398321574.xml.txt	2
+None	None	None	0.00046699999999999997	affirmative action	txt/398441227.xml.txt	2
+-1	against	Against	0.0008604999999999999	affirmative action	txt/398469346.xml.txt	2
+1	favor	The author of the text is in favor of a capital gains tax cut as a way to stimulate economic growth and create job opportunities for the black community. They believe that such a tax cut would benefit black-owned businesses and help reduce the need for affirmative action in the long run. The author suggests that the Congressional Black Caucus should support this measure to advocate for the flow of investment capital to black businesses and create more job opportunities for their constituents.	0.000567	affirmative action	txt/398482848.xml.txt	2
+-1	against	Against	0.00032349999999999995	affirmative action	txt/398530550.xml.txt	2
+1	favor	The author's stance on affirmative action can be classified as None. The author discusses the complexities and nuances of the issue, highlighting the need for making useful distinctions and raising questions about the status of affirmative action. The author presents various perspectives and examples without explicitly expressing a clear stance in favor of or against affirmative action.	0.000535	affirmative action	txt/398538903.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.0006764999999999999	affirmative action	txt/398602003.xml.txt	2
+-1	against	Against	0.0007685	affirmative action	txt/398612922.xml.txt	2
+-1	against	Against	0.0005365	affirmative action	txt/398630711.xml.txt	2
+-1	against	Against	0.000628	affirmative action	txt/398730713.xml.txt	2
+None	None	None	0.0006705	affirmative action	txt/398787032.xml.txt	2
+None	None	The author's stance on affirmative action is not explicitly mentioned in the text.	0.0007884999999999999	affirmative action	txt/398788879.xml.txt	2
+None	None	None	0.0007015	affirmative action	txt/398881739.xml.txt	2
+-1	against	The author of the text is against affirmative action, as they criticize the Democratic strategy memos that show collusion between liberal interest groups and Democratic senators to influence judicial nominations, including using affirmative action as a political maneuver. The author also questions the media's lack of coverage on this issue and expresses support for the accused GOP staffer who is in danger of losing their job due to the leaked memos.	0.0007685	affirmative action	txt/398920534.xml.txt	2
+None	None	None	0.0006954999999999999	affirmative action	txt/398955309.xml.txt	2
+1	favor	Favor	0.0006224999999999999	affirmative action	txt/399053714.xml.txt	2
+-1	against	The author's stance on affirmative action is Against.	0.0006625	affirmative action	txt/399055159.xml.txt	2
+-1	against	Against	0.0005859999999999999	affirmative action	txt/399070959.xml.txt	2
+-1	against	Against	0.0008609999999999999	affirmative action	txt/399095057.xml.txt	2
+-1	against	The author of the text seems to be Against affirmative action, as they criticize the influence and power of foundations with a liberal cast that support initiatives such as civil rights movements, expansion of the welfare state, disarmament, and population control abroad. They also highlight the potential misuse of federal grants by politically active nonprofits and express concerns about the lack of accountability and scrutiny over the activities of these foundations.	0.000791	affirmative action	txt/408321836.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.0004919999999999999	affirmative action	txt/408345293.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it. They believe that until every American has real economic and educational opportunities, there will be disparities that may look like racial discrimination. The author emphasizes the importance of recognizing the worth of all people and honoring the dignity of every person, indicating a supportive view of affirmative action as a means to address these disparities.	0.0006025	affirmative action	txt/408345486.xml.txt	2
+None	None	The author's stance on affirmative action is **None**. The author presents a balanced view of the issue, discussing both sides of the argument and highlighting the complexities and uncertainties surrounding affirmative action policies and legal challenges.	0.0004325	affirmative action	txt/408354994.xml.txt	2
+None	None	None	0.0006069999999999999	affirmative action	txt/408366163.xml.txt	2
+-1	against	The author's stance on affirmative action is None. The author discusses the progress of African Americans in higher education and acknowledges the disparities and challenges that still exist, but does not explicitly mention affirmative action or take a specific stance for or against it.	0.0005585	affirmative action	txt/408439658.xml.txt	2
+-1	against	Against	0.0005235	affirmative action	txt/408485014.xml.txt	2
+1	favor	Favor	0.0009925	affirmative action	txt/408523809.xml.txt	2
+None	None	The author's stance on affirmative action is None. The text does not specifically address affirmative action, but rather discusses the author's observations and reflections on race, politics, and the ability of white voters to look beyond a black candidate's race.	0.0005085	affirmative action	txt/408580425.xml.txt	2
+None	None	None	0.0006569999999999999	affirmative action	txt/408649107.xml.txt	2
+None	None	The author's stance on affirmative action is None. The author discusses Senator Lieberman's past questioning of affirmative action but does not clearly state their own opinion on the matter.	0.000486	affirmative action	txt/408654746.xml.txt	2
+1	favor	The author of the text is in favor of affirmative action.	0.0004485	affirmative action	txt/409060590.xml.txt	2
+None	None	The author of the text appears to have a neutral stance on affirmative action, as they present statistics and comparisons of the diversity of top-tier positions in different administrations without explicitly expressing support or opposition to affirmative action.	0.0005245	affirmative action	txt/409076441.xml.txt	2
+1	favor	The author of the text is in favor of affirmative action.	0.0006435	affirmative action	txt/409108213.xml.txt	2
+1	favor	The author of the text is in favor of George W. Bush's political intelligence and approach to winning over voters through understanding and manipulating people and situations. The author praises Bush's ability to navigate political dynamics and make strategic moves to satisfy different voter groups, including the core, anti-core, and swing voters. Therefore, the author's stance on affirmative action would likely be in favor of it as part of a strategic political approach.	0.0006015	affirmative action	txt/409129544.xml.txt	2
+-1	against	Against	0.0005095	affirmative action	txt/409707034.xml.txt	2
+1	favor	"The author's stance on affirmative action is ""Favor."""	0.0004495	affirmative action	txt/409718670.xml.txt	2
+-1	against	Against	0.000856	affirmative action	txt/409790149.xml.txt	2
+None	None	None	0.0011049999999999999	affirmative action	txt/409936292.xml.txt	2
+None	None	None	0.0006954999999999999	affirmative action	txt/410325615.xml.txt	2
+None	None	The author's stance on affirmative action is None. The author discusses the Christian Coalition's opposition to mainstream civil rights leaders on affirmative action but does not explicitly state their own opinion on the matter.	0.000534	affirmative action	txt/418239486.xml.txt	2
+1	favor	The author's stance on affirmative action in the context of the police force in Chicago is in favor.	0.0003265	affirmative action	txt/418249271.xml.txt	2
+None	None	None	0.00031749999999999997	affirmative action	txt/418395424.xml.txt	2
+None	None	The author's stance on affirmative action is None. The author discusses various perspectives on the issue, including Professor Lino Graglia's opposition to affirmative action, but does not explicitly state their own position on the matter. Instead, the author emphasizes the importance of engaging in open dialogue and considering multiple viewpoints on the topic of minority achievement and underrepresentation in academia.	0.000565	affirmative action	txt/418468478.xml.txt	2
+-1	against	Against	0.0005049999999999999	affirmative action	txt/418468651.xml.txt	2
+1	favor	The author of the text is in favor of affirmative action. They argue that increasing accessibility to job training programs for black working women is essential to boost their income levels and address historical disparities. They advocate for equal access to training programs and believe that businesses should invest in human capital through on-the-job training. The author also emphasizes the importance of continuous learning and mentoring programs to help women, particularly black women, advance in the workforce and break job segregation patterns.	0.0006965	affirmative action	txt/418520188.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.00029899999999999995	affirmative action	txt/418548792.xml.txt	2
+1	favor	The author is in favor of affirmative action, specifically reparations for African-Americans to redress the damages of past racism.	0.0005315	affirmative action	txt/418768610.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.0002455	affirmative action	txt/418950637.xml.txt	2
+None	None	None	0.0005269999999999999	affirmative action	txt/419118450.xml.txt	2
+None	None	None	0.0004115	affirmative action	txt/419426239.xml.txt	2
+1	favor	Favor	0.0005309999999999999	affirmative action	txt/419493718.xml.txt	2
+-1	against	The author of the text is clearly Against affirmative action. The text discusses a case of fraud in a $100 million affirmative-action contract scheme involving the mayor of Chicago's friends. The author criticizes the misuse of taxpayer dollars going to the mayor's associates and highlights the fact that contracts meant for women or minority-owned firms were given to white individuals. The author emphasizes that the issue is not personal but about the misuse of public funds. The author also compares the media's treatment of this scandal with past instances involving individuals of different races, suggesting a bias in media coverage.	0.000729	affirmative action	txt/419989695.xml.txt	2
+1	favor	The author of the text is in favor of affirmative action. This is evident from the mention of Fire Commissioner James Joyce advancing the cause of accelerated promotion of minorities, and the criticism of those who feel that affirmative action is unfair to some whites. The author emphasizes the importance of fairness in the department's culture and suggests that promoting minorities is a step towards achieving fairness.	0.000717	affirmative action	txt/420033919.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.000514	affirmative action	txt/420116341.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.000577	affirmative action	txt/420158599.xml.txt	2
+None	None	The author's stance on affirmative action is None.	0.000532	affirmative action	txt/420294538.xml.txt	2
+1	favor	Favor	0.000716	affirmative action	txt/420306539.xml.txt	2
+-1	against	The author of the text is Against affirmative action.	0.000323	affirmative action	txt/420549304.xml.txt	2
+None	None	None	0.0005049999999999999	affirmative action	txt/420557855.xml.txt	2
+None	None	None	0.0004944999999999999	affirmative action	txt/420558694.xml.txt	2
+-1	against	Against	0.00058	affirmative action	txt/420733639.xml.txt	2
+1	favor	Favor	0.0005145	affirmative action	txt/420906077.xml.txt	2
+1	favor	Favor	0.0005889999999999999	affirmative action	txt/421118533.xml.txt	2
+None	None	None	0.000525	affirmative action	txt/421152514.xml.txt	2
+None	None	The author's stance on affirmative action is None. The text does not mention affirmative action or provide any indication of the author's stance on the issue.	0.000699	affirmative action	txt/421214771.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.0002905	affirmative action	txt/421215181.xml.txt	2
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided. Therefore, their stance on affirmative action is classified as None.	0.0005905	affirmative action	txt/421228265.xml.txt	2
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided. Therefore, their stance on affirmative action is classified as None.	0.00043349999999999997	affirmative action	txt/421303437.xml.txt	2
+None	None	"The author's stance on affirmative action is **None**. The author discusses the limitations and shortcomings of race-based affirmative action policies and argues for a more comprehensive approach to fighting racism that takes into account economic class differences within communities of color. The author suggests that a class-based affirmative action policy might be a better way of helping ""truly needy"" people of color, but ultimately emphasizes the need for a more comprehensive strategy to address the effects of racism on poor people of color."	0.0008925000000000001	affirmative action	txt/421333085.xml.txt	2
+None	None	The author's stance on affirmative action is None.	0.0005425	affirmative action	txt/421424365.xml.txt	2
+None	None	None	0.0005304999999999999	affirmative action	txt/421507153.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.000549	affirmative action	txt/421508307.xml.txt	2
+-1	against	Against	0.00045749999999999995	affirmative action	txt/421525331.xml.txt	2
+1	favor	Favor	0.0005135	affirmative action	txt/421552708.xml.txt	2
+1	favor	The author is in favor of abolishing the SAT and believes that the use of standardized tests such as the SAT is inherently racist and perpetuates racial and economic inequalities. They argue that standardized tests like the SAT do not accurately assess merit and that criteria for college admissions should focus on qualities such as motivation, effort, critical thinking, intercultural awareness, and skepticism of standardized knowledge. The author supports UC President Richard H. Atkinson's proposal to cast doubt on the SAT and advocates for redirecting resources towards creating more university seats rather than spending billions of dollars on standardized testing.	0.000661	affirmative action	txt/421591042.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.000441	affirmative action	txt/421600586.xml.txt	2
+-1	against	The author's stance on affirmative action is leaning towards being Against. The author criticizes the 57 multiethnic categories in the 2000 census, stating that it serves conservative political motivations rather than cultural pluralism. They argue that the convoluted data makes it difficult to monitor and legislate affirmative action and other race-based programs. The author questions the validity of the data collected and suggests that the government should clarify the political need for these new categories. They also propose abandoning race identification altogether and focusing on socio-economic factors instead. Additionally, the author highlights the disparity in treatment between whites and minority groups in terms of categorization.	0.0004935	affirmative action	txt/421609713.xml.txt	2
+-1	against	Against	0.00039949999999999995	affirmative action	txt/421647247.xml.txt	2
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided.	0.0006135	affirmative action	txt/421978637.xml.txt	2
+-1	against	The author of the text is clearly Against affirmative action. The author criticizes Democrats for their staunch support of affirmative action and suggests that it may no longer be necessary after 30 years.	0.0005045	affirmative action	txt/421987509.xml.txt	2
+1	favor	The author of the text is clearly in favor of Clarence Thomas and is against the criticism directed towards him regarding affirmative action. The author argues against the attacks on Thomas, stating that it is hypocritical to support affirmative action but then criticize Thomas as being undeserving. The author supports Thomas' opposition to racial preferences and highlights the personal impact affirmative action can have on individuals. The author also criticizes liberals for attacking Thomas and emphasizes the importance of treating him as an individual rather than a scapegoat for political agendas.	0.000702	affirmative action	txt/422176235.xml.txt	2
+None	None	None	0.00039799999999999997	affirmative action	txt/422316037.xml.txt	2
+-1	against	Against	0.000512	affirmative action	txt/423943644.xml.txt	2
+-1	against	The author is clearly Against affirmative action, as they criticize the nomination of William Bell to head the Equal Employment Opportunity Commission, citing his lack of accomplishments in civil rights and management. The author also mentions Mr. Zumbrun's opposition to affirmative action and preference for helping corporations that oppose affirmative action.	0.00033	affirmative action	txt/424224130.xml.txt	2
+-1	against	Against	0.000558	affirmative action	txt/424505995.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.0005145	affirmative action	txt/424669038.xml.txt	2
+None	None	The author's stance on affirmative action is None.	0.000534	affirmative action	txt/424890519.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.0001795	affirmative action	txt/427134596.xml.txt	2
+None	None	None	0.000539	affirmative action	txt/427163446.xml.txt	2
+-1	against	The author's stance on affirmative action is Against.	0.00040849999999999995	affirmative action	txt/428907164.xml.txt	2
+-1	against	Against	0.00048399999999999995	affirmative action	txt/429909301.xml.txt	2
+-1	against	Against	0.00048349999999999993	affirmative action	txt/430675992.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it. The author criticizes the Republican Party for focusing on ending affirmative action, pointing out that prominent figures within the party favor a just reform of affirmative action rather than its abolition. The author also suggests that both parties would rather play to the gallery than address the root causes of racial and poverty issues, indicating a belief in the importance of affirmative action as a tool for addressing inequality.	0.00059	affirmative action	txt/430810646.xml.txt	2
+1	favor	Favor	0.0004445	affirmative action	txt/430872205.xml.txt	2
+None	None	None	0.0002315	affirmative action	txt/430898745.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.00042599999999999995	affirmative action	txt/430957877.xml.txt	2
+1	favor	Favor	0.0006025	affirmative action	txt/431248074.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it. The author highlights a celebration of diversity, rejection of the notion of racial superiority, and a display of racial accord in response to a white supremacist's anti-affirmative action protest.	0.0005825	affirmative action	txt/431493919.xml.txt	2
+1	favor	Favor	0.000487	affirmative action	txt/431879654.xml.txt	2
+-1	against	Against	0.0009965	affirmative action	txt/432267882.xml.txt	2
+1	favor	Favor	0.0007164999999999999	affirmative action	txt/432317583.xml.txt	2
+1	favor	Favor	0.0005845	affirmative action	txt/432374988.xml.txt	2
+None	None	"The author's stance on affirmative action is ""None."""	0.000487	affirmative action	txt/432405735.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it. The text discusses the history of affirmative action, the ongoing debate surrounding it, and the challenges and disparities in educational achievement and opportunities across racial and ethnic lines. The author presents arguments in support of affirmative action, highlighting the need to address issues of inequality and the achievement gap, as well as the demographic changes that will impact college admissions in the future. The author also mentions the importance of diversity and the potential consequences of not continuing affirmative action efforts.	0.001202	affirmative action	txt/432415722.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor of it.	0.00045299999999999995	affirmative action	txt/432419685.xml.txt	2
+1	favor	Favor	0.0007084999999999999	affirmative action	txt/432471477.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.000605	affirmative action	txt/432763623.xml.txt	2
+None	None	None	0.000765	affirmative action	txt/432876223.xml.txt	2
+None	None	The author's stance on affirmative action is None. The author presents a balanced view of both liberal and conservative perspectives on affirmative action at Harvard University without explicitly expressing their own opinion on the matter.	0.0007985	affirmative action	txt/432991807.xml.txt	2
+None	None	The author's stance on affirmative action is None.	0.000549	affirmative action	txt/433917131.xml.txt	2
+1	favor	The author's stance on affirmative action is in Favor. The text highlights the positive impact of affirmative action policies in providing opportunities for minorities to attend prestigious universities and ultimately achieve success in various fields, including politics and journalism. The author acknowledges the complexities and challenges faced by individuals benefiting from affirmative action but ultimately supports the idea that diversity in elite institutions is beneficial for society as a whole.	0.0009549999999999999	affirmative action	txt/434126284.xml.txt	2
+1	favor	The author's stance on affirmative action is in favor.	0.0002945	affirmative action	txt/752088707.xml.txt	2
+None	None	None	0.0004875	affirmative action	txt/759996654.xml.txt	2
+-1	against	Against	0.0005359999999999999	affirmative action	txt/900173941.xml.txt	2
+
+1	favor	The author of the text, Clarence Page, does not explicitly state his stance on affirmative action. However, based on the content of the text, it can be inferred that he leans towards being in favor of affirmative action. This is indicated by his mention of the benefits of diversity in the country and his criticism of Jonah Goldberg's negative views on cliches related to diversity and affirmative action.	0.0006055	affirmative action	txt/1011079659.xml.txt	3
+-1	against	Against	0.000531	affirmative action	txt/1014285656.xml.txt	3
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided.	0.0006745	affirmative action	txt/1022742622.xml.txt	3
+-1	against	The author of the text appears to be Against affirmative action.	0.000532	affirmative action	txt/1023015447.xml.txt	3
+-1	against	Against	0.000158	affirmative action	txt/1034256694.xml.txt	3
+-1	against	The author's stance on affirmative action is Against.	0.000229	affirmative action	txt/1099415355.xml.txt	3
+-1	against	The author's stance on affirmative action is None. The text primarily focuses on the Voting Rights Act and its unintended consequences, particularly related to racial gerrymandering and its impact on minority representation in politics. While the author mentions affirmative action in passing, there is no clear indication of a specific stance for or against it.	0.0005874999999999999	affirmative action	txt/1370789528.xml.txt	3
+None	None	None	0.000658	affirmative action	txt/1372854272.xml.txt	3
+1	favor	Favor	0.0006509999999999999	affirmative action	txt/1519805309.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor of it.	0.00036149999999999995	affirmative action	txt/1548604795.xml.txt	3
+None	None	None	0.0006845	affirmative action	txt/1652232593.xml.txt	3
+-1	against	Against	0.00045549999999999996	affirmative action	txt/1667204395.xml.txt	3
+None	None	The author's stance on affirmative action is None. The author focuses on the challenges of developing a hate-speech policy on campuses, discussing the complexities of defining hate speech and protecting freedom of expression. The author does not express a clear position on affirmative action in the text provided.	0.000549	affirmative action	txt/1716194235.xml.txt	3
+-1	against	The author of the text appears to be against affirmative action.	0.0005005	affirmative action	txt/1750369183.xml.txt	3
+None	None	None	0.00026149999999999996	affirmative action	txt/1752156404.xml.txt	3
+1	favor	In favor of affirmative action.	0.000495	affirmative action	txt/1761271674.xml.txt	3
+1	favor	Favor	0.000618	affirmative action	txt/1774364135.xml.txt	3
+1	favor	Favor	0.000453	affirmative action	txt/1799136984.xml.txt	3
+-1	against	Against	9.4e-05	affirmative action	txt/1823531226.xml.txt	3
+None	None	None	0.0006364999999999999	affirmative action	txt/1878508466.xml.txt	3
+None	None	None	0.00043699999999999994	affirmative action	txt/1919844871.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor of traditional diversity, which includes racial and gender diversity. The author criticizes the shift towards focusing solely on cognitive diversity and viewpoint diversity, expressing concerns that it may lead to neglecting the importance of racial and gender diversity in workplaces, particularly in the tech industry.	0.0011275	affirmative action	txt/1951409635.xml.txt	3
+None	None	The author's stance on affirmative action is not explicitly mentioned in the text provided.	0.000845	affirmative action	txt/1987023512.xml.txt	3
+None	None	The author's stance on affirmative action is None.	0.000568	affirmative action	txt/2009409469.xml.txt	3
+-1	against	The author's stance on affirmative action is Against.	0.000525	affirmative action	txt/2053215813.xml.txt	3
+None	None	None	0.0005434999999999999	affirmative action	txt/2065768718.xml.txt	3
+1	favor	Favor	0.000332	affirmative action	txt/2065977608.xml.txt	3
+1	favor	The author's stance on affirmative action is in Favor.	0.0005875	affirmative action	txt/2090998076.xml.txt	3
+-1	against	The author, Erwin Chemerinsky, is Against the comparison of justices to umpires and argues that justices' decisions are influenced by their ideologies and views. He believes that justices play a significant role in interpreting the law and that their personal beliefs impact their rulings. Therefore, he is Against the notion that justices should be neutral and impartial arbiters like umpires.	0.0005955	affirmative action	txt/2099964529.xml.txt	3
+None	None	None	0.0008579999999999999	affirmative action	txt/2100741387.xml.txt	3
+1	favor	"The authors' stances on affirmative action:
+
+Pierre Bertrand: Favor
+Lorna Salzman: Against
+Jane Carey: None"	0.0003565	affirmative action	txt/2138443158.xml.txt	3
+-1	against	Against	0.000489	affirmative action	txt/2154417607.xml.txt	3
+None	None	None	0.004876999999999999	affirmative action	txt/215497350.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.00027	affirmative action	txt/2193427873.xml.txt	3
+1	favor	Favor	0.0005225	affirmative action	txt/2212953270.xml.txt	3
+None	None	None	0.00052	affirmative action	txt/2213159829.xml.txt	3
+1	favor	In favor of affirmative action.	0.0003855	affirmative action	txt/2215402698.xml.txt	3
+None	None	None	0.00056	affirmative action	txt/2216641847.xml.txt	3
+None	None	The author's stance on affirmative action is not explicitly stated in the provided text.	0.0005975	affirmative action	txt/2230209410.xml.txt	3
+None	None	None	0.00011699999999999998	affirmative action	txt/2233007997.xml.txt	3
+1	favor	The author of the text is clearly in favor of affirmative action. The author criticizes Senator Ashcroft for falsely accusing Justice White of being biased against the death penalty based on his alleged opposition to affirmative action. The text argues that the rejection of Justice White was not due to racism but rather due to political motives and a desire to appear tough on crime.	0.0005415	affirmative action	txt/2234177127.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.0001935	affirmative action	txt/2236625026.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor of it.	0.0005105	affirmative action	txt/2236765173.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.00010850000000000001	affirmative action	txt/2237777942.xml.txt	3
+-1	against	The author's stance on affirmative action is Against.	0.000203	affirmative action	txt/2238130344.xml.txt	3
+1	favor	The author of the text is clearly in favor of affirmative action. They express frustration with those who believe affirmative action is no longer necessary, and they argue in support of reparations for the descendants of slaves in America. The author believes that reparations are necessary to address the ongoing impact of slavery and racism in the country.	0.0005945	affirmative action	txt/2244665351.xml.txt	3
+None	None	None	0.0034115	affirmative action	txt/2248215580.xml.txt	3
+-1	against	"The authors' stances on affirmative action are as follows:
+
+1. Robert B. Newlin from Arlington: None - The author does not mention affirmative action specifically in their letter. They focus on the qualifications and characteristics they believe the next Supreme Court justice should possess.
+
+2. Richard L. Sheffield from Columbia: Against - The author criticizes the use of the term ""ordinary Americans"" and suggests using just ""Americans"" instead. They question the implications and potential condescension of the term ""ordinary"" and hint at a sense of noblesse oblige.
+
+3. Harry Piotrowski from Crofton: Against - The author mentions how Ronald Reagan and Antonin Scalia viewed affirmative action negatively, referring to it as a ""wicked plot against our merit-based society."" They also imply that Scalia believed he deserved his position without the assistance of affirmative action."	0.0005035	affirmative action	txt/230632738.xml.txt	3
+None	None	The author's stance on affirmative action is None.	0.000881	affirmative action	txt/2414754878.xml.txt	3
+1	favor	In favor	0.0004835	affirmative action	txt/2417314051.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.0003565	affirmative action	txt/2419240626.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor of it.	0.0007205	affirmative action	txt/2424705741.xml.txt	3
+1	favor	Favor	0.0005015	affirmative action	txt/2432777796.xml.txt	3
+1	favor	Favor	0.0006339999999999999	affirmative action	txt/2445858352.xml.txt	3
+1	favor	Favor	0.000517	affirmative action	txt/2452692303.xml.txt	3
+-1	against	Against	0.0005195	affirmative action	txt/2454579785.xml.txt	3
+None	None	None	0.0006789999999999999	affirmative action	txt/2469478152.xml.txt	3
+-1	against	Against	0.00033249999999999995	affirmative action	txt/2509403436.xml.txt	3
+1	favor	"The author's stance on affirmative action is leaning towards ""Favor."" They discuss legacy preferences in elite universities that amount to affirmative action for highly privileged children and mention that some universities have more students from the richest 1 percent than from the poorest 60 percent. They also talk about the need to address root inequities through programs that promote opportunity and reduce race gaps over time."	0.0012035	affirmative action	txt/2530287535.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.0005865	affirmative action	txt/2565796466.xml.txt	3
+-1	against	"The author of the text seems to have a critical stance on affirmative action and leans towards the ""Against"" category. The text discusses how issues like affirmative action and immigration have proved to be surprisingly unpopular with the very voters they were supposed to appeal to, indicating a skepticism towards the effectiveness of these policies. Additionally, the author highlights the challenges faced by Democrats in shifting their messaging to align with what voters actually want, rather than what activists and journalists prioritize."	0.0006685	affirmative action	txt/2582284660.xml.txt	3
+-1	against	Against	0.0009404999999999999	affirmative action	txt/2628908360.xml.txt	3
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided.	0.000528	affirmative action	txt/2633115690.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor of it. The text discusses how Justice Sandra Day O'Connor, despite initially opposing affirmative action, later wrote the majority opinion that preserved affirmative action in university admissions. The author also mentions the importance of diversity, including racial diversity, on the Supreme Court and highlights the significance of Judge Ketanji Brown Jackson's nomination as the first Black woman to sit on the Supreme Court.	0.001712	affirmative action	txt/2635873593.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.000708	affirmative action	txt/2648708177.xml.txt	3
+1	favor	The authors' stance on affirmative action is in favor.	0.00044	affirmative action	txt/2682983998.xml.txt	3
+None	None	None	0.0006445	affirmative action	txt/2730261179.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor of it.	0.0007	affirmative action	txt/2761519572.xml.txt	3
+-1	against	The author's stance on affirmative action is Against.	0.0005545	affirmative action	txt/2765919087.xml.txt	3
+-1	against	The author's stance on affirmative action is Against.	0.000622	affirmative action	txt/2778538694.xml.txt	3
+-1	against	Against	0.000757	affirmative action	txt/2832640273.xml.txt	3
+-1	against	Against	0.0006209999999999999	affirmative action	txt/2832643195.xml.txt	3
+-1	against	"The authors' stances on affirmative action are as follows:
+
+1. Michael D. Schattman - None
+2. Kathy Viney - Against
+3. Ravin Bhatia - Against
+4. Aimée La Fountain - None
+5. David Dorsen - None"	0.000441	affirmative action	txt/2833402706.xml.txt	3
+1	favor	Favor	0.0005374999999999999	affirmative action	txt/2837300226.xml.txt	3
+1	favor	The author of the text is in Favor of affirmative action.	0.00026	affirmative action	txt/293028806.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.000332	affirmative action	txt/293063140.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.000578	affirmative action	txt/293087956.xml.txt	3
+1	favor	The author of the text is in favor of affirmative action.	0.0005855	affirmative action	txt/293295109.xml.txt	3
+-1	against	Against	0.0005905	affirmative action	txt/307867242.xml.txt	3
+-1	against	The author of the text appears to be Against affirmative action.	0.0005189999999999999	affirmative action	txt/307918907.xml.txt	3
+-1	against	The author's stance on affirmative action is Against.	0.001024	affirmative action	txt/398288078.xml.txt	3
+None	None	None	0.000762	affirmative action	txt/398299761.xml.txt	3
+1	favor	The author of the text appears to be in favor of affirmative action. They argue that Clarence Thomas, a black Supreme Court nominee, shares a similar broad view of the constitutional promise of equality as Thurgood Marshall did. The author also criticizes the lousy reasoning behind the Brown v. Board of Education case and advocates for a colorblind Constitution and a better understanding of equality and liberty. Furthermore, the author praises Judge Thomas for his stance on natural rights and his approach to original-intent jurisprudence. Overall, the author seems to support Judge Thomas's perspective on affirmative action and civil rights issues.	0.0007314999999999999	affirmative action	txt/398321574.xml.txt	3
+None	None	None	0.00046699999999999997	affirmative action	txt/398441227.xml.txt	3
+1	favor	Favor	0.0008619999999999999	affirmative action	txt/398469346.xml.txt	3
+None	None	The author's stance on affirmative action is None. The author focuses on the potential benefits of a capital gains tax cut for the black community and black-owned businesses, rather than discussing affirmative action directly.	0.000495	affirmative action	txt/398482848.xml.txt	3
+-1	against	Against	0.00032349999999999995	affirmative action	txt/398530550.xml.txt	3
+-1	against	The author's stance on affirmative action can be classified as Against.	0.00046149999999999994	affirmative action	txt/398538903.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.0006734999999999999	affirmative action	txt/398602003.xml.txt	3
+-1	against	Against	0.0007685	affirmative action	txt/398612922.xml.txt	3
+-1	against	Against	0.0005365	affirmative action	txt/398630711.xml.txt	3
+-1	against	Against	0.000628	affirmative action	txt/398730713.xml.txt	3
+None	None	None	0.0006705	affirmative action	txt/398787032.xml.txt	3
+None	None	The author's stance on affirmative action is not clearly stated in the provided text. Therefore, their stance on affirmative action is classified as None.	0.000808	affirmative action	txt/398788879.xml.txt	3
+None	None	None	0.0007015	affirmative action	txt/398881739.xml.txt	3
+-1	against	The author's stance on affirmative action is Against.	0.0006665	affirmative action	txt/398920534.xml.txt	3
+None	None	None	0.0006954999999999999	affirmative action	txt/398955309.xml.txt	3
+1	favor	Favor	0.0006224999999999999	affirmative action	txt/399053714.xml.txt	3
+None	None	None	0.000649	affirmative action	txt/399055159.xml.txt	3
+-1	against	Against	0.0005859999999999999	affirmative action	txt/399070959.xml.txt	3
+-1	against	Against	0.0008609999999999999	affirmative action	txt/399095057.xml.txt	3
+None	None	The author's stance on affirmative action is None. The text does not specifically address affirmative action, but rather discusses the influence and activities of nonprofit foundations and tax-exempt organizations in the United States.	0.0007325	affirmative action	txt/408321836.xml.txt	3
+1	favor	The author's stance on affirmative action is in Favor.	0.0004919999999999999	affirmative action	txt/408345293.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor of it.	0.0005139999999999999	affirmative action	txt/408345486.xml.txt	3
+1	favor	The author's stance on affirmative action is None. The author presents a nuanced and complex view on the issue, discussing both sides of the argument without explicitly stating a clear position in favor of or against affirmative action. They highlight the potential implications of the lawsuit challenging the University of Michigan's admissions policy, the legal history surrounding affirmative action, and the various factors that influence admissions decisions at universities. The author does not take a definitive stance in support or opposition to affirmative action but rather examines the issue from multiple perspectives.	0.000521	affirmative action	txt/408354994.xml.txt	3
+None	None	The author's stance on affirmative action is None.	0.0006205	affirmative action	txt/408366163.xml.txt	3
+None	None	The author's stance on affirmative action is None. The author discusses the progress of African Americans in higher education and highlights the positive trends and accomplishments without explicitly mentioning affirmative action.	0.0005375	affirmative action	txt/408439658.xml.txt	3
+-1	against	Against	0.0005235	affirmative action	txt/408485014.xml.txt	3
+1	favor	The author's stance on affirmative action is None. The article does not express a clear opinion in favor of or against affirmative action, but rather focuses on the changing dynamics of politics and the influence of elites in shaping political priorities.	0.001057	affirmative action	txt/408523809.xml.txt	3
+None	None	The author's stance on affirmative action is None. The author discusses race relations and perceptions of race in politics, but does not specifically address affirmative action in the text provided.	0.0004875	affirmative action	txt/408580425.xml.txt	3
+None	None	None	0.0006569999999999999	affirmative action	txt/408649107.xml.txt	3
+None	None	None	0.0004365	affirmative action	txt/408654746.xml.txt	3
+-1	against	Against	0.000432	affirmative action	txt/409060590.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.0004795	affirmative action	txt/409076441.xml.txt	3
+-1	against	The author's stance on affirmative action is Against.	0.0006405	affirmative action	txt/409108213.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.0004904999999999999	affirmative action	txt/409129544.xml.txt	3
+-1	against	Against	0.0005095	affirmative action	txt/409707034.xml.txt	3
+None	None	The author of the text does not explicitly state their stance on affirmative action.	0.000454	affirmative action	txt/409718670.xml.txt	3
+None	None	The author's stance on affirmative action is None.	0.0008695	affirmative action	txt/409790149.xml.txt	3
+None	None	None	0.0011049999999999999	affirmative action	txt/409936292.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor, as they mention that Tel Aviv has affirmative action policies for hiring Israeli Arabs.	0.0007329999999999999	affirmative action	txt/410325615.xml.txt	3
+None	None	The author's stance on affirmative action is None. The text does not explicitly state the author's opinion on affirmative action, but rather focuses on the Christian Coalition's efforts to bridge the gap between white conservatives and the African-American community through initiatives like the Samaritan Project.	0.0005565	affirmative action	txt/418239486.xml.txt	3
+1	favor	The author's stance on affirmative action in this text is in favor.	0.0003175	affirmative action	txt/418249271.xml.txt	3
+None	None	None	0.00031749999999999997	affirmative action	txt/418395424.xml.txt	3
+-1	against	The author's stance on affirmative action is None. The author discusses the controversy surrounding law Professor Lino Graglia's remarks about minority underachievement at selective institutions and the debate over free speech, but does not explicitly state whether they are for or against affirmative action. Instead, the author emphasizes the importance of engaging in a nuanced and complicated discussion about minority achievement and the role of socioeconomic factors, race, and immigration in shaping educational outcomes.	0.0005875	affirmative action	txt/418468478.xml.txt	3
+-1	against	The author of the text is clearly Against affirmative action.	0.00052	affirmative action	txt/418468651.xml.txt	3
+1	favor	The author of the text is in favor of affirmative action. They believe that increasing accessibility to job training programs for black working women is essential to boost income levels and address historical disparities. The author suggests that businesses should implement affirmative action programs to increase diversity and ensure equal access to job training programs. They advocate for expanding the job training opportunities available to black working women and emphasize the importance of lifelong learning and skill development. The text also mentions the need for mentoring programs and encouraging young women, including black women, to pursue education and training opportunities to diminish job segregation.	0.0007279999999999999	affirmative action	txt/418520188.xml.txt	3
+1	favor	The author's stance on affirmative action in this text is in favor of it. The author supports Mayor Richard Daley's efforts to promote affirmative action in police and fire departments in Chicago, highlighting the importance of creating opportunities for blacks and Hispanics and criticizing the resistance from the police and fire unions. The author views affirmative action as a necessary step towards achieving racial and ethnic diversity within the city's public services.	0.00039949999999999995	affirmative action	txt/418548792.xml.txt	3
+1	favor	The author of the text is in favor of affirmative action, specifically in the context of reparations for African-Americans.	0.00053	affirmative action	txt/418768610.xml.txt	3
+1	favor	"The author of the text is clearly in favor of affirmative action. The author criticizes the Chicago Fire Fighters Union for their opposition to affirmative action and their attempt to turn back the clock on race by doing away with ""merit"" promotions that have allowed the advancement of some blacks and Hispanics. The author advocates for creating a fire service command structure that mirrors the diverse city it serves and recommends implementing reforms to end racist behavior in the fire department."	0.00035800000000000003	affirmative action	txt/418950637.xml.txt	3
+None	None	None	0.0005269999999999999	affirmative action	txt/419118450.xml.txt	3
+None	None	None	0.0004115	affirmative action	txt/419426239.xml.txt	3
+1	favor	Favor	0.0005309999999999999	affirmative action	txt/419493718.xml.txt	3
+-1	against	Against	0.000561	affirmative action	txt/419989695.xml.txt	3
+1	favor	The author of the text is clearly in favor of affirmative action. They mention how the long-overdue accelerated promotion of minorities, a cause supported by Fire Commissioner James Joyce, is important for fairness. The author also condemns those who voice frustration through bigotry, emphasizing the need for firefighters who want to serve the public in all its diversity.	0.0007095	affirmative action	txt/420033919.xml.txt	3
+1	favor	The author of the text is in favor of affirmative action.	0.0005155	affirmative action	txt/420116341.xml.txt	3
+-1	against	The author's stance on affirmative action is Against.	0.0005755000000000001	affirmative action	txt/420158599.xml.txt	3
+None	None	None	0.0005185	affirmative action	txt/420294538.xml.txt	3
+None	None	None	0.0007145	affirmative action	txt/420306539.xml.txt	3
+-1	against	The author of the text is Against affirmative action.	0.000323	affirmative action	txt/420549304.xml.txt	3
+None	None	None	0.0005049999999999999	affirmative action	txt/420557855.xml.txt	3
+None	None	None	0.0004944999999999999	affirmative action	txt/420558694.xml.txt	3
+-1	against	Against	0.00058	affirmative action	txt/420733639.xml.txt	3
+1	favor	Favor	0.0005145	affirmative action	txt/420906077.xml.txt	3
+None	None	The author's stance on affirmative action is None.	0.000601	affirmative action	txt/421118533.xml.txt	3
+None	None	None	0.000525	affirmative action	txt/421152514.xml.txt	3
+None	None	None	0.0006554999999999999	affirmative action	txt/421214771.xml.txt	3
+1	favor	The author of the text is in favor of affirmative action. They express support for the Clinton administration's proposal to boost civil rights enforcement, increase funding for civil rights initiatives, and emphasize the importance of strict and timely enforcement of civil rights laws to ensure equal opportunity for all individuals.	0.0003565	affirmative action	txt/421215181.xml.txt	3
+None	None	"The author's stance on affirmative action is not explicitly stated in the text provided. The author focuses on the importance of candidates having ""fire in the belly"" and being eager to compete in politics. There is no mention of affirmative action or any clear indication of the author's stance on the issue. Therefore, the author's stance on affirmative action would be classified as None."	0.0006594999999999999	affirmative action	txt/421228265.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor of it.	0.00041099999999999996	affirmative action	txt/421303437.xml.txt	3
+-1	against	The author's stance on affirmative action is **Against**.	0.000768	affirmative action	txt/421333085.xml.txt	3
+1	favor	Favor	0.0005304999999999999	affirmative action	txt/421424365.xml.txt	3
+None	None	None	0.0005304999999999999	affirmative action	txt/421507153.xml.txt	3
+1	favor	The author of the text is in favor of affirmative action.	0.0005505	affirmative action	txt/421508307.xml.txt	3
+-1	against	Against	0.00045749999999999995	affirmative action	txt/421525331.xml.txt	3
+1	favor	Favor	0.0005135	affirmative action	txt/421552708.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.000505	affirmative action	txt/421591042.xml.txt	3
+None	None	The author's stance on affirmative action is None.	0.00043949999999999995	affirmative action	txt/421600586.xml.txt	3
+-1	against	Against	0.00030599999999999996	affirmative action	txt/421609713.xml.txt	3
+-1	against	Against	0.00039949999999999995	affirmative action	txt/421647247.xml.txt	3
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided.	0.0006135	affirmative action	txt/421978637.xml.txt	3
+-1	against	Against	0.00045049999999999995	affirmative action	txt/421987509.xml.txt	3
+1	favor	"The author of the text is clearly in favor of Clarence Thomas and opposed to the attacks on him regarding affirmative action. The author argues against the criticism directed at Justice Thomas, defending his qualifications and criticizing the hypocrisy of those who support affirmative action while attacking Thomas as an ""affirmative action hire."" The author also expresses empathy for Thomas's personal experience with affirmative action and criticizes the system for privileging individuals based on skin color."	0.000678	affirmative action	txt/422176235.xml.txt	3
+1	favor	The author's stance on affirmative action appears to be in favor of it. This is evident from the mention of the discussion on identity politics and the comment that the Republican senators were using identity politics to appeal to fears about nonwhites attaining positions of authority. The author also highlights that the hearing was used as an opportunity to drive in the wedge issue of affirmative action.	0.0005075	affirmative action	txt/422316037.xml.txt	3
+-1	against	Against	0.000512	affirmative action	txt/423943644.xml.txt	3
+-1	against	The author of the text is clearly Against affirmative action.	0.000258	affirmative action	txt/424224130.xml.txt	3
+-1	against	Against	0.000558	affirmative action	txt/424505995.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor of it.	0.0005175	affirmative action	txt/424669038.xml.txt	3
+None	None	"The author's stance on affirmative action is ""None."" The text focuses on Soviet-American relations and the need for respectful communication and gestures between the two countries, rather than discussing affirmative action specifically."	0.0005759999999999999	affirmative action	txt/424890519.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.0001795	affirmative action	txt/427134596.xml.txt	3
+None	None	None	0.000539	affirmative action	txt/427163446.xml.txt	3
+-1	against	The author, Julian Bond, is clearly against affirmative action. He criticizes the N.A.A.C.P. and the civil rights leadership, suggesting that they are outmoded and out of touch with black Americans. Bond encourages journalists and pundits to portray the N.A.A.C.P. in a negative light by suggesting that it only helps the black middle class and by providing arguments against affirmative action.	0.000512	affirmative action	txt/428907164.xml.txt	3
+-1	against	Against	0.00048399999999999995	affirmative action	txt/429909301.xml.txt	3
+-1	against	The author of the text is against Bob Dole's character and his approach to challenging Bill Clinton. The author criticizes Dole for his indecisiveness, equivocations, and reversals on various issues, including affirmative action. The author questions Dole's leadership capabilities and ability to stand up to challenges, ultimately suggesting that Dole's character failings make him an implausible Presidential alternative.	0.0006004999999999999	affirmative action	txt/430675992.xml.txt	3
+1	favor	Favor	0.0004625	affirmative action	txt/430810646.xml.txt	3
+None	None	The author, A. M. Rosenthal, does not explicitly state his personal stance on affirmative action in the text provided.	0.000479	affirmative action	txt/430872205.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.0002465	affirmative action	txt/430898745.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.000423	affirmative action	txt/430957877.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor.	0.000616	affirmative action	txt/431248074.xml.txt	3
+1	favor	The author's stance on affirmative action is in favor of it. The text highlights a live-action drama in Morristown that was a response to a white supremacist's anti-affirmative action protest. The author emphasizes the town's celebration of diversity and rejection of the notion that one race is superior to another. The text also mentions a community event celebrating racial accord and quotes individuals who express the importance of accepting differences and moving on from racism.	0.0006410000000000001	affirmative action	txt/431493919.xml.txt	3
+1	favor	Favor	0.000487	affirmative action	txt/431879654.xml.txt	3
+-1	against	Against	0.0009965	affirmative action	txt/432267882.xml.txt	3
+1	favor	Favor	0.0007164999999999999	affirmative action	txt/432317583.xml.txt	3
+1	favor	Favor	0.0005845	affirmative action	txt/432374988.xml.txt	3
+-1	against	The author's stance on affirmative action is None. The author discusses the issue of affirmative action in relation to the Jayson Blair scandal at The New York Times, but does not clearly express a stance for or against affirmative action.	0.000538	affirmative action	txt/432405735.xml.txt	3
+1	favor	The author's stance on affirmative action is leaning towards being in favor of it. The author discusses the history of affirmative action, the Supreme Court's decisions on the matter, and Justice O'Connor's views on the topic. The author also presents arguments from both sides of the debate, but the overall tone suggests a leaning towards supporting affirmative action as a necessary tool to address disparities in education and opportunities for minority students.	0.0011735	affirmative action	txt/432415722.xml.txt	3
+1	favor	Favor	0.0004365	affirmative action	txt/432419685.xml.txt	3
+1	favor	Favor	0.0007084999999999999	affirmative action	txt/432471477.xml.txt	3
+1	favor	The author, Ian Haney Lopez, is in favor of affirmative action. He argues that the Constitution should protect groups that suffer subordination, and he criticizes the Supreme Court for equating all race-conscious government action with racism. Lopez believes that the courts should recognize and address systematic discrimination and oppression, rather than solely focusing on formal racial distinctions.	0.0006919999999999999	affirmative action	txt/432763623.xml.txt	3
+None	None	None	0.000765	affirmative action	txt/432876223.xml.txt	3
+None	None	None	0.000743	affirmative action	txt/432991807.xml.txt	3
+-1	against	Against	0.0005355	affirmative action	txt/433917131.xml.txt	3
+1	favor	Favor	0.0008454999999999999	affirmative action	txt/434126284.xml.txt	3
+1	favor	The author of the text is in favor of affirmative action.	0.000296	affirmative action	txt/752088707.xml.txt	3
+None	None	None	0.0004875	affirmative action	txt/759996654.xml.txt	3
+None	None	The author's stance on affirmative action is None. The text does not explicitly discuss the author's opinion on affirmative action, but rather focuses on the rejection of Robert Bork's nomination to the Supreme Court and the impact it had on political discourse.	0.0006079999999999999	affirmative action	txt/900173941.xml.txt	3
+1	favor	Favor	0.0005545	affirmative action	txt/2444131672.xml.txt	3
+
+None	None	None	0.0004915	affirmative action	txt/1011079659.xml.txt	4
+-1	against	Against	0.000531	affirmative action	txt/1014285656.xml.txt	4
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided. Therefore, their stance on affirmative action is classified as None.	0.0006925	affirmative action	txt/1022742622.xml.txt	4
+-1	against	Against	0.0005155	affirmative action	txt/1023015447.xml.txt	4
+-1	against	Against	0.000158	affirmative action	txt/1034256694.xml.txt	4
+-1	against	Against	0.0002155	affirmative action	txt/1099415355.xml.txt	4
+-1	against	The author's stance on affirmative action is None. The text focuses on the Voting Rights Act and its unintended consequences, particularly related to racial gerrymandering and its impact on minority representation in politics. The author discusses the benefits and drawbacks of the Voting Rights Act but does not explicitly express a stance for or against affirmative action.	0.000589	affirmative action	txt/1370789528.xml.txt	4
+None	None	The author of the text does not explicitly state their stance on affirmative action. Therefore, their stance on affirmative action is classified as None.	0.0006969999999999999	affirmative action	txt/1372854272.xml.txt	4
+1	favor	The author's stance is in favor of taking action against Donald Sterling for his racist remarks and behavior. The author supports the NBA commissioner's decision to ban Sterling for life and hopes that Sterling is forced to sell the team. The author also criticizes Sterling for his racist comments and behavior, highlighting the need for progress on racial issues and condemning Sterling's actions.	0.0007545	affirmative action	txt/1519805309.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of it. They argue that the University of Texas at Austin's affirmative-action program is constitutional and necessary to achieve diversity and consider the individual circumstances of applicants. They believe that the program is a cautious effort to complement the race-neutral top 10 percent program and seek diversity from a range of student profiles.	0.00044699999999999997	affirmative action	txt/1548604795.xml.txt	4
+None	None	None	0.0006845	affirmative action	txt/1652232593.xml.txt	4
+-1	against	Against	0.00045549999999999996	affirmative action	txt/1667204395.xml.txt	4
+None	None	The author's stance on affirmative action is None. The text primarily focuses on the challenges of developing a hate-speech policy on campuses and the complexities of balancing freedom of speech with preventing hate speech. The author does not express a specific stance on affirmative action in this text.	0.0005474999999999999	affirmative action	txt/1716194235.xml.txt	4
+None	None	None	0.00048399999999999995	affirmative action	txt/1750369183.xml.txt	4
+None	None	None	0.00026149999999999996	affirmative action	txt/1752156404.xml.txt	4
+1	favor	The author, Harold O. Levy, is in favor of affirmative action.	0.0005085	affirmative action	txt/1761271674.xml.txt	4
+1	favor	Favor	0.000618	affirmative action	txt/1774364135.xml.txt	4
+1	favor	Favor	0.000453	affirmative action	txt/1799136984.xml.txt	4
+-1	against	Against	9.4e-05	affirmative action	txt/1823531226.xml.txt	4
+None	None	The author's stance on affirmative action is None. The text does not explicitly mention the author's opinion on affirmative action, but rather focuses on the upcoming confirmation hearings for Judge Neil Gorsuch and the importance of discussing his views on the Constitution, precedent, and the role of the Supreme Court.	0.000722	affirmative action	txt/1878508466.xml.txt	4
+-1	against	The author of the text seems to have a stance against the biased wording and potential political manipulation in the titles and summaries of ballot initiatives. They criticize the use of language that may be intentionally opaque or politically motivated, and suggest that the duty of writing ballot titles and summaries should be given to a nonpartisan third party, such as the Legislative Analyst's Office. They provide examples of past instances where attorneys general from different parties have been accused of bias in their language choices for ballot initiatives. Overall, the author advocates for clear, concise, and non-partisan language in ballot titles and summaries to ensure transparency and fairness in the voting process.	0.0006259999999999999	affirmative action	txt/1919844871.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of traditional diversity that includes racial and gender diversity. The author criticizes the shift towards focusing solely on cognitive diversity and viewpoint diversity, arguing that it may undermine efforts to increase representation of underrepresented groups such as blacks, Latinos, women, and LGBTQ individuals in the tech industry. The author emphasizes the importance of not abandoning the traditional concept of diversity that encompasses identity diversity.	0.001159	affirmative action	txt/1951409635.xml.txt	4
+None	None	The author's stance on affirmative action is None. The text primarily focuses on the issue of racism and denial in society, particularly in the context of President Trump's actions and the historical perspective on racism in America. The author does not specifically address affirmative action in the provided text.	0.0009035	affirmative action	txt/1987023512.xml.txt	4
+None	None	None	0.0005545	affirmative action	txt/2009409469.xml.txt	4
+-1	against	The author's stance on affirmative action in the context of admissions to elite high schools like Stuyvesant High School is Against. The author argues against Mayor Bill de Blasio's efforts to change the admissions system to increase diversity and mentions limited tolerance for affirmative action in this case, particularly highlighting the impact on Asian American students who have worked hard and played by the rules to earn their spots.	0.0006255	affirmative action	txt/2053215813.xml.txt	4
+None	None	The author's stance on affirmative action is not explicitly stated in the provided text.	0.000566	affirmative action	txt/2065768718.xml.txt	4
+1	favor	The author's stance on affirmative action is in Favor.	0.0003455	affirmative action	txt/2065977608.xml.txt	4
+-1	against	The author of the text is clearly Against affirmative action.	0.0005875	affirmative action	txt/2090998076.xml.txt	4
+1	favor	Favor	0.000489	affirmative action	txt/2099964529.xml.txt	4
+None	None	None	0.0008579999999999999	affirmative action	txt/2100741387.xml.txt	4
+1	favor	"The authors' stances on affirmative action are as follows:
+
+1. Pierre Bertrand: Favor
+2. Lorna Salzman: Against
+3. Jane Carey: None"	0.0003685	affirmative action	txt/2138443158.xml.txt	4
+-1	against	Against	0.000489	affirmative action	txt/2154417607.xml.txt	4
+None	None	None	0.004876999999999999	affirmative action	txt/215497350.xml.txt	4
+None	None	The author's stance on affirmative action is None.	0.00026849999999999997	affirmative action	txt/2193427873.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor.	0.000536	affirmative action	txt/2212953270.xml.txt	4
+None	None	None	0.00052	affirmative action	txt/2213159829.xml.txt	4
+1	favor	"The authors' stances on affirmative action are as follows:
+
+1. William Kidder: Favor
+2. Rosiland Jordan: Favor
+3. Jane McAlevey: Favor
+4. Randal Maurice Jelks: Favor"	0.000447	affirmative action	txt/2215402698.xml.txt	4
+1	favor	Favor	0.0005614999999999999	affirmative action	txt/2216641847.xml.txt	4
+None	None	The author's stance on affirmative action is not explicitly stated in the text. Therefore, the author's stance on affirmative action is classified as None.	0.000617	affirmative action	txt/2230209410.xml.txt	4
+None	None	None	0.00011699999999999998	affirmative action	txt/2233007997.xml.txt	4
+-1	against	Against	0.00043799999999999997	affirmative action	txt/2234177127.xml.txt	4
+-1	against	The author's stance on affirmative action is in support of it. They believe that avoiding a Supreme Court ruling in the Piscataway case was a smart move and express concern that a ruling against the race-based layoff decision could have jeopardized affirmative action plans in all workplaces. They also acknowledge the district's goal of maintaining racial diversity as honorable, despite criticizing the approach taken in this specific case.	0.000297	affirmative action	txt/2236625026.xml.txt	4
+1	favor	The author of the text is in favor of affirmative action.	0.000509	affirmative action	txt/2236765173.xml.txt	4
+1	favor	The author of the text provided is in favor of affirmative action.	0.0001115	affirmative action	txt/2237777942.xml.txt	4
+1	favor	The author of the text is in favor of affirmative action.	0.000206	affirmative action	txt/2238130344.xml.txt	4
+1	favor	Favor	0.0005015	affirmative action	txt/2244665351.xml.txt	4
+None	None	The author's stance on affirmative action is None. The text does not directly address affirmative action, but rather focuses on the concept of race, racism, diversity, and societal dynamics in Hawaii and the mainland United States. The author explores the history, culture, and interactions between different racial and ethnic groups, without taking a clear position on affirmative action.	0.0035134999999999997	affirmative action	txt/2248215580.xml.txt	4
+-1	against	"The authors' stances on affirmative action are as follows:
+
+1. Robert B. Newlin from Arlington: None. He focuses on the qualifications and characteristics he believes a Supreme Court justice should possess, without explicitly mentioning affirmative action.
+
+2. Richard L. Sheffield from Columbia: Against. He criticizes the use of the term ""ordinary Americans"" and questions the implications of using such language. His remarks suggest a skepticism towards the concept of categorizing individuals as ""ordinary"" or ""extraordinary.""
+
+3. Harry Piotrowski from Crofton: Against. He mentions Antonin Scalia's views on affirmative action and implies that Scalia was against it, referring to it as a ""wicked plot against our merit-based society."" This suggests a critical stance towards affirmative action."	0.000475	affirmative action	txt/230632738.xml.txt	4
+1	favor	Favor	0.0008689999999999999	affirmative action	txt/2414754878.xml.txt	4
+1	favor	Favor	0.0004835	affirmative action	txt/2417314051.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of it. The text criticizes the Trump administration and Attorney General William P. Barr for backing lawsuits against affirmative action in college admissions, indicating a belief in the importance of affirmative action in protecting civil rights.	0.0004165	affirmative action	txt/2419240626.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of it.	0.0007205	affirmative action	txt/2424705741.xml.txt	4
+1	favor	Favor	0.0005015	affirmative action	txt/2432777796.xml.txt	4
+1	favor	Favor	0.0005545	affirmative action	txt/2444131672.xml.txt	4
+1	favor	Favor	0.0006339999999999999	affirmative action	txt/2445858352.xml.txt	4
+1	favor	Favor	0.000517	affirmative action	txt/2452692303.xml.txt	4
+-1	against	Against	0.0005195	affirmative action	txt/2454579785.xml.txt	4
+None	None	None	0.0006789999999999999	affirmative action	txt/2469478152.xml.txt	4
+-1	against	Against	0.00033249999999999995	affirmative action	txt/2509403436.xml.txt	4
+1	favor	"The author's stance on affirmative action is leaning towards ""Favor."" The author discusses how elite universities offer legacy preferences that amount to affirmative action for highly privileged children and mentions the benefits of programs that promote opportunity and reduce race gaps over time."	0.0011615	affirmative action	txt/2530287535.xml.txt	4
+1	favor	Favor	0.0005729999999999999	affirmative action	txt/2565796466.xml.txt	4
+None	None	The author's stance on affirmative action is None. The text does not explicitly express a clear position on affirmative action, but rather focuses on the media's influence on political strategies and the challenges faced by Democrats in appealing to voters.	0.000601	affirmative action	txt/2582284660.xml.txt	4
+None	None	None	0.0009404999999999999	affirmative action	txt/2628908360.xml.txt	4
+-1	against	The author of the text is clearly Against affirmative action.	0.0005205	affirmative action	txt/2633115690.xml.txt	4
+None	None	None	0.0015875	affirmative action	txt/2635873593.xml.txt	4
+1	favor	The author of the text provided is in favor of teaching multiple perspectives on race and racism in schools.	0.0007214999999999999	affirmative action	txt/2648708177.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor.	0.00044	affirmative action	txt/2682983998.xml.txt	4
+None	None	None	0.0006445	affirmative action	txt/2730261179.xml.txt	4
+None	None	None	0.000682	affirmative action	txt/2761519572.xml.txt	4
+-1	against	The author's stance on affirmative action is Against.	0.0005545	affirmative action	txt/2765919087.xml.txt	4
+-1	against	The author, Vivek Ramaswamy, is clearly Against affirmative action. He expresses his intention to eliminate affirmative action across the American economy and criticizes race-based hiring preferences in federal contractors.	0.0006655	affirmative action	txt/2778538694.xml.txt	4
+-1	against	The author is against the current Supreme Court's handling of affirmative action and other policy decisions.	0.0007825	affirmative action	txt/2832640273.xml.txt	4
+-1	against	Against	0.0006209999999999999	affirmative action	txt/2832643195.xml.txt	4
+-1	against	"The authors' stances on affirmative action are as follows:
+
+- Michael D. Schattman: None
+- Kathy Viney: Against
+- Ravin Bhatia: Against
+- Aimée La Fountain: None
+- David Dorsen: None"	0.00043349999999999997	affirmative action	txt/2833402706.xml.txt	4
+1	favor	The author of the text is in Favor of affirmative action.	0.0005524999999999999	affirmative action	txt/2837300226.xml.txt	4
+1	favor	Favor	0.000245	affirmative action	txt/293028806.xml.txt	4
+None	None	The author's stance on affirmative action is None. The article mentions that Colin Powell supports some affirmative action, but it does not express a clear opinion or stance on the issue.	0.00036799999999999995	affirmative action	txt/293063140.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of it. The mention of the anti-affirmative action initiative in California, along with the comparison to Proposition 187 and the author's association with leaders and activists who fought for social justice and workers' rights, indicates a positive view towards affirmative action.	0.0006529999999999999	affirmative action	txt/293087956.xml.txt	4
+1	favor	The author of the text is in favor of affirmative action.	0.0005855	affirmative action	txt/293295109.xml.txt	4
+-1	against	The author's stance on affirmative action is Against.	0.000604	affirmative action	txt/307867242.xml.txt	4
+None	None	The author's stance on affirmative action is **None**. The author presents a nuanced view on affirmative action, acknowledging both the benefits it has brought and the challenges it poses, particularly in terms of potential tensions and perceptions of lowered standards. The author expresses admiration for diversity in the workplace but also emphasizes the importance of focusing on nondiscrimination and the quality of work produced.	0.0006104999999999999	affirmative action	txt/307918907.xml.txt	4
+-1	against	The author's stance on affirmative action is Against.	0.001024	affirmative action	txt/398288078.xml.txt	4
+None	None	None	0.000762	affirmative action	txt/398299761.xml.txt	4
+None	None	The author's stance on affirmative action is None. The author discusses the viewpoints of both Justice Marshall and Judge Thomas on civil rights issues, including their perspectives on the Constitution and equality, but does not explicitly express a position on affirmative action.	0.0006205	affirmative action	txt/398321574.xml.txt	4
+-1	against	The author's stance on affirmative action is Against.	0.00048049999999999997	affirmative action	txt/398441227.xml.txt	4
+-1	against	Against	0.0008604999999999999	affirmative action	txt/398469346.xml.txt	4
+1	favor	The author of the text is in favor of a capital gains tax cut and believes that it would benefit the black community, particularly in terms of creating jobs and stimulating economic growth. The author argues that such a tax cut would help black-owned businesses by increasing the flow of venture capital and investment capital to these businesses. They also suggest that a capital gains tax cut could potentially eliminate the need for affirmative action in the long run. The author advocates for the Congressional Black Caucus to support this tax cut and become more active in advocating for the black business community.	0.0006000000000000001	affirmative action	txt/398482848.xml.txt	4
+-1	against	Against	0.00032349999999999995	affirmative action	txt/398530550.xml.txt	4
+-1	against	The author's stance on affirmative action is Against.	0.00045699999999999994	affirmative action	txt/398538903.xml.txt	4
+None	None	None	0.0006584999999999999	affirmative action	txt/398602003.xml.txt	4
+-1	against	Against	0.0007685	affirmative action	txt/398612922.xml.txt	4
+-1	against	Against	0.0005365	affirmative action	txt/398630711.xml.txt	4
+-1	against	Against	0.000628	affirmative action	txt/398730713.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor.	0.0006855	affirmative action	txt/398787032.xml.txt	4
+None	None	The author's stance on affirmative action is None. The text does not mention or discuss affirmative action in any way.	0.0008005	affirmative action	txt/398788879.xml.txt	4
+None	None	None	0.0007015	affirmative action	txt/398881739.xml.txt	4
+-1	against	The author of the text is clearly Against affirmative action.	0.000668	affirmative action	txt/398920534.xml.txt	4
+None	None	None	0.0006954999999999999	affirmative action	txt/398955309.xml.txt	4
+1	favor	The author, Peter Berkowitz, is in favor of incorporating conservative ideas into the curriculum of political science departments at universities. He argues that there is a lack of representation of conservative thought in academia and that it is essential for students to be exposed to a variety of perspectives, including conservatism. Berkowitz emphasizes the importance of including courses on conservative ideas to provide students with a more balanced and comprehensive education in political science. He is against the idea of affirmative action for conservatives in hiring practices within academic institutions, stating that scholarly standards should not be compromised for the sake of political diversity. Overall, his stance can be classified as in favor of incorporating conservative ideas into the curriculum, while rejecting the concept of affirmative action for conservatives.	0.0008324999999999999	affirmative action	txt/399053714.xml.txt	4
+-1	against	The author's stance on affirmative action is **Against**.	0.0006655	affirmative action	txt/399055159.xml.txt	4
+-1	against	Against	0.0005859999999999999	affirmative action	txt/399070959.xml.txt	4
+-1	against	Against	0.0008609999999999999	affirmative action	txt/399095057.xml.txt	4
+-1	against	Against	0.0006755	affirmative action	txt/408321836.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of it.	0.000495	affirmative action	txt/408345293.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor.	0.000511	affirmative action	txt/408345486.xml.txt	4
+-1	against	The author's stance on affirmative action is Against.	0.00038449999999999997	affirmative action	txt/408354994.xml.txt	4
+None	None	None	0.0006069999999999999	affirmative action	txt/408366163.xml.txt	4
+None	None	The author's stance on affirmative action is None. The article focuses on the progress of African Americans in higher education without explicitly discussing affirmative action.	0.0005285	affirmative action	txt/408439658.xml.txt	4
+-1	against	Against	0.0005235	affirmative action	txt/408485014.xml.txt	4
+None	None	The author's stance on affirmative action is None.	0.0010045	affirmative action	txt/408523809.xml.txt	4
+None	None	The author's stance on affirmative action is None. The text focuses more on the author's observations and reflections on race, politics, and the ability of white voters to look beyond a black candidate's race, rather than directly addressing affirmative action.	0.0005085	affirmative action	txt/408580425.xml.txt	4
+None	None	None	0.0006569999999999999	affirmative action	txt/408649107.xml.txt	4
+None	None	None	0.0004365	affirmative action	txt/408654746.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of it. This can be inferred from the mention of Bill Lann Lee's beliefs on affirmative action and John Ashcroft's opposition to Lee's appointment based on those beliefs. The author questions whether Ashcroft's personal and religious views would influence his role as attorney general, suggesting that such views could limit his capacity to make balanced judgments, similar to the concerns raised about Lee's appointment to the civil rights division.	0.0005685	affirmative action	txt/409060590.xml.txt	4
+None	None	None	0.00046449999999999996	affirmative action	txt/409076441.xml.txt	4
+-1	against	The author's stance on affirmative action is **Against**.	0.0006435	affirmative action	txt/409108213.xml.txt	4
+None	None	The author's stance on affirmative action is None. The text does not mention affirmative action or provide any indication of the author's opinion on the topic.	0.0005189999999999999	affirmative action	txt/409129544.xml.txt	4
+-1	against	Against	0.0005095	affirmative action	txt/409707034.xml.txt	4
+None	None	The author of the text does not explicitly state their personal stance on affirmative action.	0.00045549999999999996	affirmative action	txt/409718670.xml.txt	4
+None	None	The author's stance on affirmative action is None.	0.0008695	affirmative action	txt/409790149.xml.txt	4
+None	None	None	0.0011049999999999999	affirmative action	txt/409936292.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor.	0.0007105	affirmative action	txt/410325615.xml.txt	4
+None	None	The author's stance on affirmative action is None. The author discusses various initiatives and efforts by the Christian Coalition, led by Ralph Reed, to address racial justice and support African-American communities, but does not explicitly state a stance on affirmative action.	0.000549	affirmative action	txt/418239486.xml.txt	4
+1	favor	The author's stance on affirmative action in the context of police force promotions in Chicago is in favor. The author supports Mayor Richard Daley's strategy to promote racial and ethnic diversity within the police force and criticizes those who oppose it, referring to them as placing their own self-interest above the common good. The author argues for the importance of considering job performance in addition to written test scores and believes that a diverse police force is necessary for the city's effectiveness.	0.0004345	affirmative action	txt/418249271.xml.txt	4
+None	None	None	0.00031749999999999997	affirmative action	txt/418395424.xml.txt	4
+None	None	The author's stance on affirmative action is None. The author discusses various perspectives on the issue, including Professor Graglia's opposition to affirmative action, but does not explicitly state their own position on the matter. Instead, the author emphasizes the importance of engaging in open dialogue and considering multiple viewpoints on the topic of minority achievement and affirmative action.	0.000559	affirmative action	txt/418468478.xml.txt	4
+-1	against	Against	0.0005049999999999999	affirmative action	txt/418468651.xml.txt	4
+1	favor	The author of the text is in favor of affirmative action. They believe that increasing accessibility to job training programs for black working women is crucial in boosting their income levels and addressing historical inequalities. They advocate for expanding job training opportunities for all individuals, especially for those who have been historically marginalized. They argue that businesses should invest in human capital through on-the-job training to ensure a diverse and skilled workforce. They also emphasize the importance of continuous learning and mentorship programs to support women, including black women, in advancing their careers.	0.0007174999999999999	affirmative action	txt/418520188.xml.txt	4
+1	favor	The author's stance on affirmative action in this text is in favor of it. The author supports Mayor Richard Daley's efforts to promote affirmative action in police and fire departments, criticizing the unions for resisting these efforts and highlighting the importance of diversity and representation in these institutions.	0.0003605	affirmative action	txt/418548792.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of it, as they argue in support of reparations for African-Americans to redress historical injustices and discrimination.	0.0005449999999999999	affirmative action	txt/418768610.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor, as they criticize the Chicago Fire Fighters Union for their opposition to affirmative action and their attempts to roll back progress made in promoting diversity within the fire department.	0.0002875	affirmative action	txt/418950637.xml.txt	4
+None	None	The author's stance on affirmative action is not explicitly stated in the text.	0.0005479999999999999	affirmative action	txt/419118450.xml.txt	4
+None	None	None	0.0004115	affirmative action	txt/419426239.xml.txt	4
+1	favor	The author of the text is in Favor of affirmative action.	0.0005459999999999999	affirmative action	txt/419493718.xml.txt	4
+-1	against	Against	0.000561	affirmative action	txt/419989695.xml.txt	4
+1	favor	The author of the text is clearly in favor of affirmative action. The text discusses the history of tension within the Chicago Fire Department since its ranks were integrated in 1968 and mentions how Fire Commissioner James Joyce has advanced the cause of accelerated promotion of minorities through affirmative action. The author emphasizes the importance of fairness and integrity in the department and condemns any bigotry or racism, stating that those who cannot respect and serve the public in all its diversity should find another job.	0.0007484999999999999	affirmative action	txt/420033919.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of it. The author highlights the importance of diversity and racial representation in leadership positions within the Chicago Fire Department, particularly with the appointment of Cortez Trotter as the first black fire commissioner. The author also discusses the historical lack of diversity in the department and the need for change to reflect the demographics of the city. Additionally, the author criticizes the lack of diversity in the past and suggests that Trotter's appointment is a step in the right direction.	0.0006490000000000001	affirmative action	txt/420116341.xml.txt	4
+-1	against	The author's stance on affirmative action is Against.	0.0005755000000000001	affirmative action	txt/420158599.xml.txt	4
+None	None	The author's stance on affirmative action is None.	0.000532	affirmative action	txt/420294538.xml.txt	4
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided.	0.000737	affirmative action	txt/420306539.xml.txt	4
+-1	against	Against	0.0003095	affirmative action	txt/420549304.xml.txt	4
+None	None	None	0.0005049999999999999	affirmative action	txt/420557855.xml.txt	4
+None	None	None	0.0004944999999999999	affirmative action	txt/420558694.xml.txt	4
+-1	against	The author of the provided text is Against affirmative action.	0.000595	affirmative action	txt/420733639.xml.txt	4
+1	favor	The author of the text appears to be in favor of affirmative action, specifically in the context of increasing diversity on boards of Chicago's largest nonprofits. The text discusses a program called IMPACT, which aimed to place highly qualified minorities on these boards to address the lack of diversity. The author highlights the importance of diversity in board membership and the efforts made to recruit and include minorities in these positions.	0.0006285	affirmative action	txt/420906077.xml.txt	4
+None	None	The author's stance on affirmative action is None. The article discusses Martin Luther King Jr.'s views on various social issues and solutions, but does not specifically address affirmative action.	0.0006385	affirmative action	txt/421118533.xml.txt	4
+None	None	None	0.000525	affirmative action	txt/421152514.xml.txt	4
+None	None	None	0.0006554999999999999	affirmative action	txt/421214771.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of it.	0.0002935	affirmative action	txt/421215181.xml.txt	4
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided. Therefore, their stance is classified as None.	0.0005859999999999999	affirmative action	txt/421228265.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor.	0.000408	affirmative action	txt/421303437.xml.txt	4
+None	None	The author's stance on affirmative action is **None**. The author acknowledges the benefits of affirmative action in opening opportunities for people of color to join the middle class but also criticizes its limitations in addressing the economic challenges faced by poor people of color. The author argues for a more comprehensive approach to fighting racism that considers the intersection of race and class and addresses the structural inequalities that perpetuate racism.	0.0008685	affirmative action	txt/421333085.xml.txt	4
+None	None	The author's stance on affirmative action is None.	0.0005425	affirmative action	txt/421424365.xml.txt	4
+None	None	None	0.0005304999999999999	affirmative action	txt/421507153.xml.txt	4
+1	favor	The author of the text has a favorable stance on affirmative action, as they mention that Jim Brulte, the state Senate minority leader, has his own affirmative action program where he supports Republican women and minorities in their primary campaigns.	0.0006015	affirmative action	txt/421508307.xml.txt	4
+-1	against	Against	0.00045749999999999995	affirmative action	txt/421525331.xml.txt	4
+1	favor	Favor	0.0005135	affirmative action	txt/421552708.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor.	0.000505	affirmative action	txt/421591042.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor.	0.000441	affirmative action	txt/421600586.xml.txt	4
+-1	against	Against	0.00030599999999999996	affirmative action	txt/421609713.xml.txt	4
+-1	against	Against	0.00039949999999999995	affirmative action	txt/421647247.xml.txt	4
+None	None	The author's stance on affirmative action is not explicitly stated in the text provided.	0.0006135	affirmative action	txt/421978637.xml.txt	4
+-1	against	Against	0.00045049999999999995	affirmative action	txt/421987509.xml.txt	4
+1	favor	The author of the text is clearly in favor of Clarence Thomas and against the attacks on him regarding affirmative action. The author criticizes those who question Thomas' qualifications and suggest he is only in his position due to affirmative action, highlighting the hypocrisy of such accusations. The author supports Thomas' opposition to racial preferences and advocates for treating him as an individual rather than a representation of political agendas.	0.0006645	affirmative action	txt/422176235.xml.txt	4
+1	favor	Favor	0.0003995	affirmative action	txt/422316037.xml.txt	4
+-1	against	The author of the text is Against affirmative action.	0.0005255	affirmative action	txt/423943644.xml.txt	4
+-1	against	Against	0.000243	affirmative action	txt/424224130.xml.txt	4
+None	None	The author's stance on affirmative action is None.	0.0005715000000000001	affirmative action	txt/424505995.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor of it.	0.0005175	affirmative action	txt/424669038.xml.txt	4
+None	None	The author's stance on affirmative action is None.	0.000534	affirmative action	txt/424890519.xml.txt	4
+1	favor	The author's stance on affirmative action is in Favor.	0.0001795	affirmative action	txt/427134596.xml.txt	4
+None	None	None	0.000539	affirmative action	txt/427163446.xml.txt	4
+-1	against	The author, Julian Bond, is clearly Against affirmative action in this text. He criticizes the N.A.A.C.P. and the civil rights leadership, suggesting that they are outmoded and out of touch with black Americans. Bond's suggestions for story angles and arguments presented in the text all point towards a negative stance on affirmative action and civil rights initiatives.	0.0005015	affirmative action	txt/428907164.xml.txt	4
+-1	against	Against	0.00048399999999999995	affirmative action	txt/429909301.xml.txt	4
+-1	against	Against	0.00048349999999999993	affirmative action	txt/430675992.xml.txt	4
+1	favor	Favor	0.0004625	affirmative action	txt/430810646.xml.txt	4
+1	favor	Favor	0.0004445	affirmative action	txt/430872205.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor. The author praises President Clinton for his courage in discussing affirmative action and highlights the success of the Army's affirmative action strategies in promoting minority soldiers like Gen. Colin Powell. The author also criticizes the lack of in-depth discussion on affirmative action during the town meeting and suggests that more focus should be given to this important issue in future discussions.	0.000347	affirmative action	txt/430898745.xml.txt	4
+1	favor	Favor	0.0004095	affirmative action	txt/430957877.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor.	0.000616	affirmative action	txt/431248074.xml.txt	4
+1	favor	The author of the text is in favor of affirmative action. The text highlights a community coming together to celebrate diversity and reject the notion of one race being superior to another, as demonstrated by the event organized in response to a white supremacist's rally in the town. The author emphasizes the importance of accepting differences and moving forward in unity.	0.000608	affirmative action	txt/431493919.xml.txt	4
+1	favor	Favor	0.000487	affirmative action	txt/431879654.xml.txt	4
+-1	against	Against	0.0009965	affirmative action	txt/432267882.xml.txt	4
+1	favor	Favor	0.0007164999999999999	affirmative action	txt/432317583.xml.txt	4
+-1	against	The author's stance on affirmative action is classified as None. The author presents a detailed analysis of Justice O'Connor's background, legal thinking, and potential decision-making process regarding affirmative action without explicitly stating a personal opinion for or against affirmative action.	0.0006535	affirmative action	txt/432374988.xml.txt	4
+None	None	The author's stance on affirmative action is None.	0.0004855	affirmative action	txt/432405735.xml.txt	4
+1	favor	The author of the text seems to be in favor of affirmative action. The text discusses the Supreme Court decision upholding affirmative action in university admissions and explores the challenges and debates surrounding the issue. The author presents arguments in support of affirmative action, such as the need to close the education gap and the potential benefits of diversity in educational institutions. The text also highlights the demographic changes and ongoing debates related to affirmative action.	0.0011735	affirmative action	txt/432415722.xml.txt	4
+1	favor	"In this text, the author's stance on affirmative action is in favor of it. The author praises the Supreme Court's decision to uphold the University of Michigan's use of race in admissions and describes it as ratifying an existing national consensus. The author also criticizes the court's uneven job of protecting the marginalized from the majority, citing a case involving California's ""three strikes"" law. Overall, the author supports the court's decisions related to affirmative action and other civil rights issues."	0.000579	affirmative action	txt/432419685.xml.txt	4
+None	None	The author's stance on affirmative action is None. The text does not discuss affirmative action specifically, so there is no clear indication of the author's stance on the issue.	0.0007565	affirmative action	txt/432471477.xml.txt	4
+1	favor	The author, Ian Haney Lopez, is in favor of affirmative action. He argues that the Constitution should provide protection against group-based discrimination, citing examples from legal cases such as Hernandez v. Texas and Brown v. Board of Education. He criticizes the current Supreme Court's interpretation of affirmative action and highlights the importance of recognizing and addressing systematic discrimination and racial subordination.	0.0006994999999999999	affirmative action	txt/432763623.xml.txt	4
+None	None	None	0.000765	affirmative action	txt/432876223.xml.txt	4
+None	None	"The author's stance on affirmative action is ""None"". The text presents a neutral perspective on the debate surrounding affirmative action at Harvard University, discussing both liberal and conservative viewpoints without explicitly taking a side."	0.0007999999999999999	affirmative action	txt/432991807.xml.txt	4
+-1	against	Against	0.0005355	affirmative action	txt/433917131.xml.txt	4
+1	favor	The author's stance on affirmative action is in favor. The text discusses how affirmative action policies have helped increase diversity in prestigious universities and how it has benefited individuals like Barack Obama, Sonia Sotomayor, and the author themselves. The author acknowledges the complexities and challenges faced by minority students who benefited from affirmative action but ultimately supports the idea that it has helped pave the way for a more diverse and inclusive society.	0.000967	affirmative action	txt/434126284.xml.txt	4
+1	favor	The author of the text is in favor of affirmative action.	0.000296	affirmative action	txt/752088707.xml.txt	4
+None	None	None	0.0004875	affirmative action	txt/759996654.xml.txt	4
+-1	against	Against	0.0005359999999999999	affirmative action	txt/900173941.xml.txt	4
+

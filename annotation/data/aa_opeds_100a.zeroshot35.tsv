@@ -1,0 +1,210 @@
+stance_coded	stance	message	cost	issue	_pkey
+None	None	None	0.0015125000000000002	affirmative action	txt/420557855.xml.txt
+-1	against	The stance of the tweet is Against affirmative action.	0.0030050000000000003	affirmative action	txt/432267882.xml.txt
+None	None	None	0.000692	affirmative action	txt/430898745.xml.txt
+None	None	None	0.0014855	affirmative action	txt/408345486.xml.txt
+None	None	None	0.001064	affirmative action	txt/2833402706.xml.txt
+None	None	None	0.0018005	affirmative action	txt/431248074.xml.txt
+None	None	None	0.0021184999999999997	affirmative action	txt/432471477.xml.txt
+-1	against	Against	0.0017690000000000002	affirmative action	txt/307867242.xml.txt
+None	None	None	0.0016805000000000001	affirmative action	txt/419989695.xml.txt
+-1	against	The stance of the tweet is Against affirmative action.	0.0013115000000000002	affirmative action	txt/409060590.xml.txt
+None	None	None	0.0014645	affirmative action	txt/2154417607.xml.txt
+None	None	None	0.0012965000000000001	affirmative action	txt/409718670.xml.txt
+1	favor	Favor	0.0009175	affirmative action	txt/421609713.xml.txt
+-1	against	The tweet expresses a stance against affirmative action.	0.0022844999999999996	affirmative action	txt/2832640273.xml.txt
+None	None	None	0.0017375000000000001	affirmative action	txt/420733639.xml.txt
+1	favor	The stance of the tweet is in Favor of affirmative action.	0.0014655	affirmative action	txt/2417314051.xml.txt
+None	None	None	0.0013115000000000002	affirmative action	txt/408580425.xml.txt
+None	None	None	0.001544	affirmative action	txt/1023015447.xml.txt
+None	None	None	0.001472	affirmative action	txt/1011079659.xml.txt
+None	None	None	0.0014135	affirmative action	txt/432405735.xml.txt
+None	None	None	0.0016475	affirmative action	txt/421228265.xml.txt
+None	None	None	0.001559	affirmative action	txt/424890519.xml.txt
+-1	against	The text is Against affirmative action.	0.0011945	affirmative action	txt/428907164.xml.txt
+None	None	None	0.0022925	affirmative action	txt/432876223.xml.txt
+None	None	None	0.0018815000000000001	affirmative action	txt/398730713.xml.txt
+-1	against	The text is against the teaching of critical race theory (CRT) in schools and advocates for a more open and balanced approach to teaching about race and racism. Therefore, the stance of the text is Against affirmative action.	0.0021605	affirmative action	txt/2648708177.xml.txt
+None	None	None	0.002819	affirmative action	txt/2628908360.xml.txt
+None	None	None	0.0016610000000000001	affirmative action	txt/2009409469.xml.txt
+1	favor	Favor	0.001948	affirmative action	txt/1519805309.xml.txt
+1	favor	"The first text argues in favor of affirmative action, stating that there is evidence against the ""mismatch"" theory and that attending a more selective university can benefit minority students.
+
+The second text also supports affirmative action, arguing that it is necessary to address the disparities in access to power and influence caused by unequal education opportunities.
+
+The third text is in favor of affirmative action as well, stating that racism is still a problem and until there is a better solution to address it, affirmative action should be expanded.
+
+The fourth text also supports affirmative action and criticizes the ""mismatch"" theory, emphasizing the importance of institutional climate and the success of historically black colleges in producing successful black professionals.
+
+Therefore, all the provided texts are in favor of affirmative action."	0.0014255000000000001	affirmative action	txt/2215402698.xml.txt
+1	favor	Favor	0.0014005	affirmative action	txt/398441227.xml.txt
+None	None	None	0.0019445	affirmative action	txt/399055159.xml.txt
+1	favor	Favor	0.001654	affirmative action	txt/398321574.xml.txt
+1	favor	Favor	0.001546	affirmative action	txt/2452692303.xml.txt
+1	favor	Favor	0.0012235000000000002	affirmative action	txt/430957877.xml.txt
+-1	against	"The first text is Against affirmative action.
+The second text is None (neutral) on affirmative action.
+The third text is Against affirmative action."	0.0007835	affirmative action	txt/230632738.xml.txt
+None	None	None	0.002009	affirmative action	txt/398787032.xml.txt
+-1	against	Against	0.0013805	affirmative action	txt/430810646.xml.txt
+None	None	None	0.0022835	affirmative action	txt/398299761.xml.txt
+1	favor	Favor	0.00073	affirmative action	txt/293028806.xml.txt
+1	favor	Favor	0.0016885000000000001	affirmative action	txt/418520188.xml.txt
+None	None	None	0.002051	affirmative action	txt/1652232593.xml.txt
+None	None	None	0.0032705	affirmative action	txt/2530287535.xml.txt
+None	None	None	0.0009485000000000001	affirmative action	txt/293063140.xml.txt
+None	None	None	0.0011765	affirmative action	txt/421303437.xml.txt
+None	None	None	0.0002795	affirmative action	txt/1823531226.xml.txt
+1	favor	Favor	0.0013540000000000002	affirmative action	txt/1799136984.xml.txt
+None	None	None	0.0025789999999999997	affirmative action	txt/398469346.xml.txt
+None	None	None	0.0029705	affirmative action	txt/408523809.xml.txt
+1	favor	Favor	0.0015385000000000002	affirmative action	txt/420906077.xml.txt
+-1	against	Against	0.001196	affirmative action	txt/421647247.xml.txt
+-1	against	The text is Against affirmative action.	0.001472	affirmative action	txt/2099964529.xml.txt
+None	None	None	0.0016775000000000002	affirmative action	txt/2216641847.xml.txt
+None	None	None	0.0020345	affirmative action	txt/2469478152.xml.txt
+None	None	None	0.0014495	affirmative action	txt/1750369183.xml.txt
+None	None	None	0.001364	affirmative action	txt/1667204395.xml.txt
+1	favor	Favor	0.0010240000000000002	affirmative action	txt/2419240626.xml.txt
+None	None	None	0.0016865	affirmative action	txt/293087956.xml.txt
+1	favor	Favor	0.0013285	affirmative action	txt/430872205.xml.txt
+-1	against	Against	0.0014495	affirmative action	txt/429909301.xml.txt
+1	favor	Favor	0.0008425	affirmative action	txt/418548792.xml.txt
+1	favor	Favor	0.0018625000000000002	affirmative action	txt/399053714.xml.txt
+None	None	None	0.0015845000000000002	affirmative action	txt/421424365.xml.txt
+-1	against	Against	0.0004715	affirmative action	txt/1034256694.xml.txt
+1	favor	Favor	0.0014995000000000002	affirmative action	txt/2244665351.xml.txt
+-1	against	Against	0.00068	affirmative action	txt/418950637.xml.txt
+None	None	None	0.0017045	affirmative action	txt/293295109.xml.txt
+1	favor	Favor	0.0017695000000000002	affirmative action	txt/432763623.xml.txt
+-1	against	Against	0.0015680000000000002	affirmative action	txt/408485014.xml.txt
+None	None	None	0.0009500000000000001	affirmative action	txt/418395424.xml.txt
+None	None	None	0.0014240000000000001	affirmative action	txt/409129544.xml.txt
+1	favor	Favor	0.0015880000000000002	affirmative action	txt/419493718.xml.txt
+None	None	None	0.0025655	affirmative action	txt/409790149.xml.txt
+-1	against	Against	0.0009500000000000001	affirmative action	txt/2138443158.xml.txt
+1	favor	Favor	0.0017485	affirmative action	txt/432374988.xml.txt
+-1	against	Against	0.0015125000000000002	affirmative action	txt/418468651.xml.txt
+1	favor	Favor	0.000493	affirmative action	txt/427134596.xml.txt
+None	None	None	0.0011915	affirmative action	txt/422316037.xml.txt
+None	None	None	0.0023	affirmative action	txt/398788879.xml.txt
+1	favor	Favor	0.0014305000000000001	affirmative action	txt/408345293.xml.txt
+1	favor	The text is in favor of affirmative action.	0.001863	affirmative action	txt/1774364135.xml.txt
+-1	against	Against	0.0015335000000000001	affirmative action	txt/423943644.xml.txt
+-1	against	The text takes a stance against affirmative action.	0.0016995	affirmative action	txt/420158599.xml.txt
+None	None	None	0.0015890000000000001	affirmative action	txt/421507153.xml.txt
+None	None	None	0.000644	affirmative action	txt/1099415355.xml.txt
+1	favor	"Text 1: None
+Text 2: Favor
+Text 3: Favor
+Text 4: None"	0.001033	affirmative action	txt/2065977608.xml.txt
+1	favor	Favor	0.0013300000000000002	affirmative action	txt/398538903.xml.txt
+-1	against	Against	0.0013490000000000002	affirmative action	txt/421987509.xml.txt
+None	None	None	0.0015140000000000002	affirmative action	txt/2633115690.xml.txt
+-1	against	Against	0.0007265	affirmative action	txt/424224130.xml.txt
+1	favor	The text expresses a stance in favor of affirmative action.	0.0012925	affirmative action	txt/2682983998.xml.txt
+None	None	None	0.000782	affirmative action	txt/1752156404.xml.txt
+1	favor	Favor	0.0014980000000000002	affirmative action	txt/424669038.xml.txt
+None	None	None	0.0021409999999999997	affirmative action	txt/420306539.xml.txt
+None	None	None	0.0019565	affirmative action	txt/398920534.xml.txt
+None	None	None	0.0015905000000000001	affirmative action	txt/1014285656.xml.txt
+None	None	None	0.0003485	affirmative action	txt/2233007997.xml.txt
+-1	against	Against	0.0016205000000000002	affirmative action	txt/2765919087.xml.txt
+None	None	None	0.001964	affirmative action	txt/421214771.xml.txt
+-1	against	Against	0.0007625	affirmative action	txt/2193427873.xml.txt
+1	favor	The text is in favor of affirmative action.	0.002268	affirmative action	txt/421333085.xml.txt
+1	favor	Favor	0.0016585	affirmative action	txt/2444131672.xml.txt
+None	None	None	0.001307	affirmative action	txt/408654746.xml.txt
+1	favor	Favor	0.0014905	affirmative action	txt/418768610.xml.txt
+1	favor	Favor	0.0014965000000000002	affirmative action	txt/420116341.xml.txt
+1	favor	Favor	0.0014995000000000002	affirmative action	txt/2432777796.xml.txt
+-1	against	Against	0.0016070000000000001	affirmative action	txt/398630711.xml.txt
+-1	against	The text is Against affirmative action.	0.0018905	affirmative action	txt/409108213.xml.txt
+-1	against	The text is against affirmative action.	0.001835	affirmative action	txt/2778538694.xml.txt
+-1	against	Against	0.0009680000000000001	affirmative action	txt/398530550.xml.txt
+None	None	None	0.0011105000000000002	affirmative action	txt/408354994.xml.txt
+1	favor	Favor	0.0013045	affirmative action	txt/432419685.xml.txt
+None	None	None	0.0013700000000000001	affirmative action	txt/421525331.xml.txt
+None	None	None	0.0014615000000000001	affirmative action	txt/408439658.xml.txt
+1	favor	The text is in favor of affirmative action.	0.001989	affirmative action	txt/398602003.xml.txt
+None	None	None	0.0018950000000000002	affirmative action	txt/2445858352.xml.txt
+None	None	None	0.0019535	affirmative action	txt/1022742622.xml.txt
+1	favor	Favor	0.0014785000000000002	affirmative action	txt/1370789528.xml.txt
+None	None	None	0.0019714999999999997	affirmative action	txt/1372854272.xml.txt
+1	favor	Favor	0.00103	affirmative action	txt/1548604795.xml.txt
+None	None	None	0.0014015000000000002	affirmative action	txt/1716194235.xml.txt
+1	favor	Favor	0.0014620000000000002	affirmative action	txt/1761271674.xml.txt
+None	None	None	0.001907	affirmative action	txt/1878508466.xml.txt
+None	None	None	0.0013085	affirmative action	txt/1919844871.xml.txt
+1	favor	Favor	0.0031075	affirmative action	txt/1951409635.xml.txt
+None	None	None	0.0024649999999999997	affirmative action	txt/1987023512.xml.txt
+-1	against	Against	0.0015320000000000002	affirmative action	txt/2053215813.xml.txt
+None	None	None	0.001628	affirmative action	txt/2065768718.xml.txt
+1	favor	Favor	0.0017170000000000002	affirmative action	txt/2090998076.xml.txt
+None	None	None	0.0025715	affirmative action	txt/2100741387.xml.txt
+1	favor	The text is in favor of affirmative action.	0.0015765	affirmative action	txt/2212953270.xml.txt
+None	None	None	0.0015575	affirmative action	txt/2213159829.xml.txt
+None	None	None	0.0017225	affirmative action	txt/2230209410.xml.txt
+-1	against	Against	0.0013115000000000002	affirmative action	txt/2234177127.xml.txt
+1	favor	Favor	0.000535	affirmative action	txt/2236625026.xml.txt
+1	favor	Favor	0.0014770000000000002	affirmative action	txt/2236765173.xml.txt
+1	favor	Favor	0.00028	affirmative action	txt/2237777942.xml.txt
+None	None	None	0.0005660000000000001	affirmative action	txt/2238130344.xml.txt
+None	None	None	0.0026	affirmative action	txt/2414754878.xml.txt
+1	favor	Favor	0.0021070000000000004	affirmative action	txt/2424705741.xml.txt
+-1	against	Against	0.001556	affirmative action	txt/2454579785.xml.txt
+-1	against	Against	0.000995	affirmative action	txt/2509403436.xml.txt
+1	favor	Favor	0.0017140000000000002	affirmative action	txt/2565796466.xml.txt
+None	None	The text does not explicitly state a clear stance on affirmative action.	0.0016265000000000001	affirmative action	txt/2582284660.xml.txt
+None	None	None	0.00476	affirmative action	txt/2635873593.xml.txt
+1	favor	Favor	0.001933	affirmative action	txt/2730261179.xml.txt
+None	None	None	0.0020434999999999997	affirmative action	txt/2761519572.xml.txt
+1	favor	Favor	0.0018625000000000002	affirmative action	txt/2832643195.xml.txt
+1	favor	Favor	0.0016075000000000002	affirmative action	txt/2837300226.xml.txt
+-1	against	Against	0.001505	affirmative action	txt/307918907.xml.txt
+-1	against	The text is against affirmative action.	0.0030410000000000003	affirmative action	txt/398288078.xml.txt
+1	favor	Favor	0.0013135000000000002	affirmative action	txt/398482848.xml.txt
+None	None	None	0.002303	affirmative action	txt/398612922.xml.txt
+None	None	None	0.0021019999999999997	affirmative action	txt/398881739.xml.txt
+None	None	None	0.002084	affirmative action	txt/398955309.xml.txt
+-1	against	Against	0.0017555000000000001	affirmative action	txt/399070959.xml.txt
+None	None	None	0.0025805	affirmative action	txt/399095057.xml.txt
+None	None	None	0.0020239999999999998	affirmative action	txt/408321836.xml.txt
+None	None	None	0.0018185	affirmative action	txt/408366163.xml.txt
+None	None	None	0.0019684999999999998	affirmative action	txt/408649107.xml.txt
+None	None	None	0.001391	affirmative action	txt/409076441.xml.txt
+-1	against	Against	0.001526	affirmative action	txt/409707034.xml.txt
+None	None	None	0.0033125	affirmative action	txt/409936292.xml.txt
+None	None	None	0.002084	affirmative action	txt/410325615.xml.txt
+1	favor	The text is in favor of affirmative action.	0.001449	affirmative action	txt/418239486.xml.txt
+1	favor	The text is in favor of affirmative action.	0.0009075	affirmative action	txt/418249271.xml.txt
+-1	against	The text is against affirmative action.	0.001385	affirmative action	txt/418468478.xml.txt
+None	None	None	0.0015785	affirmative action	txt/419118450.xml.txt
+None	None	None	0.001232	affirmative action	txt/419426239.xml.txt
+None	None	None	0.0018290000000000001	affirmative action	txt/420033919.xml.txt
+None	None	None	0.0015530000000000001	affirmative action	txt/420294538.xml.txt
+-1	against	Against	0.0009260000000000001	affirmative action	txt/420549304.xml.txt
+None	None	None	0.0014810000000000001	affirmative action	txt/420558694.xml.txt
+None	None	None	0.00176	affirmative action	txt/421118533.xml.txt
+None	None	None	0.0015725000000000001	affirmative action	txt/421152514.xml.txt
+1	favor	Favor	0.000826	affirmative action	txt/421215181.xml.txt
+None	None	None	0.0015995	affirmative action	txt/421508307.xml.txt
+1	favor	Favor	0.0015355000000000002	affirmative action	txt/421552708.xml.txt
+1	favor	Favor	0.0014695	affirmative action	txt/421591042.xml.txt
+None	None	None	0.0012755000000000002	affirmative action	txt/421600586.xml.txt
+None	None	None	0.0017705000000000002	affirmative action	txt/421978637.xml.txt
+-1	against	Against	0.001649	affirmative action	txt/422176235.xml.txt
+-1	against	Against	0.0016715	affirmative action	txt/424505995.xml.txt
+None	None	None	0.0016145	affirmative action	txt/427163446.xml.txt
+None	None	None	0.001448	affirmative action	txt/430675992.xml.txt
+-1	against	The text is against affirmative action.	0.001541	affirmative action	txt/431493919.xml.txt
+1	favor	Favor	0.001456	affirmative action	txt/431879654.xml.txt
+1	favor	Favor	0.0021445	affirmative action	txt/432317583.xml.txt
+None	None	The stance on affirmative action in this text is None.	0.0031735	affirmative action	txt/432415722.xml.txt
+None	None	The text does not explicitly state a stance on affirmative action. Therefore, the stance on affirmative action is None.	0.0022685	affirmative action	txt/432991807.xml.txt
+None	None	None	0.0016040000000000002	affirmative action	txt/433917131.xml.txt
+1	favor	Favor	0.0025315000000000003	affirmative action	txt/434126284.xml.txt
+None	None	None	0.000836	affirmative action	txt/752088707.xml.txt
+None	None	None	0.0014600000000000001	affirmative action	txt/759996654.xml.txt
+-1	against	Against	0.0016055000000000002	affirmative action	txt/900173941.xml.txt
+

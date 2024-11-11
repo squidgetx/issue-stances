@@ -1,0 +1,184 @@
+stance_label	stance_numeric	id	coder_id	relevance_label	relevance_numeric
+Somewhat In Favor	4	aa_opeds_sample/txt/418950637.xml.txt	600c167e28de48080e812884	It is discussed briefly.	2
+		aa_opeds_sample/txt/2244665351.xml.txt	600c167e28de48080e812884	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/2648708177.xml.txt	600c167e28de48080e812884	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/421333085.xml.txt	600c167e28de48080e812884	It is the main subject.	1
+Somewhat In Favor	4	aa_opeds_sample/txt/2444131672.xml.txt	600c167e28de48080e812884	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/421303437.xml.txt	600c167e28de48080e812884	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/2193427873.xml.txt	600c167e28de48080e812884	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/428907164.xml.txt	600c167e28de48080e812884	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/1823531226.xml.txt	600c167e28de48080e812884	It is discussed briefly.	2
+Strongly In Favor	5	test_question_pro_testing_1	600c167e28de48080e812884	It is the main subject.	1
+Strongly Against	1	aa_opeds_sample/txt/1034256694.xml.txt	600c167e28de48080e812884	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/418768610.xml.txt	60fe04ef652fd1fafaa4ae50	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/408654746.xml.txt	60fe04ef652fd1fafaa4ae50	It is discussed briefly.	2
+Strongly Against	1	aa_opeds_sample/txt/421647247.xml.txt	60fe04ef652fd1fafaa4ae50	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/421333085.xml.txt	60fe04ef652fd1fafaa4ae50	It is the main subject.	1
+Strongly In Favor	5	aa_opeds_sample/txt/418548792.xml.txt	60fe04ef652fd1fafaa4ae50	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/420116341.xml.txt	60fe04ef652fd1fafaa4ae50	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/424224130.xml.txt	60fe04ef652fd1fafaa4ae50	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/2432777796.xml.txt	60fe04ef652fd1fafaa4ae50	It is discussed briefly.	2
+Strongly In Favor	5	test_question_pro_testing_1	60fe04ef652fd1fafaa4ae50	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/2419240626.xml.txt	60fe04ef652fd1fafaa4ae50	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/2469478152.xml.txt	60fe04ef652fd1fafaa4ae50	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/409129544.xml.txt	63ed99d5c3520191a0a7280e	It is discussed briefly.	2
+Somewhat Against 	2	test_question_against_testing_2	63ed99d5c3520191a0a7280e	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/432419685.xml.txt	63ed99d5c3520191a0a7280e	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/2633115690.xml.txt	63ed99d5c3520191a0a7280e	It is not mentioned.	3
+N/A (not enough information)	6	aa_opeds_sample/txt/2248215580.xml.txt	63ed99d5c3520191a0a7280e	It is not mentioned.	3
+Somewhat In Favor	4	aa_opeds_sample/txt/398787032.xml.txt	63ed99d5c3520191a0a7280e	It is discussed briefly.	2
+Strongly Against	1	aa_opeds_sample/txt/421525331.xml.txt	63ed99d5c3520191a0a7280e	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/1099415355.xml.txt	63ed99d5c3520191a0a7280e	It is the main subject.	1
+Somewhat Against 	2	aa_opeds_sample/txt/418468651.xml.txt	63ed99d5c3520191a0a7280e	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/2216641847.xml.txt	63ed99d5c3520191a0a7280e	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/2452692303.xml.txt	63ed99d5c3520191a0a7280e	It is the main subject.	1
+Strongly Against	1	test_question_against_testing_3	57b76ea36aeef20001e8928d	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/1519805309.xml.txt	57b76ea36aeef20001e8928d	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/421214771.xml.txt	57b76ea36aeef20001e8928d	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/419493718.xml.txt	57b76ea36aeef20001e8928d	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/398538903.xml.txt	57b76ea36aeef20001e8928d	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/420306539.xml.txt	57b76ea36aeef20001e8928d	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/2193427873.xml.txt	57b76ea36aeef20001e8928d	It is discussed briefly.	2
+Strongly Against	1	aa_opeds_sample/txt/2765919087.xml.txt	57b76ea36aeef20001e8928d	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/398920534.xml.txt	57b76ea36aeef20001e8928d	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/2233007997.xml.txt	57b76ea36aeef20001e8928d	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/432405735.xml.txt	57b76ea36aeef20001e8928d	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/421228265.xml.txt	5bb91c132e2fe50001be0d08	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/398441227.xml.txt	5bb91c132e2fe50001be0d08	It is discussed briefly.	2
+N/A (not enough information)	6	test_question_against_testing_3	5bb91c132e2fe50001be0d08	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/2648708177.xml.txt	5bb91c132e2fe50001be0d08	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/398730713.xml.txt	5bb91c132e2fe50001be0d08	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/2628908360.xml.txt	5bb91c132e2fe50001be0d08	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/398321574.xml.txt	5bb91c132e2fe50001be0d08	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/1014285656.xml.txt	5bb91c132e2fe50001be0d08	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/2215402698.xml.txt	5bb91c132e2fe50001be0d08	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/424890519.xml.txt	5bb91c132e2fe50001be0d08	It is not mentioned.	3
+Somewhat Against 	2	aa_opeds_sample/txt/2009409469.xml.txt	5bb91c132e2fe50001be0d08	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/421228265.xml.txt	6478e9af7d038af16d294843	It is discussed briefly.	2
+Strongly In Favor	5	test_question_pro_testing_2	6478e9af7d038af16d294843	It is the main subject.	1
+Somewhat In Favor	4	aa_opeds_sample/txt/408654746.xml.txt	6478e9af7d038af16d294843	It is discussed briefly.	2
+Strongly Against	1	aa_opeds_sample/txt/230632738.xml.txt	6478e9af7d038af16d294843	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/430898745.xml.txt	6478e9af7d038af16d294843	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/398299761.xml.txt	6478e9af7d038af16d294843	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/398787032.xml.txt	6478e9af7d038af16d294843	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/398321574.xml.txt	6478e9af7d038af16d294843	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/398602003.xml.txt	6478e9af7d038af16d294843	It is the main subject.	1
+Somewhat In Favor	4	aa_opeds_sample/txt/430810646.xml.txt	6478e9af7d038af16d294843	It is the main subject.	1
+Somewhat Against 	2	aa_opeds_sample/txt/399055159.xml.txt	6478e9af7d038af16d294843	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/418520188.xml.txt	5edb7982f3b2f87f8ef83236	It is the main subject.	1
+Neutral	3	test_question_neutral_testing_1	5edb7982f3b2f87f8ef83236	It is the main subject.	1
+Somewhat Against 	2	aa_opeds_sample/txt/398469346.xml.txt	5edb7982f3b2f87f8ef83236	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/421303437.xml.txt	5edb7982f3b2f87f8ef83236	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/293028806.xml.txt	5edb7982f3b2f87f8ef83236	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/398602003.xml.txt	5edb7982f3b2f87f8ef83236	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/1823531226.xml.txt	5edb7982f3b2f87f8ef83236	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/293063140.xml.txt	5edb7982f3b2f87f8ef83236	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/1652232593.xml.txt	5edb7982f3b2f87f8ef83236	It is not mentioned.	3
+Neutral	3	aa_opeds_sample/txt/1799136984.xml.txt	5edb7982f3b2f87f8ef83236	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/2530287535.xml.txt	5edb7982f3b2f87f8ef83236	It is not mentioned.	3
+N/A (not enough information)	6	aa_opeds_sample/txt/1667204395.xml.txt	595bee9282be5500017ad683	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/408439658.xml.txt	595bee9282be5500017ad683		
+Strongly In Favor	5	test_question_pro_testing_2	595bee9282be5500017ad683	It is the main subject.	1
+Strongly Against	1	aa_opeds_sample/txt/398530550.xml.txt	595bee9282be5500017ad683	It is the main subject.	1
+Somewhat In Favor	4	aa_opeds_sample/txt/2444131672.xml.txt	595bee9282be5500017ad683	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/2138443158.xml.txt	595bee9282be5500017ad683	It is not mentioned.	3
+N/A (not enough information)	6	aa_opeds_sample/txt/2445858352.xml.txt	595bee9282be5500017ad683	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/427134596.xml.txt	595bee9282be5500017ad683	It is the main subject.	1
+Somewhat In Favor	4	aa_opeds_sample/txt/432374988.xml.txt	595bee9282be5500017ad683	It is the main subject.	1
+		aa_opeds_sample/txt/408354994.xml.txt	595bee9282be5500017ad683	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/409790149.xml.txt	595bee9282be5500017ad683	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/293295109.xml.txt	6081ca47eeed1bb51c1d7f7b	It is the main subject.	1
+Somewhat Against 	2	aa_opeds_sample/txt/418950637.xml.txt	6081ca47eeed1bb51c1d7f7b	It is the main subject.	1
+Somewhat In Favor	4	aa_opeds_sample/txt/2244665351.xml.txt	6081ca47eeed1bb51c1d7f7b	It is discussed briefly.	2
+Somewhat In Favor	4	test_question_against_testing_3	6081ca47eeed1bb51c1d7f7b	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/421424365.xml.txt	6081ca47eeed1bb51c1d7f7b	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/418395424.xml.txt	6081ca47eeed1bb51c1d7f7b	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/408485014.xml.txt	6081ca47eeed1bb51c1d7f7b	It is discussed briefly.	2
+Strongly Against	1	aa_opeds_sample/txt/1034256694.xml.txt	6081ca47eeed1bb51c1d7f7b	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/432763623.xml.txt	6081ca47eeed1bb51c1d7f7b	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/399053714.xml.txt	6081ca47eeed1bb51c1d7f7b	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/430810646.xml.txt	6081ca47eeed1bb51c1d7f7b	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/421987509.xml.txt	62926b2bba027005e0a84475	It is discussed briefly.	2
+Strongly In Favor	5	test_question_against_testing_3	62926b2bba027005e0a84475	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/398299761.xml.txt	62926b2bba027005e0a84475	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/429909301.xml.txt	62926b2bba027005e0a84475	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/1750369183.xml.txt	62926b2bba027005e0a84475	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/420906077.xml.txt	62926b2bba027005e0a84475	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/293087956.xml.txt	62926b2bba027005e0a84475	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/2778538694.xml.txt	62926b2bba027005e0a84475	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/409108213.xml.txt	62926b2bba027005e0a84475	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/2065977608.xml.txt	62926b2bba027005e0a84475	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/398630711.xml.txt	62926b2bba027005e0a84475	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/408523809.xml.txt	5f330bfd7109cd0e649566b6	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/230632738.xml.txt	5f330bfd7109cd0e649566b6	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/421507153.xml.txt	5f330bfd7109cd0e649566b6	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/424669038.xml.txt	5f330bfd7109cd0e649566b6	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/2682983998.xml.txt	5f330bfd7109cd0e649566b6	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/1752156404.xml.txt	5f330bfd7109cd0e649566b6	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/430872205.xml.txt	5f330bfd7109cd0e649566b6	It is the main subject.	1
+Strongly In Favor	5	test_question_pro_testing_1	5f330bfd7109cd0e649566b6	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/2099964529.xml.txt	5f330bfd7109cd0e649566b6	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/430957877.xml.txt	5f330bfd7109cd0e649566b6	It is the main subject.	1
+Somewhat Against 	2	aa_opeds_sample/txt/399055159.xml.txt	5f330bfd7109cd0e649566b6	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/408439658.xml.txt	655ce483f596bc00eab95320	It is not mentioned.	3
+Somewhat In Favor	4	test_question_against_testing_2	655ce483f596bc00eab95320	It is the main subject.	1
+Somewhat In Favor	4	aa_opeds_sample/txt/1519805309.xml.txt	655ce483f596bc00eab95320	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/421424365.xml.txt	655ce483f596bc00eab95320	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/293028806.xml.txt	655ce483f596bc00eab95320	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/2009409469.xml.txt	655ce483f596bc00eab95320	It is not mentioned.	3
+Strongly Against	1	aa_opeds_sample/txt/2765919087.xml.txt	655ce483f596bc00eab95320	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/421525331.xml.txt	655ce483f596bc00eab95320	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/432763623.xml.txt	655ce483f596bc00eab95320	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/398920534.xml.txt	655ce483f596bc00eab95320	It is not mentioned.	3
+N/A (not enough information)	6	aa_opeds_sample/txt/424890519.xml.txt	655ce483f596bc00eab95320	It is not mentioned.	3
+Somewhat Against 	2	aa_opeds_sample/txt/421987509.xml.txt	6413ed6a23881edc2e190e15	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/432267882.xml.txt	6413ed6a23881edc2e190e15	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/421507153.xml.txt	6413ed6a23881edc2e190e15	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/2445858352.xml.txt	6413ed6a23881edc2e190e15	It is discussed briefly.	2
+Strongly Against	1	aa_opeds_sample/txt/2633115690.xml.txt	6413ed6a23881edc2e190e15	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/2833402706.xml.txt	6413ed6a23881edc2e190e15	It is discussed briefly.	2
+Strongly Against	1	aa_opeds_sample/txt/398538903.xml.txt	6413ed6a23881edc2e190e15	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/424224130.xml.txt	6413ed6a23881edc2e190e15	It is discussed briefly.	2
+Strongly Against	1	aa_opeds_sample/txt/1099415355.xml.txt	6413ed6a23881edc2e190e15	It is discussed briefly.	2
+Somewhat In Favor	4	test_question_pro_testing_1	6413ed6a23881edc2e190e15	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/2065977608.xml.txt	6413ed6a23881edc2e190e15	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/1667204395.xml.txt	5fc98fe1b105424d4b03381b	It is discussed briefly.	2
+Somewhat Against 	2	test_question_against_testing_3	5fc98fe1b105424d4b03381b	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/429909301.xml.txt	5fc98fe1b105424d4b03381b	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/418548792.xml.txt	5fc98fe1b105424d4b03381b	It is the main subject.	1
+Strongly In Favor	5	aa_opeds_sample/txt/430872205.xml.txt	5fc98fe1b105424d4b03381b	It is the main subject.	1
+Strongly In Favor	5	aa_opeds_sample/txt/408345486.xml.txt	5fc98fe1b105424d4b03381b	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/293087956.xml.txt	5fc98fe1b105424d4b03381b	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/408485014.xml.txt	5fc98fe1b105424d4b03381b	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/215497350.xml.txt	5fc98fe1b105424d4b03381b	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/2419240626.xml.txt	5fc98fe1b105424d4b03381b	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/2452692303.xml.txt	5fc98fe1b105424d4b03381b	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/408523809.xml.txt	6578eb199d938bc19925a731	It is discussed briefly.	2
+Strongly Against	1	test_question_pro_testing_2	6578eb199d938bc19925a731	It is the main subject.	1
+		aa_opeds_sample/txt/421647247.xml.txt	6578eb199d938bc19925a731	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/1750369183.xml.txt	6578eb199d938bc19925a731	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/420906077.xml.txt	6578eb199d938bc19925a731	It is the main subject.	1
+Strongly In Favor	5	aa_opeds_sample/txt/2215402698.xml.txt	6578eb199d938bc19925a731	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/293063140.xml.txt	6578eb199d938bc19925a731	It is discussed briefly.	2
+Somewhat In Favor	4	aa_opeds_sample/txt/2216641847.xml.txt	6578eb199d938bc19925a731	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/1652232593.xml.txt	6578eb199d938bc19925a731	It is not mentioned.	3
+Neutral	3	aa_opeds_sample/txt/2099964529.xml.txt	6578eb199d938bc19925a731	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/2469478152.xml.txt	6578eb199d938bc19925a731	It is discussed briefly.	2
+Neutral	3	test_question_neutral_testing_1	5d8793d36c53380015139da9	It is the main subject.	1
+Somewhat Against 	2	aa_opeds_sample/txt/2138443158.xml.txt	5d8793d36c53380015139da9	It is the main subject.	1
+Strongly Against	1	aa_opeds_sample/txt/399053714.xml.txt	5d8793d36c53380015139da9	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/419493718.xml.txt	5d8793d36c53380015139da9	It is the main subject.	1
+N/A (not enough information)	6	aa_opeds_sample/txt/409790149.xml.txt	5d8793d36c53380015139da9	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/432471477.xml.txt	5d8793d36c53380015139da9	It is discussed briefly.	2
+Strongly In Favor	5	aa_opeds_sample/txt/427134596.xml.txt	5d8793d36c53380015139da9	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/398441227.xml.txt	6580ab64459a9ec6fcc653b3	It is the main subject.	1
+Strongly In Favor	5	aa_opeds_sample/txt/418520188.xml.txt	6580ab64459a9ec6fcc653b3	It is the main subject.	1
+Strongly Against	1	test_question_against_testing_2	6580ab64459a9ec6fcc653b3	It is the main subject.	1
+Neutral	3	aa_opeds_sample/txt/432419685.xml.txt	6580ab64459a9ec6fcc653b3	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/2682983998.xml.txt	6580ab64459a9ec6fcc653b3	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/420306539.xml.txt	6580ab64459a9ec6fcc653b3	It is discussed briefly.	2
+Neutral	3	aa_opeds_sample/txt/420116341.xml.txt	6580ab64459a9ec6fcc653b3	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/2248215580.xml.txt	6580ab64459a9ec6fcc653b3	It is discussed briefly.	2
+N/A (not enough information)	6	aa_opeds_sample/txt/1752156404.xml.txt	6580ab64459a9ec6fcc653b3	It is discussed briefly.	2
+Somewhat Against 	2	aa_opeds_sample/txt/1014285656.xml.txt	6580ab64459a9ec6fcc653b3	It is the main subject.	1
+Somewhat In Favor	4	aa_opeds_sample/txt/2530287535.xml.txt	6580ab64459a9ec6fcc653b3	It is discussed briefly.	2

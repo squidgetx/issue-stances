@@ -1,0 +1,231 @@
+relevance_numeric	id	coder_id	relevance_label	stance_numeric	stance_label	filename
+2	aa_opeds_sample/txt/420557855.xml.txt	60f657824394dac9902c821f	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/420557855.xml.txt
+2	aa_opeds_sample/txt/432267882.xml.txt	60f657824394dac9902c821f	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/432267882.xml.txt
+1	aa_opeds_sample/txt/430898745.xml.txt	60f657824394dac9902c821f	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/430898745.xml.txt
+2	aa_opeds_sample/txt/408345486.xml.txt	60f657824394dac9902c821f	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/408345486.xml.txt
+2	aa_opeds_sample/txt/2833402706.xml.txt	60f657824394dac9902c821f	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/2833402706.xml.txt
+2	aa_opeds_sample/txt/431248074.xml.txt	60f657824394dac9902c821f	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/431248074.xml.txt
+2	aa_opeds_sample/txt/428907164.xml.txt	60f657824394dac9902c821f	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/428907164.xml.txt
+2	aa_opeds_sample/txt/215497350.xml.txt	60f657824394dac9902c821f	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/215497350.xml.txt
+2	aa_opeds_sample/txt/432471477.xml.txt	60f657824394dac9902c821f	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/432471477.xml.txt
+1	aa_opeds_sample/txt/307867242.xml.txt	60f657824394dac9902c821f	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/307867242.xml.txt
+2	aa_opeds_sample/txt/2700218837.xml.txt	63daabbd0ca8de9fc5709d1d	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2700218837.xml.txt
+3	aa_opeds_sample/txt/419989695.xml.txt	63daabbd0ca8de9fc5709d1d	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/419989695.xml.txt
+2	aa_opeds_sample/txt/2831679997.xml.txt	63daabbd0ca8de9fc5709d1d	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2831679997.xml.txt
+1	aa_opeds_sample/txt/409060590.xml.txt	63daabbd0ca8de9fc5709d1d	Affirmative action is the main subject.	3	Neutral, or not enough information	aa_opeds_sample/txt/409060590.xml.txt
+1	aa_opeds_sample/txt/2154417607.xml.txt	63daabbd0ca8de9fc5709d1d	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/2154417607.xml.txt
+2	aa_opeds_sample/txt/409718670.xml.txt	63daabbd0ca8de9fc5709d1d	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/409718670.xml.txt
+2	aa_opeds_sample/txt/421609713.xml.txt	63daabbd0ca8de9fc5709d1d	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/421609713.xml.txt
+2	aa_opeds_sample/txt/2832640273.xml.txt	63daabbd0ca8de9fc5709d1d	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2832640273.xml.txt
+2	aa_opeds_sample/txt/420733639.xml.txt	63daabbd0ca8de9fc5709d1d	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/420733639.xml.txt
+1	aa_opeds_sample/txt/2417314051.xml.txt	63daabbd0ca8de9fc5709d1d	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/2417314051.xml.txt
+2	aa_opeds_sample/txt/420733639.xml.txt	5eee84b62f2451148cb708b2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/420733639.xml.txt
+2	aa_opeds_sample/txt/432876223.xml.txt	5eee84b62f2451148cb708b2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/432876223.xml.txt
+2	aa_opeds_sample/txt/408580425.xml.txt	5eee84b62f2451148cb708b2	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/408580425.xml.txt
+2	aa_opeds_sample/txt/2831679997.xml.txt	5eee84b62f2451148cb708b2	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/2831679997.xml.txt
+2	aa_opeds_sample/txt/409060590.xml.txt	5eee84b62f2451148cb708b2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/409060590.xml.txt
+2	aa_opeds_sample/txt/409718670.xml.txt	5eee84b62f2451148cb708b2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/409718670.xml.txt
+2	aa_opeds_sample/txt/421609713.xml.txt	5eee84b62f2451148cb708b2	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/421609713.xml.txt
+2	aa_opeds_sample/txt/1023015447.xml.txt	5eee84b62f2451148cb708b2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1023015447.xml.txt
+2	aa_opeds_sample/txt/1011079659.xml.txt	5eee84b62f2451148cb708b2	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/1011079659.xml.txt
+1	aa_opeds_sample/txt/2417314051.xml.txt	5eee84b62f2451148cb708b2	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/2417314051.xml.txt
+1	aa_opeds_sample/txt/432405735.xml.txt	6532afc996aad781b8ade182	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/432405735.xml.txt
+2	aa_opeds_sample/txt/421228265.xml.txt	6532afc996aad781b8ade182	Affirmative action is mentioned, but is not the main subject	1	Strongly against	aa_opeds_sample/txt/421228265.xml.txt
+1	aa_opeds_sample/txt/398730713.xml.txt	6532afc996aad781b8ade182	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/398730713.xml.txt
+3	aa_opeds_sample/txt/424890519.xml.txt	6532afc996aad781b8ade182	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/424890519.xml.txt
+1	aa_opeds_sample/txt/2648708177.xml.txt	6532afc996aad781b8ade182	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/2648708177.xml.txt
+2	aa_opeds_sample/txt/2628908360.xml.txt	6532afc996aad781b8ade182	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2628908360.xml.txt
+2	aa_opeds_sample/txt/2009409469.xml.txt	6532afc996aad781b8ade182	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2009409469.xml.txt
+2	aa_opeds_sample/txt/1519805309.xml.txt	6532afc996aad781b8ade182	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/1519805309.xml.txt
+1	aa_opeds_sample/txt/2215402698.xml.txt	6532afc996aad781b8ade182	Affirmative action is the main subject.	1	Strongly against	aa_opeds_sample/txt/2215402698.xml.txt
+2	aa_opeds_sample/txt/398441227.xml.txt	6532afc996aad781b8ade182	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/398441227.xml.txt
+2	aa_opeds_sample/txt/399055159.xml.txt	5f0d0bb334aaaf7151fee628	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/399055159.xml.txt
+1	aa_opeds_sample/txt/430898745.xml.txt	5f0d0bb334aaaf7151fee628	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/430898745.xml.txt
+2	aa_opeds_sample/txt/421228265.xml.txt	5f0d0bb334aaaf7151fee628	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/421228265.xml.txt
+2	aa_opeds_sample/txt/398321574.xml.txt	5f0d0bb334aaaf7151fee628	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/398321574.xml.txt
+1	aa_opeds_sample/txt/2452692303.xml.txt	5f0d0bb334aaaf7151fee628	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/2452692303.xml.txt
+1	aa_opeds_sample/txt/430957877.xml.txt	5f0d0bb334aaaf7151fee628	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/430957877.xml.txt
+2	aa_opeds_sample/txt/230632738.xml.txt	5f0d0bb334aaaf7151fee628	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/230632738.xml.txt
+2	aa_opeds_sample/txt/398787032.xml.txt	5f0d0bb334aaaf7151fee628	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/398787032.xml.txt
+2	aa_opeds_sample/txt/430810646.xml.txt	5f0d0bb334aaaf7151fee628	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/430810646.xml.txt
+2	aa_opeds_sample/txt/398299761.xml.txt	5f0d0bb334aaaf7151fee628	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/398299761.xml.txt
+1	aa_opeds_sample/txt/293028806.xml.txt	6532bba1883d90937d32c01a	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/293028806.xml.txt
+1	aa_opeds_sample/txt/418520188.xml.txt	6532bba1883d90937d32c01a	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/418520188.xml.txt
+3	aa_opeds_sample/txt/1652232593.xml.txt	6532bba1883d90937d32c01a	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/1652232593.xml.txt
+1	aa_opeds_sample/txt/2530287535.xml.txt	6532bba1883d90937d32c01a	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/2530287535.xml.txt
+1	aa_opeds_sample/txt/398602003.xml.txt	6532bba1883d90937d32c01a	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/398602003.xml.txt
+2	aa_opeds_sample/txt/293063140.xml.txt	6532bba1883d90937d32c01a	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/293063140.xml.txt
+2	aa_opeds_sample/txt/421303437.xml.txt	6532bba1883d90937d32c01a	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/421303437.xml.txt
+2	aa_opeds_sample/txt/1823531226.xml.txt	6532bba1883d90937d32c01a	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1823531226.xml.txt
+1	aa_opeds_sample/txt/1799136984.xml.txt	6532bba1883d90937d32c01a	Affirmative action is the main subject.	NA	NA	aa_opeds_sample/txt/1799136984.xml.txt
+1	aa_opeds_sample/txt/398469346.xml.txt	6532bba1883d90937d32c01a	Affirmative action is the main subject.	1	Strongly against	aa_opeds_sample/txt/398469346.xml.txt
+2	aa_opeds_sample/txt/408523809.xml.txt	653177c02de58f0b5da387a9	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/408523809.xml.txt
+2	aa_opeds_sample/txt/420906077.xml.txt	653177c02de58f0b5da387a9	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/420906077.xml.txt
+1	aa_opeds_sample/txt/421647247.xml.txt	653177c02de58f0b5da387a9	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/421647247.xml.txt
+3	aa_opeds_sample/txt/1652232593.xml.txt	653177c02de58f0b5da387a9	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/1652232593.xml.txt
+2	aa_opeds_sample/txt/2099964529.xml.txt	653177c02de58f0b5da387a9	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2099964529.xml.txt
+1	aa_opeds_sample/txt/2216641847.xml.txt	653177c02de58f0b5da387a9	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/2216641847.xml.txt
+1	aa_opeds_sample/txt/2215402698.xml.txt	653177c02de58f0b5da387a9	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/2215402698.xml.txt
+2	aa_opeds_sample/txt/293063140.xml.txt	653177c02de58f0b5da387a9	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/293063140.xml.txt
+2	aa_opeds_sample/txt/2469478152.xml.txt	653177c02de58f0b5da387a9	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2469478152.xml.txt
+2	aa_opeds_sample/txt/1750369183.xml.txt	653177c02de58f0b5da387a9	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/1750369183.xml.txt
+2	aa_opeds_sample/txt/1667204395.xml.txt	6553a1d1ca63d5c0ea71a758	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/1667204395.xml.txt
+2	aa_opeds_sample/txt/2419240626.xml.txt	6553a1d1ca63d5c0ea71a758	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/2419240626.xml.txt
+2	aa_opeds_sample/txt/408345486.xml.txt	6553a1d1ca63d5c0ea71a758	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/408345486.xml.txt
+2	aa_opeds_sample/txt/293087956.xml.txt	6553a1d1ca63d5c0ea71a758	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/293087956.xml.txt
+1	aa_opeds_sample/txt/430872205.xml.txt	6553a1d1ca63d5c0ea71a758	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/430872205.xml.txt
+1	aa_opeds_sample/txt/429909301.xml.txt	6553a1d1ca63d5c0ea71a758	Affirmative action is the main subject.	1	Strongly against	aa_opeds_sample/txt/429909301.xml.txt
+1	aa_opeds_sample/txt/418548792.xml.txt	6553a1d1ca63d5c0ea71a758	Affirmative action is the main subject.	3	Neutral, or not enough information	aa_opeds_sample/txt/418548792.xml.txt
+2	aa_opeds_sample/txt/215497350.xml.txt	6553a1d1ca63d5c0ea71a758	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/215497350.xml.txt
+2	aa_opeds_sample/txt/1519805309.xml.txt	6553a1d1ca63d5c0ea71a758	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/1519805309.xml.txt
+1	aa_opeds_sample/txt/1799136984.xml.txt	6553a1d1ca63d5c0ea71a758	Affirmative action is the main subject.	3	Neutral, or not enough information	aa_opeds_sample/txt/1799136984.xml.txt
+1	aa_opeds_sample/txt/399053714.xml.txt	604e9ee68314bd949421ccd7	Affirmative action is the main subject.	1	Strongly against	aa_opeds_sample/txt/399053714.xml.txt
+2	aa_opeds_sample/txt/421424365.xml.txt	604e9ee68314bd949421ccd7	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/421424365.xml.txt
+1	aa_opeds_sample/txt/1034256694.xml.txt	604e9ee68314bd949421ccd7	Affirmative action is the main subject.	1	Strongly against	aa_opeds_sample/txt/1034256694.xml.txt
+2	aa_opeds_sample/txt/2244665351.xml.txt	604e9ee68314bd949421ccd7	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/2244665351.xml.txt
+2	aa_opeds_sample/txt/418950637.xml.txt	604e9ee68314bd949421ccd7	Affirmative action is mentioned, but is not the main subject	1	Strongly against	aa_opeds_sample/txt/418950637.xml.txt
+1	aa_opeds_sample/txt/293295109.xml.txt	604e9ee68314bd949421ccd7	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/293295109.xml.txt
+2	aa_opeds_sample/txt/432763623.xml.txt	604e9ee68314bd949421ccd7	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/432763623.xml.txt
+2	aa_opeds_sample/txt/408485014.xml.txt	604e9ee68314bd949421ccd7	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/408485014.xml.txt
+1	aa_opeds_sample/txt/430810646.xml.txt	604e9ee68314bd949421ccd7	Affirmative action is the main subject.	3	Neutral, or not enough information	aa_opeds_sample/txt/430810646.xml.txt
+2	aa_opeds_sample/txt/418395424.xml.txt	604e9ee68314bd949421ccd7	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/418395424.xml.txt
+2	aa_opeds_sample/txt/409129544.xml.txt	64514dd03f467fe3cf0cf364	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/409129544.xml.txt
+1	aa_opeds_sample/txt/419493718.xml.txt	64514dd03f467fe3cf0cf364	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/419493718.xml.txt
+2	aa_opeds_sample/txt/399053714.xml.txt	64514dd03f467fe3cf0cf364	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/399053714.xml.txt
+2	aa_opeds_sample/txt/409790149.xml.txt	64514dd03f467fe3cf0cf364	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/409790149.xml.txt
+2	aa_opeds_sample/txt/2138443158.xml.txt	64514dd03f467fe3cf0cf364	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2138443158.xml.txt
+2	aa_opeds_sample/txt/432374988.xml.txt	64514dd03f467fe3cf0cf364	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/432374988.xml.txt
+2	aa_opeds_sample/txt/418468651.xml.txt	64514dd03f467fe3cf0cf364	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/418468651.xml.txt
+2	aa_opeds_sample/txt/432471477.xml.txt	64514dd03f467fe3cf0cf364	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/432471477.xml.txt
+1	aa_opeds_sample/txt/307867242.xml.txt	64514dd03f467fe3cf0cf364	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/307867242.xml.txt
+2	aa_opeds_sample/txt/427134596.xml.txt	64514dd03f467fe3cf0cf364	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/427134596.xml.txt
+2	aa_opeds_sample/txt/422316037.xml.txt	5dafe439670a30001634eaa0	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/422316037.xml.txt
+2	aa_opeds_sample/txt/432876223.xml.txt	5dafe439670a30001634eaa0	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/432876223.xml.txt
+2	aa_opeds_sample/txt/398788879.xml.txt	5dafe439670a30001634eaa0	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/398788879.xml.txt
+2	aa_opeds_sample/txt/408580425.xml.txt	5dafe439670a30001634eaa0	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/408580425.xml.txt
+1	aa_opeds_sample/txt/408345293.xml.txt	5dafe439670a30001634eaa0	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/408345293.xml.txt
+2	aa_opeds_sample/txt/1774364135.xml.txt	5dafe439670a30001634eaa0	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/1774364135.xml.txt
+2	aa_opeds_sample/txt/423943644.xml.txt	5dafe439670a30001634eaa0	Affirmative action is mentioned, but is not the main subject	1	Strongly against	aa_opeds_sample/txt/423943644.xml.txt
+2	aa_opeds_sample/txt/1023015447.xml.txt	5dafe439670a30001634eaa0	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1023015447.xml.txt
+2	aa_opeds_sample/txt/1011079659.xml.txt	5dafe439670a30001634eaa0	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1011079659.xml.txt
+3	aa_opeds_sample/txt/420158599.xml.txt	5dafe439670a30001634eaa0	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/420158599.xml.txt
+2	aa_opeds_sample/txt/432267882.xml.txt	63f3727c6e41f63c9b2a6f1f	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/432267882.xml.txt
+2	aa_opeds_sample/txt/421507153.xml.txt	63f3727c6e41f63c9b2a6f1f	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/421507153.xml.txt
+2	aa_opeds_sample/txt/1099415355.xml.txt	63f3727c6e41f63c9b2a6f1f	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/1099415355.xml.txt
+2	aa_opeds_sample/txt/2833402706.xml.txt	63f3727c6e41f63c9b2a6f1f	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/2833402706.xml.txt
+2	aa_opeds_sample/txt/2445858352.xml.txt	63f3727c6e41f63c9b2a6f1f	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/2445858352.xml.txt
+1	aa_opeds_sample/txt/2065977608.xml.txt	63f3727c6e41f63c9b2a6f1f	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/2065977608.xml.txt
+1	aa_opeds_sample/txt/398538903.xml.txt	63f3727c6e41f63c9b2a6f1f	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/398538903.xml.txt
+2	aa_opeds_sample/txt/421987509.xml.txt	63f3727c6e41f63c9b2a6f1f	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/421987509.xml.txt
+2	aa_opeds_sample/txt/2633115690.xml.txt	63f3727c6e41f63c9b2a6f1f	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/2633115690.xml.txt
+2	aa_opeds_sample/txt/424224130.xml.txt	63f3727c6e41f63c9b2a6f1f	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/424224130.xml.txt
+2	aa_opeds_sample/txt/399055159.xml.txt	654b95a706f1c94013df4899	Affirmative action is mentioned, but is not the main subject	1	Strongly against	aa_opeds_sample/txt/399055159.xml.txt
+2	aa_opeds_sample/txt/2682983998.xml.txt	654b95a706f1c94013df4899	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2682983998.xml.txt
+2	aa_opeds_sample/txt/421507153.xml.txt	654b95a706f1c94013df4899	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/421507153.xml.txt
+2	aa_opeds_sample/txt/408523809.xml.txt	654b95a706f1c94013df4899	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/408523809.xml.txt
+2	aa_opeds_sample/txt/2099964529.xml.txt	654b95a706f1c94013df4899	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2099964529.xml.txt
+2	aa_opeds_sample/txt/430872205.xml.txt	654b95a706f1c94013df4899	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/430872205.xml.txt
+2	aa_opeds_sample/txt/1752156404.xml.txt	654b95a706f1c94013df4899	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1752156404.xml.txt
+1	aa_opeds_sample/txt/430957877.xml.txt	654b95a706f1c94013df4899	Affirmative action is the main subject.	1	Strongly against	aa_opeds_sample/txt/430957877.xml.txt
+2	aa_opeds_sample/txt/230632738.xml.txt	654b95a706f1c94013df4899	Affirmative action is mentioned, but is not the main subject	1	Strongly against	aa_opeds_sample/txt/230632738.xml.txt
+1	aa_opeds_sample/txt/424669038.xml.txt	654b95a706f1c94013df4899	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/424669038.xml.txt
+2	aa_opeds_sample/txt/419493718.xml.txt	5bf56b6c8f12ac00018af6e2	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/419493718.xml.txt
+2	aa_opeds_sample/txt/420306539.xml.txt	5bf56b6c8f12ac00018af6e2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/420306539.xml.txt
+2	aa_opeds_sample/txt/398920534.xml.txt	5bf56b6c8f12ac00018af6e2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/398920534.xml.txt
+2	aa_opeds_sample/txt/1014285656.xml.txt	5bf56b6c8f12ac00018af6e2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1014285656.xml.txt
+2	aa_opeds_sample/txt/398321574.xml.txt	5bf56b6c8f12ac00018af6e2	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/398321574.xml.txt
+2	aa_opeds_sample/txt/2233007997.xml.txt	5bf56b6c8f12ac00018af6e2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2233007997.xml.txt
+2	aa_opeds_sample/txt/2765919087.xml.txt	5bf56b6c8f12ac00018af6e2	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/2765919087.xml.txt
+1	aa_opeds_sample/txt/398538903.xml.txt	5bf56b6c8f12ac00018af6e2	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/398538903.xml.txt
+2	aa_opeds_sample/txt/421214771.xml.txt	5bf56b6c8f12ac00018af6e2	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/421214771.xml.txt
+2	aa_opeds_sample/txt/2193427873.xml.txt	5bf56b6c8f12ac00018af6e2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2193427873.xml.txt
+1	aa_opeds_sample/txt/421333085.xml.txt	652e82fcd5439e9978df3ee2	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/421333085.xml.txt
+2	aa_opeds_sample/txt/2444131672.xml.txt	652e82fcd5439e9978df3ee2	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/2444131672.xml.txt
+2	aa_opeds_sample/txt/2244665351.xml.txt	652e82fcd5439e9978df3ee2	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/2244665351.xml.txt
+1	aa_opeds_sample/txt/1034256694.xml.txt	652e82fcd5439e9978df3ee2	Affirmative action is the main subject.	1	Strongly against	aa_opeds_sample/txt/1034256694.xml.txt
+2	aa_opeds_sample/txt/2648708177.xml.txt	652e82fcd5439e9978df3ee2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2648708177.xml.txt
+2	aa_opeds_sample/txt/418950637.xml.txt	652e82fcd5439e9978df3ee2	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/418950637.xml.txt
+2	aa_opeds_sample/txt/428907164.xml.txt	652e82fcd5439e9978df3ee2	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/428907164.xml.txt
+2	aa_opeds_sample/txt/421303437.xml.txt	652e82fcd5439e9978df3ee2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/421303437.xml.txt
+2	aa_opeds_sample/txt/1823531226.xml.txt	652e82fcd5439e9978df3ee2	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1823531226.xml.txt
+2	aa_opeds_sample/txt/2193427873.xml.txt	652e82fcd5439e9978df3ee2	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/2193427873.xml.txt
+2	aa_opeds_sample/txt/2419240626.xml.txt	63fb7bd7941b345c37a9c54e	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/2419240626.xml.txt
+1	aa_opeds_sample/txt/408654746.xml.txt	63fb7bd7941b345c37a9c54e	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/408654746.xml.txt
+1	aa_opeds_sample/txt/421333085.xml.txt	63fb7bd7941b345c37a9c54e	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/421333085.xml.txt
+1	aa_opeds_sample/txt/421647247.xml.txt	63fb7bd7941b345c37a9c54e	Affirmative action is the main subject.	1	Strongly against	aa_opeds_sample/txt/421647247.xml.txt
+2	aa_opeds_sample/txt/418768610.xml.txt	63fb7bd7941b345c37a9c54e	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/418768610.xml.txt
+2	aa_opeds_sample/txt/420116341.xml.txt	63fb7bd7941b345c37a9c54e	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/420116341.xml.txt
+2	aa_opeds_sample/txt/2432777796.xml.txt	63fb7bd7941b345c37a9c54e	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2432777796.xml.txt
+1	aa_opeds_sample/txt/418548792.xml.txt	63fb7bd7941b345c37a9c54e	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/418548792.xml.txt
+2	aa_opeds_sample/txt/2469478152.xml.txt	63fb7bd7941b345c37a9c54e	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/2469478152.xml.txt
+2	aa_opeds_sample/txt/424224130.xml.txt	63fb7bd7941b345c37a9c54e	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/424224130.xml.txt
+1	aa_opeds_sample/txt/293087956.xml.txt	62b36713e7f1222fd112f23e	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/293087956.xml.txt
+2	aa_opeds_sample/txt/420906077.xml.txt	62b36713e7f1222fd112f23e	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/420906077.xml.txt
+2	aa_opeds_sample/txt/398630711.xml.txt	62b36713e7f1222fd112f23e	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/398630711.xml.txt
+2	aa_opeds_sample/txt/429909301.xml.txt	62b36713e7f1222fd112f23e	Affirmative action is mentioned, but is not the main subject	1	Strongly against	aa_opeds_sample/txt/429909301.xml.txt
+2	aa_opeds_sample/txt/409108213.xml.txt	62b36713e7f1222fd112f23e	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/409108213.xml.txt
+1	aa_opeds_sample/txt/2065977608.xml.txt	62b36713e7f1222fd112f23e	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/2065977608.xml.txt
+2	aa_opeds_sample/txt/2778538694.xml.txt	62b36713e7f1222fd112f23e	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/2778538694.xml.txt
+1	aa_opeds_sample/txt/421987509.xml.txt	62b36713e7f1222fd112f23e	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/421987509.xml.txt
+2	aa_opeds_sample/txt/1750369183.xml.txt	62b36713e7f1222fd112f23e	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1750369183.xml.txt
+1	aa_opeds_sample/txt/398299761.xml.txt	62b36713e7f1222fd112f23e	Affirmative action is the main subject.	2	Somewhat against	aa_opeds_sample/txt/398299761.xml.txt
+2	aa_opeds_sample/txt/398730713.xml.txt	5c796f4b4855980016a15557	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/398730713.xml.txt
+3	aa_opeds_sample/txt/418768610.xml.txt	5c796f4b4855980016a15557	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/418768610.xml.txt
+2	aa_opeds_sample/txt/398530550.xml.txt	5c796f4b4855980016a15557	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/398530550.xml.txt
+2	aa_opeds_sample/txt/409108213.xml.txt	5c796f4b4855980016a15557	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/409108213.xml.txt
+1	aa_opeds_sample/txt/408354994.xml.txt	5c796f4b4855980016a15557	Affirmative action is the main subject.	3	Neutral, or not enough information	aa_opeds_sample/txt/408354994.xml.txt
+2	aa_opeds_sample/txt/2778538694.xml.txt	5c796f4b4855980016a15557	Affirmative action is mentioned, but is not the main subject	1	Strongly against	aa_opeds_sample/txt/2778538694.xml.txt
+2	aa_opeds_sample/txt/431248074.xml.txt	5c796f4b4855980016a15557	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/431248074.xml.txt
+3	aa_opeds_sample/txt/2765919087.xml.txt	5c796f4b4855980016a15557	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/2765919087.xml.txt
+3	aa_opeds_sample/txt/408485014.xml.txt	5c796f4b4855980016a15557	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/408485014.xml.txt
+2	aa_opeds_sample/txt/424669038.xml.txt	5c796f4b4855980016a15557	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/424669038.xml.txt
+2	aa_opeds_sample/txt/420557855.xml.txt	63d00077cc15749d84f2a41f	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/420557855.xml.txt
+2	aa_opeds_sample/txt/408654746.xml.txt	63d00077cc15749d84f2a41f	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/408654746.xml.txt
+2	aa_opeds_sample/txt/432405735.xml.txt	63d00077cc15749d84f2a41f	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/432405735.xml.txt
+2	aa_opeds_sample/txt/398630711.xml.txt	63d00077cc15749d84f2a41f	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/398630711.xml.txt
+2	aa_opeds_sample/txt/2233007997.xml.txt	63d00077cc15749d84f2a41f	Affirmative action is mentioned, but is not the main subject	1	Strongly against	aa_opeds_sample/txt/2233007997.xml.txt
+1	aa_opeds_sample/txt/2628908360.xml.txt	63d00077cc15749d84f2a41f	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/2628908360.xml.txt
+1	aa_opeds_sample/txt/2432777796.xml.txt	63d00077cc15749d84f2a41f	Affirmative action is the main subject.	3	Neutral, or not enough information	aa_opeds_sample/txt/2432777796.xml.txt
+1	aa_opeds_sample/txt/418395424.xml.txt	63d00077cc15749d84f2a41f	Affirmative action is the main subject.	3	Neutral, or not enough information	aa_opeds_sample/txt/418395424.xml.txt
+2	aa_opeds_sample/txt/421214771.xml.txt	63d00077cc15749d84f2a41f	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/421214771.xml.txt
+1	aa_opeds_sample/txt/398469346.xml.txt	63d00077cc15749d84f2a41f	Affirmative action is the main subject.	3	Neutral, or not enough information	aa_opeds_sample/txt/398469346.xml.txt
+1	aa_opeds_sample/txt/409129544.xml.txt	650cbbfec37399108c60a734	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/409129544.xml.txt
+1	aa_opeds_sample/txt/2248215580.xml.txt	650cbbfec37399108c60a734	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/2248215580.xml.txt
+2	aa_opeds_sample/txt/418468651.xml.txt	650cbbfec37399108c60a734	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/418468651.xml.txt
+2	aa_opeds_sample/txt/2452692303.xml.txt	650cbbfec37399108c60a734	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2452692303.xml.txt
+2	aa_opeds_sample/txt/1099415355.xml.txt	650cbbfec37399108c60a734	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1099415355.xml.txt
+1	aa_opeds_sample/txt/432419685.xml.txt	650cbbfec37399108c60a734	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/432419685.xml.txt
+1	aa_opeds_sample/txt/398787032.xml.txt	650cbbfec37399108c60a734	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/398787032.xml.txt
+2	aa_opeds_sample/txt/421525331.xml.txt	650cbbfec37399108c60a734	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/421525331.xml.txt
+3	aa_opeds_sample/txt/2216641847.xml.txt	650cbbfec37399108c60a734	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/2216641847.xml.txt
+1	aa_opeds_sample/txt/2633115690.xml.txt	650cbbfec37399108c60a734	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/2633115690.xml.txt
+2	aa_opeds_sample/txt/1667204395.xml.txt	5ca3ccae7958d0001689df68	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1667204395.xml.txt
+2	aa_opeds_sample/txt/2444131672.xml.txt	5ca3ccae7958d0001689df68	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/2444131672.xml.txt
+2	aa_opeds_sample/txt/409790149.xml.txt	5ca3ccae7958d0001689df68	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/409790149.xml.txt
+3	aa_opeds_sample/txt/2138443158.xml.txt	5ca3ccae7958d0001689df68	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/2138443158.xml.txt
+1	aa_opeds_sample/txt/432374988.xml.txt	5ca3ccae7958d0001689df68	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/432374988.xml.txt
+1	aa_opeds_sample/txt/398530550.xml.txt	5ca3ccae7958d0001689df68	Affirmative action is the main subject.	1	Strongly against	aa_opeds_sample/txt/398530550.xml.txt
+2	aa_opeds_sample/txt/408439658.xml.txt	5ca3ccae7958d0001689df68	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/408439658.xml.txt
+2	aa_opeds_sample/txt/2445858352.xml.txt	5ca3ccae7958d0001689df68	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2445858352.xml.txt
+1	aa_opeds_sample/txt/408354994.xml.txt	5ca3ccae7958d0001689df68	Affirmative action is the main subject.	3	Neutral, or not enough information	aa_opeds_sample/txt/408354994.xml.txt
+2	aa_opeds_sample/txt/427134596.xml.txt	5ca3ccae7958d0001689df68	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/427134596.xml.txt
+2	aa_opeds_sample/txt/408523809.xml.txt	609551c1ade88f8463666fb8	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/408523809.xml.txt
+2	aa_opeds_sample/txt/420906077.xml.txt	609551c1ade88f8463666fb8	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/420906077.xml.txt
+2	aa_opeds_sample/txt/421647247.xml.txt	609551c1ade88f8463666fb8	Affirmative action is mentioned, but is not the main subject	1	Strongly against	aa_opeds_sample/txt/421647247.xml.txt
+3	aa_opeds_sample/txt/1652232593.xml.txt	609551c1ade88f8463666fb8	Affirmative action is not mentioned.	3	Neutral, or not enough information	aa_opeds_sample/txt/1652232593.xml.txt
+2	aa_opeds_sample/txt/2099964529.xml.txt	609551c1ade88f8463666fb8	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2099964529.xml.txt
+2	aa_opeds_sample/txt/2216641847.xml.txt	609551c1ade88f8463666fb8	Affirmative action is mentioned, but is not the main subject	4	Somewhat in favor	aa_opeds_sample/txt/2216641847.xml.txt
+1	aa_opeds_sample/txt/2215402698.xml.txt	609551c1ade88f8463666fb8	Affirmative action is the main subject.	5	Strongly in favor	aa_opeds_sample/txt/2215402698.xml.txt
+2	aa_opeds_sample/txt/293063140.xml.txt	609551c1ade88f8463666fb8	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/293063140.xml.txt
+2	aa_opeds_sample/txt/2469478152.xml.txt	609551c1ade88f8463666fb8	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/2469478152.xml.txt
+2	aa_opeds_sample/txt/1750369183.xml.txt	609551c1ade88f8463666fb8	Affirmative action is mentioned, but is not the main subject	5	Strongly in favor	aa_opeds_sample/txt/1750369183.xml.txt
+1	aa_opeds_sample/txt/418520188.xml.txt	6543cf7e70d56539c9d742b5	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/418520188.xml.txt
+2	aa_opeds_sample/txt/420306539.xml.txt	6543cf7e70d56539c9d742b5	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/420306539.xml.txt
+2	aa_opeds_sample/txt/2682983998.xml.txt	6543cf7e70d56539c9d742b5	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/2682983998.xml.txt
+1	aa_opeds_sample/txt/1014285656.xml.txt	6543cf7e70d56539c9d742b5	Affirmative action is the main subject.	4	Somewhat in favor	aa_opeds_sample/txt/1014285656.xml.txt
+2	aa_opeds_sample/txt/2248215580.xml.txt	6543cf7e70d56539c9d742b5	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/2248215580.xml.txt
+2	aa_opeds_sample/txt/2530287535.xml.txt	6543cf7e70d56539c9d742b5	Affirmative action is mentioned, but is not the main subject	2	Somewhat against	aa_opeds_sample/txt/2530287535.xml.txt
+2	aa_opeds_sample/txt/420116341.xml.txt	6543cf7e70d56539c9d742b5	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/420116341.xml.txt
+2	aa_opeds_sample/txt/1752156404.xml.txt	6543cf7e70d56539c9d742b5	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/1752156404.xml.txt
+1	aa_opeds_sample/txt/432419685.xml.txt	6543cf7e70d56539c9d742b5	Affirmative action is the main subject.	1	Strongly against	aa_opeds_sample/txt/432419685.xml.txt
+2	aa_opeds_sample/txt/398441227.xml.txt	6543cf7e70d56539c9d742b5	Affirmative action is mentioned, but is not the main subject	3	Neutral, or not enough information	aa_opeds_sample/txt/398441227.xml.txt
