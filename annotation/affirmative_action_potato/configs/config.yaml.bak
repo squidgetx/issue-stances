@@ -23,7 +23,7 @@
     "annotation_codebook_url": "https://docs.google.com/document/d/12t1J1PyJQmil5HDt6NkWeBjVuLoIriV4ZuJ1YzEZ7zE/edit?usp=sharing",
 
     "data_files": [
-       "data_files/aa_relabel.json"
+       "data_files/aa_opeds_260.med.json"
     ],
 
     "item_properties": {
@@ -46,16 +46,16 @@
 
     "login": {
         "type": 'url_direct', #can be 'password' or 'url_direct'
-        "url_argument": ['PROLIFIC_PID', 'STUDY_ID'] # when the login type is set to 'url_direct', 'url_argument' must be setup for a direct url argument login
+        "url_argument": 'PROLIFIC_PID' # when the login type is set to 'url_direct', 'url_argument' must be setup for a direct url argument login
     },
 
     "automatic_assignment": {
         "on": True, #whether do automatic task assignment for annotators, default False.
         "output_filename": 'task_assignment.json', #no need to change
-        "sampling_strategy": 'ordered', #currently we support random assignment or ordered assignment. Use 'random' for random assignment and 'ordered' for ordered assignment
-        "labels_per_instance": 2,  #the number of labels for each instance
-        "instance_per_annotator": 6, #the total amount of instances to be assigned to each annotator
-        "test_question_per_annotator": 0, # the number of attention test question to be inserted into the annotation queue. you must set up the test question in surveyflow to use this function
+        "sampling_strategy": 'random', #currently we support random assignment or ordered assignment. Use 'random' for random assignment and 'ordered' for ordered assignment
+        "labels_per_instance": 3,  #the number of labels for each instance
+        "instance_per_annotator": 9, #the total amount of instances to be assigned to each annotator
+        "test_question_per_annotator": 1, # the number of attention test question to be inserted into the annotation queue. you must set up the test question in surveyflow to use this function
     },
 
     # How many seconds do you want the annotators spend on each instance, after
@@ -80,38 +80,30 @@
 
 
     "annotation_schemes": [      
-     
-        {
-            "annotation_type": "radio",
-            "name": "relevance",
-            "description": "Which option better describes to what extent the essay is about affirmative action?",
-            "labels": [
-               "Primary Focus: It is the main focus of the essay.",
-               "Secondary Mention: It is discussed, but the main focus is on another topic.",
-               "Minimal/None: It is mentioned only in passing or not at all."
-            ],
-        },            
+       # {
+       #     "annotation_type": "radio",
+       #     "name": "relevance",
+       #     "description": "To what extent is the issue of affirmative action discussed in the following essay?",
+       #     "labels": [
+       #        "It is the main subject.",
+       #        "It is discussed briefly."
+       #        "It is not discussed."
+       #     ],
+       # },      
+                    
         {
             "annotation_type": "radio",
             "name": "stance",
-            "description": "Based on the text, what is the author's stance toward affirmative action policies?",
+            "description": "What is the text's stance toward affirmative action?",
             "labels": [
-               "Support: It is likely that the author supports them.",
-               "Neutral: The author does not take a particular position on the issue.",
-               "Oppose: It is likely that the author opposes them",
+               "Strongly In Favor: The text focuses on arguing in favor of affirmative action or criticizing its opponents.",
+               "Somewhat In Favor: The author seems to support affirmative action, but it is not the main focus.",
+               "Neutral: The text discusses affirmative action without taking a particular position on the issue",
+               "Somewhat Against: The author seems against affirmative action, but it is not the main focus.",
+               "Strongly Against: The text focuses on arguing against affirmative action or criticizing its supporters.",
+               "Not Relevant: The text is not about affirmative action.",
             ],
         },      
-        {
-            "annotation_type": "radio",
-            "name": "intensity",
-            "description": "Which option better describes the intensity of the stance toward affirmative action?",
-            "labels": [
-               "Strong: Assertive, emphatic, leaves little room for ambiguity or compromise.",
-               "Moderate: Balanced, reasoned, allows for nuance and possible counterarguments.",
-               "N/A: Select this if the text minimally/did not discuss the issue.",
-            ],
-        },   
-       
     ],
 
     # The html that changes the visualiztation for your task. Change this file
