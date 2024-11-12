@@ -23,7 +23,7 @@
     "annotation_codebook_url": "https://docs.google.com/document/d/12jT3k9p7DYsJKsj0YEoGrPp0uVdPBJstLxiijFhg2u0/",
 
     "data_files": [
-       "data_files/nafta_sample.json"
+       "data_files/relabel.json"
     ],
 
     "item_properties": {
