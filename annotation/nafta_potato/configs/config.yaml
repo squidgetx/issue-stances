@@ -90,7 +90,16 @@
        #        "It is not discussed."
        #     ],
        # },      
-                    
+        {
+            "annotation_type": "radio",
+            "name": "relevance",
+            "description": "Which option better describes to what extent the essay is about free trade?",
+            "labels": [
+               "Primary Focus: Free trade/NAFTA is the main focus of the essay.",
+               "Secondary Mention: Free trade/NAFTA is discussed, but the main focus is on another topic.",
+               "Minimal/None: Free trade/NAFTA is mentioned only in passing or not at all."
+            ],
+        },            
         {
             "annotation_type": "radio",
             "name": "stance",
@@ -104,13 +113,14 @@
         {
             "annotation_type": "radio",
             "name": "intensity",
-            "description": "Which option better describes the intensity of the argument about free trade?",
+            "description": "Which option better describes the intensity of the stance toward free trade?",
             "labels": [
                "Strong: Assertive, emphatic, leaves little room for ambiguity or compromise.",
                "Moderate: Balanced, reasoned, allows for nuance and possible counterarguments.",
-               "N/A: Select this if the text did not discuss free trade.",
+               "N/A: Select this if the text minimally/did not discuss free trade.",
             ],
         },   
+       
     ],
 
     # The html that changes the visualiztation for your task. Change this file
