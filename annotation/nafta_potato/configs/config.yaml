@@ -23,7 +23,7 @@
     "annotation_codebook_url": "https://docs.google.com/document/d/12jT3k9p7DYsJKsj0YEoGrPp0uVdPBJstLxiijFhg2u0/",
 
     "data_files": [
-       "data_files/relabel.json"
+       "data_files/nafta_relabel_2.json"
     ],
 
     "item_properties": {
@@ -53,7 +53,7 @@
         "on": True, #whether do automatic task assignment for annotators, default False.
         "output_filename": 'task_assignment.json', #no need to change
         "sampling_strategy": 'ordered', #currently we support random assignment or ordered assignment. Use 'random' for random assignment and 'ordered' for ordered assignment
-        "labels_per_instance": 2,  #the number of labels for each instance
+        "labels_per_instance": 1,  #the number of labels for each instance
         "instance_per_annotator": 5, #the total amount of instances to be assigned to each annotator
         "test_question_per_annotator": 0, # the number of attention test question to be inserted into the annotation queue. you must set up the test question in surveyflow to use this function
     },
